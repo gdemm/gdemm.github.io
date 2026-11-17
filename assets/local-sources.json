@@ -1,0 +1,47 @@
+[
+  {
+    "file": "habackground.png",
+    "archive": "hanyue:C:/WeGameApps/英雄联盟/Game/DATA/FINAL/Maps/Shipping/Map12.wad.client",
+    "original": "habackground.tex",
+    "dimensions": [
+      1024,
+      512
+    ]
+  },
+  {
+    "file": "structure_lane_ground.png",
+    "archive": "hanyue:C:/WeGameApps/英雄联盟/Game/DATA/FINAL/Maps/Shipping/Map12.wad.client",
+    "original": "structure_lane_ground.tex",
+    "dimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "file": "ha_skybox_01.png",
+    "archive": "hanyue:C:/WeGameApps/英雄联盟/Game/DATA/FINAL/Maps/Shipping/Map12.wad.client",
+    "original": "ha_skybox_01.tex",
+    "dimensions": [
+      2048,
+      2048
+    ]
+  },
+  {
+    "file": "basesnow.png",
+    "archive": "hanyue:C:/WeGameApps/英雄联盟/Game/DATA/FINAL/Maps/Shipping/Map12.wad.client",
+    "original": "basesnow.tex",
+    "dimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "file": "2dlevelminimap.png",
+    "archive": "hanyue:C:/WeGameApps/英雄联盟/Game/DATA/FINAL/Maps/Shipping/Map12.wad.client",
+    "original": "2dlevelminimap.tex",
+    "dimensions": [
+      512,
+      512
+    ]
+  }
+]

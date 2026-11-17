@@ -1,0 +1,64 @@
+[
+  {
+    "archive": "UI.wad.client",
+    "path": "uiautoatlas/clientstates/gameplay/ux/lol/lolpingradial/atlas_0.tex",
+    "file": "be4a200e60612b69.png",
+    "sha256": "15dab144ac2530e76e1d8a6012b330f077a4cc9936419323a4fc8ac52fd17679"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/menu/radialwheel_atlas.tex",
+    "file": "e15671f6fc5b36b0.png",
+    "sha256": "770af188cd40d4c31641918d404305a7abcfff11d3db0f579fd99c03cd7b2b8d"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/menu/contextwheel_atlas.tex",
+    "file": "bbb411c42afd2cc9.png",
+    "sha256": "b33a33a99ae2e29dbb65c617e705270fee04d247dede6a97e7e12cb9e21623a1"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/menu/radialwheel_atlas_2.tex",
+    "file": "01c80ce91a61d412.png",
+    "sha256": "829f711ee8a1c7d0643cf6a08d4e073b1cf9242328734e28d352778cd7266bd1"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/menu/radialwheel_atlas_3.tex",
+    "file": "5579cb347f0af757.png",
+    "sha256": "20a35efaab9be5c3e4186ba4ae539516d92c7ce082eae1951bd52745b4f7129d"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/menu/radialwheelalt_atlas_2.tex",
+    "file": "a583a5977a7c7db0.png",
+    "sha256": "c5938a25940f7f436000cf2ed04112b9bdae0d5601a4d4404dd05fba37256a57"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/menu/radialwheelalt_atlas.tex",
+    "file": "0176e0cdd10d8d89.png",
+    "sha256": "f059bd80582e186e0658f3e957e0dca6140996610dd4e4c60e97717b9d11cfa0"
+  },
+  {
+    "archive": "Global.wad.client",
+    "path": "assets/ux/mastery/legendarychampionmastery/masterycrest_level10.tex",
+    "file": "mastery10.png",
+    "sha256": "df6a576ed93d04b297f4d05ba0266b3525d9d12752f884e20dc46e5c5e5c5e41"
+  },
+  {
+    "archive": "Global.wad.client",
+    "path": "assets/shared/particles/emotes/masteries/mastery_crest_v02/lv10/crest_skin10_tx_cm.tex",
+    "file": "e2e77d121036005e.png",
+    "sha256": "0dc62f6bb2f7d98d8e0afae3dfe6f0e5d0077cbf3fcb3b1b542aeb08b5459b4f"
+  },
+  {
+    "archive": "Global.wad.client",
+    "path": "ASSETS/Shared/Particles/Emotes/Masteries/Mastery_Crest_v02/lv10/Crest_Skin10_01.skn",
+    "skeleton": "ASSETS/Shared/Particles/Emotes/Masteries/Mastery_Crest_v02/lv10/Crest_Skin10_01.skl",
+    "animation": "ASSETS/Shared/Particles/Emotes/Masteries/Mastery_Crest_v02/lv10/Crest_Skin10_Full_Cycle_.anm",
+    "file": "mastery10.glb",
+    "conversion": "existing lol2gltf exporter"
+  }
+]

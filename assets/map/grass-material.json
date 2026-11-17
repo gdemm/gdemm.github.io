@@ -1,0 +1,20 @@
+{
+  "name": "Maps/KitPieces/Howling_Abyss/Base/Materials/Default/Wall_of_Grass",
+  "texture": "ha-brush.png",
+  "tint": [
+    0.6363622546195984,
+    0.6408178806304932,
+    0.7227283120155334,
+    1.0
+  ],
+  "unlit": true,
+  "fog": false,
+  "blend": true,
+  "source": {
+    "archive": "Maps/Shipping/Map12.wad.client",
+    "material": "data/maps/mapgeometry/map12/base.materials.bin",
+    "texture": "assets/maps/kitpieces/ha_bilgewater/textures/ha_brush.tex",
+    "sha256": "0bdb267db0a78ff03e16a3aa6f272a87f0b9959637ab688abcd8b055620e96ea"
+  },
+  "notes": "Grass vertex COLOR_0 is not diffuse lighting; do not multiply the baked brush texture by it. Geometry/UVs are unchanged. Wind/see-through animation is not implemented by this color restoration."
+}

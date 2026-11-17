@@ -1,0 +1,9 @@
+{
+  "source": "UI.wad.client: clientstates/gameplay/ux/itemshop/uibase + gameplay.itemshop.bin + ux/fonts",
+  "sprites": 313,
+  "files": {
+    "shop-uibase.json": "56aab4964f0fca89037d51f66bf720a4e63e511738f0fee85e22f60e2f952a3e",
+    "shop-layout.json": "9f69b824947afde5ae632765b9b938c619eadc740357f3dc19562df82af11ad4",
+    "shop-fonts.json": "1d55e376b1f9a24c4688b482d056540cc30acd9018b9711ad1e81e7230626e35"
+  }
+}

@@ -1,0 +1,1690 @@
+{
+  "textures": [
+    {
+      "archive": "UI.wad.client",
+      "path": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "sha256": "38ba356917b904e4e277afe8087cc8ec22fa3a2b24a31f89623cf66245fbf6f9",
+      "decoded": "atlas-3469d59bc288.png"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_1.tex",
+      "sha256": "fe46a78340536796aa85c656bf77462b7b7172cb84965c3781ec633421bfbe44",
+      "decoded": "atlas-9ab956079c28.png"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/lol/clarity_hudatlas.tex",
+      "sha256": "101e5abf06772d9ff48b29b5127af38b2c40f2ee28b73d58824ac4e259268c7c",
+      "decoded": "../hud/atlas-a4c6abd11507.png"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/cherry/scoreboard/newitemfx.tex",
+      "sha256": "a437ad9c9fea131f5aaa1e26c3365628227570dab1d116c920914d155829a28e",
+      "decoded": "atlas-d6d59bcff5cf.png"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "sha256": "5c6f089cf2232d664e845826596a6e928d3b8f52cca797643e453ec79693f035",
+      "decoded": "atlas-7a9925a49cb8.png"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "sha256": "13a9eadc389a3b17534e5627919743cb66efee01bdb68c38b1bbfaa64dc01cb4",
+      "decoded": "atlas-2ee0870c4542.png"
+    }
+  ],
+  "slices": [
+    {
+      "key": "{000272c5}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{02aaaed9}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{10090613}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{203b714e}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{240fb02a}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        110,
+        2,
+        146,
+        38
+      ],
+      "color": null,
+      "file": "240fb02a.png",
+      "sha256": "b1932577886e64d2ef3fb5fdf89c821adeeb8bbece791c1c1affd9d1ec04b690"
+    },
+    {
+      "key": "{a7167cf9}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_1.tex",
+      "uv": [
+        2,
+        2,
+        34,
+        34
+      ],
+      "color": null,
+      "file": "2c70dfee.png",
+      "sha256": "8597a93bf403cda9d06c3909e87fe56c4303ffdb453fc911155b83636f6f4492"
+    },
+    {
+      "key": "{c1ecbd05}",
+      "source": "assets/ux/cherry/scoreboard/newitemfx.tex",
+      "uv": [
+        0,
+        0,
+        40,
+        40
+      ],
+      "color": null,
+      "file": "84523d44.png",
+      "sha256": "34a530ec97666f3b0a9255b91d8a684e5b36b658424a213b1563efdc3541c4a6"
+    },
+    {
+      "key": "{2f130415}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1145,
+        107,
+        1664,
+        173
+      ],
+      "color": null,
+      "file": "2f130415.png",
+      "sha256": "9e65615d6b42df32031a9531f21c5347ad75fdfc90e24ed7c448bb683e24656f"
+    },
+    {
+      "key": "{33ed7e15}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1577,
+        475,
+        1595,
+        493
+      ],
+      "color": [
+        255,
+        255,
+        255,
+        0
+      ],
+      "file": "33ed7e15.png",
+      "sha256": "d48978eb9d3384f38ff19a26254bd6f9c49d5a15248e96e289182732d8e03636"
+    },
+    {
+      "key": "{4eb117bc}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{6ce2d5c3}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        38,
+        2,
+        68,
+        32
+      ],
+      "color": null,
+      "file": "6ce2d5c3.png",
+      "sha256": "f54c158b1f522e44c4348c1e1a4b1c70dba1e92d2034eb402b26bc53431b44c7"
+    },
+    {
+      "key": "{c7f32cdf}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        74,
+        2,
+        104,
+        32
+      ],
+      "color": null,
+      "file": "8d367bf0.png",
+      "sha256": "1a8bd5e790495286f864f1bc3639436ecea1801433c150c39c83245bc1b18ece"
+    },
+    {
+      "key": "{7788a5ba}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{78daafe6}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        729,
+        366,
+        793,
+        430
+      ],
+      "color": null,
+      "file": "../hud/032bd949.png",
+      "sha256": "cb9f34bb9edd9692adaf48459b64bcf64229a581f5c955d49541d50638f08cbf"
+    },
+    {
+      "key": "{819e0610}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1797,
+        486,
+        1808,
+        498
+      ],
+      "color": null,
+      "file": "819e0610.png",
+      "sha256": "d5d870b09de6692881ed5ae0c31964a411f234634532328a2c9ea013d262717e"
+    },
+    {
+      "key": "{9bc6ff3e}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1605,
+        475,
+        1623,
+        493
+      ],
+      "color": null,
+      "file": "9bc6ff3e.png",
+      "sha256": "01f3a29de53f22d81908f5de586e10c5606c36c39299446d17fbf2643eed9dc6"
+    },
+    {
+      "key": "{9e41fea5}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        370,
+        2,
+        515,
+        84
+      ],
+      "color": null,
+      "file": "8558784d.png",
+      "sha256": "9e5ce62c02d8585a4ecb14999835c1488c4dffd1e7d39c37031c10f0797d34c4"
+    },
+    {
+      "key": "{9f941435}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1632,
+        475,
+        1650,
+        493
+      ],
+      "color": null,
+      "file": "958d951d.png",
+      "sha256": "66dc312c93fb6315fe029b3a417a4180c457e40b3561c01b6fb80c0a11b688e3"
+    },
+    {
+      "key": "{b24acc6d}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        729,
+        366,
+        793,
+        430
+      ],
+      "color": null,
+      "file": "../hud/032bd949.png",
+      "sha256": "cb9f34bb9edd9692adaf48459b64bcf64229a581f5c955d49541d50638f08cbf"
+    },
+    {
+      "key": "{bddc9d8e}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1530,
+        404,
+        1594,
+        465
+      ],
+      "color": null,
+      "file": "36004ad6.png",
+      "sha256": "060d0c16b8dcf0878c3ff7d27b5dd3acde8c42153269565e7bccad07c5667ab9"
+    },
+    {
+      "key": "{cf3964ed}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1146,
+        26,
+        1664,
+        99
+      ],
+      "color": null,
+      "file": "0b91f6a5.png",
+      "sha256": "dca4227600751f5dd4c9903ffc3e58d208eecdfbe7728035df075ee947a8a835"
+    },
+    {
+      "key": "{e29136b0}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1577,
+        475,
+        1595,
+        493
+      ],
+      "color": null,
+      "file": "c0205b08.png",
+      "sha256": "8db17b430f17c494e8b919cf2e878674467af190aaec945534c2d465211379f6"
+    },
+    {
+      "key": "{efb3cfd7}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{f8d9f51a}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1461,
+        404,
+        1525,
+        465
+      ],
+      "color": null,
+      "file": "3510d592.png",
+      "sha256": "d1cb5b181f1a176441e553a25467af1c9c37f2e18340b1c0702eadca50727bb9"
+    },
+    {
+      "key": "{fc79d9a0}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1461,
+        404,
+        1525,
+        465
+      ],
+      "color": null,
+      "file": "3510d592.png",
+      "sha256": "d1cb5b181f1a176441e553a25467af1c9c37f2e18340b1c0702eadca50727bb9"
+    },
+    {
+      "key": "{0b91f6a5}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1146,
+        26,
+        1664,
+        99
+      ],
+      "color": null,
+      "file": "0b91f6a5.png",
+      "sha256": "dca4227600751f5dd4c9903ffc3e58d208eecdfbe7728035df075ee947a8a835"
+    },
+    {
+      "key": "{17d6bd7d}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{2c70dfee}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_1.tex",
+      "uv": [
+        2,
+        2,
+        34,
+        34
+      ],
+      "color": null,
+      "file": "2c70dfee.png",
+      "sha256": "8597a93bf403cda9d06c3909e87fe56c4303ffdb453fc911155b83636f6f4492"
+    },
+    {
+      "key": "{2f8f6ff5}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        110,
+        2,
+        146,
+        38
+      ],
+      "color": null,
+      "file": "240fb02a.png",
+      "sha256": "b1932577886e64d2ef3fb5fdf89c821adeeb8bbece791c1c1affd9d1ec04b690"
+    },
+    {
+      "key": "{84523d44}",
+      "source": "assets/ux/cherry/scoreboard/newitemfx.tex",
+      "uv": [
+        0,
+        0,
+        40,
+        40
+      ],
+      "color": null,
+      "file": "84523d44.png",
+      "sha256": "34a530ec97666f3b0a9255b91d8a684e5b36b658424a213b1563efdc3541c4a6"
+    },
+    {
+      "key": "{3510d592}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1461,
+        404,
+        1525,
+        465
+      ],
+      "color": null,
+      "file": "3510d592.png",
+      "sha256": "d1cb5b181f1a176441e553a25467af1c9c37f2e18340b1c0702eadca50727bb9"
+    },
+    {
+      "key": "{36004ad6}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1530,
+        404,
+        1594,
+        465
+      ],
+      "color": null,
+      "file": "36004ad6.png",
+      "sha256": "060d0c16b8dcf0878c3ff7d27b5dd3acde8c42153269565e7bccad07c5667ab9"
+    },
+    {
+      "key": "{51478814}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{8d367bf0}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        74,
+        2,
+        104,
+        32
+      ],
+      "color": null,
+      "file": "8d367bf0.png",
+      "sha256": "1a8bd5e790495286f864f1bc3639436ecea1801433c150c39c83245bc1b18ece"
+    },
+    {
+      "key": "{d2d98eaa}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        38,
+        2,
+        68,
+        32
+      ],
+      "color": null,
+      "file": "6ce2d5c3.png",
+      "sha256": "f54c158b1f522e44c4348c1e1a4b1c70dba1e92d2034eb402b26bc53431b44c7"
+    },
+    {
+      "key": "{70ec7fcf}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{787ed37d}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1577,
+        475,
+        1595,
+        493
+      ],
+      "color": [
+        255,
+        255,
+        255,
+        0
+      ],
+      "file": "33ed7e15.png",
+      "sha256": "d48978eb9d3384f38ff19a26254bd6f9c49d5a15248e96e289182732d8e03636"
+    },
+    {
+      "key": "{7c85c286}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{807ed40e}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        729,
+        366,
+        793,
+        430
+      ],
+      "color": null,
+      "file": "../hud/032bd949.png",
+      "sha256": "cb9f34bb9edd9692adaf48459b64bcf64229a581f5c955d49541d50638f08cbf"
+    },
+    {
+      "key": "{8468af6b}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{8558784d}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        370,
+        2,
+        515,
+        84
+      ],
+      "color": null,
+      "file": "8558784d.png",
+      "sha256": "9e5ce62c02d8585a4ecb14999835c1488c4dffd1e7d39c37031c10f0797d34c4"
+    },
+    {
+      "key": "{958d951d}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1632,
+        475,
+        1650,
+        493
+      ],
+      "color": null,
+      "file": "958d951d.png",
+      "sha256": "66dc312c93fb6315fe029b3a417a4180c457e40b3561c01b6fb80c0a11b688e3"
+    },
+    {
+      "key": "{9e2c9075}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        729,
+        366,
+        793,
+        430
+      ],
+      "color": null,
+      "file": "../hud/032bd949.png",
+      "sha256": "cb9f34bb9edd9692adaf48459b64bcf64229a581f5c955d49541d50638f08cbf"
+    },
+    {
+      "key": "{a2da46f2}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{b34ce0f8}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1797,
+        486,
+        1808,
+        498
+      ],
+      "color": null,
+      "file": "819e0610.png",
+      "sha256": "d5d870b09de6692881ed5ae0c31964a411f234634532328a2c9ea013d262717e"
+    },
+    {
+      "key": "{c0205b08}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1577,
+        475,
+        1595,
+        493
+      ],
+      "color": null,
+      "file": "c0205b08.png",
+      "sha256": "8db17b430f17c494e8b919cf2e878674467af190aaec945534c2d465211379f6"
+    },
+    {
+      "key": "{c62df67d}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1145,
+        107,
+        1664,
+        173
+      ],
+      "color": null,
+      "file": "2f130415.png",
+      "sha256": "9e65615d6b42df32031a9531f21c5347ad75fdfc90e24ed7c448bb683e24656f"
+    },
+    {
+      "key": "{dc5d14e8}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1461,
+        404,
+        1525,
+        465
+      ],
+      "color": null,
+      "file": "3510d592.png",
+      "sha256": "d1cb5b181f1a176441e553a25467af1c9c37f2e18340b1c0702eadca50727bb9"
+    },
+    {
+      "key": "{f5ddd0f1}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        970,
+        431,
+        1020,
+        481
+      ],
+      "color": null,
+      "file": "../hud/65d0877f.png",
+      "sha256": "289156d253c377082d91319bfb694f793a74bfb93ce84b376ec56b65685b3994"
+    },
+    {
+      "key": "{f78c99c6}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1605,
+        475,
+        1623,
+        493
+      ],
+      "color": null,
+      "file": "9bc6ff3e.png",
+      "sha256": "01f3a29de53f22d81908f5de586e10c5606c36c39299446d17fbf2643eed9dc6"
+    },
+    {
+      "key": "{04684f82}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        935,
+        305,
+        955,
+        324
+      ],
+      "color": null,
+      "file": "04684f82.png",
+      "sha256": "4fe30622e130485e4a87dc27cbe8226e46a194fdcf96d8bc9602dd578066d142"
+    },
+    {
+      "key": "{0e6d9cd0}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1780,
+        16,
+        1828,
+        61
+      ],
+      "color": null,
+      "file": "0e6d9cd0.png",
+      "sha256": "58c0c80ae72d209529ba2a140e4c62043e4c5f697dc400379e8433b287e5511e"
+    },
+    {
+      "key": "{5377a9b1}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1838,
+        15,
+        1870,
+        63
+      ],
+      "color": null,
+      "file": "5377a9b1.png",
+      "sha256": "e7f681b3ed2c60133f2d06957000ab431c5c3b4acda7fd4c555a37265841f59c"
+    },
+    {
+      "key": "{58c46c1b}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1780,
+        16,
+        1828,
+        61
+      ],
+      "color": null,
+      "file": "0e6d9cd0.png",
+      "sha256": "58c0c80ae72d209529ba2a140e4c62043e4c5f697dc400379e8433b287e5511e"
+    },
+    {
+      "key": "{1d5a1736}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        150,
+        2,
+        214,
+        66
+      ],
+      "color": null,
+      "file": "1d5a1736.png",
+      "sha256": "e934874f006fa6f1fe64d5b2334800f99b5271066fd595b1972106ff2874d188"
+    },
+    {
+      "key": "{45dead51}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1726,
+        15,
+        1774,
+        63
+      ],
+      "color": null,
+      "file": "45dead51.png",
+      "sha256": "83b7d9217ffdca1584bff25941a6cc66d74777a6c499a7ec2a383a09bfd61c18"
+    },
+    {
+      "key": "{fa7fee32}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        2,
+        2,
+        32,
+        32
+      ],
+      "color": null,
+      "file": "4e405efd.png",
+      "sha256": "c0e8f29febfe8fa18bd18a38bbee81b63810c00c3a70c3c3b38c43980ce92125"
+    },
+    {
+      "key": "{35c08ef9}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        150,
+        2,
+        214,
+        66
+      ],
+      "color": null,
+      "file": "1d5a1736.png",
+      "sha256": "e934874f006fa6f1fe64d5b2334800f99b5271066fd595b1972106ff2874d188"
+    },
+    {
+      "key": "{c5fc1252}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1838,
+        15,
+        1870,
+        63
+      ],
+      "color": null,
+      "file": "5377a9b1.png",
+      "sha256": "e7f681b3ed2c60133f2d06957000ab431c5c3b4acda7fd4c555a37265841f59c"
+    },
+    {
+      "key": "{4e405efd}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        2,
+        2,
+        32,
+        32
+      ],
+      "color": null,
+      "file": "4e405efd.png",
+      "sha256": "c0e8f29febfe8fa18bd18a38bbee81b63810c00c3a70c3c3b38c43980ce92125"
+    },
+    {
+      "key": "{45ad71d7}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1676,
+        16,
+        1724,
+        64
+      ],
+      "color": null,
+      "file": "45ad71d7.png",
+      "sha256": "d94a14fb5edf5115bb489a83336884d912a071c63b65c6944a17f38c92d7e0f1"
+    },
+    {
+      "key": "{97a1868a}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1676,
+        16,
+        1724,
+        64
+      ],
+      "color": null,
+      "file": "45ad71d7.png",
+      "sha256": "d94a14fb5edf5115bb489a83336884d912a071c63b65c6944a17f38c92d7e0f1"
+    },
+    {
+      "key": "{92ab6d0c}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1726,
+        15,
+        1774,
+        63
+      ],
+      "color": null,
+      "file": "45dead51.png",
+      "sha256": "83b7d9217ffdca1584bff25941a6cc66d74777a6c499a7ec2a383a09bfd61c18"
+    },
+    {
+      "key": "{c69d943f}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        978,
+        302,
+        999,
+        327
+      ],
+      "color": null,
+      "file": "c69d943f.png",
+      "sha256": "72a3a1baebaff536dd6f21bcb57d188cfc7a420a500731b2eff9e2fe23ae5fc7"
+    },
+    {
+      "key": "{c79d95d2}",
+      "source": "assets/ux/lol/clarity_hudatlas.tex",
+      "uv": [
+        978,
+        302,
+        999,
+        327
+      ],
+      "color": null,
+      "file": "c69d943f.png",
+      "sha256": "72a3a1baebaff536dd6f21bcb57d188cfc7a420a500731b2eff9e2fe23ae5fc7"
+    },
+    {
+      "key": "{2e5a19fa}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        284,
+        967,
+        304
+      ],
+      "color": null,
+      "file": "2e5a19fa.png",
+      "sha256": "046e9fb7570561a5b97e3defe2da038080ce9fd7fa37d6a7998ddbf93dd3de1d"
+    },
+    {
+      "key": "{734785f8}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        309,
+        967,
+        329
+      ],
+      "color": null,
+      "file": "734785f8.png",
+      "sha256": "5a097f128ae2627cf0640952829b467a8858dba7950d773720b126b4a5ef0054"
+    },
+    {
+      "key": "{a8678175}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        284,
+        943,
+        304
+      ],
+      "color": null,
+      "file": "a8678175.png",
+      "sha256": "a77ae024d092f8e777e6b13c03b7143ed90714a9ec7415b8daf1ab12d72b26b5"
+    },
+    {
+      "key": "{aa487f11}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        284,
+        991,
+        304
+      ],
+      "color": null,
+      "file": "4f43c2a0.png",
+      "sha256": "20dbb9b1cfc0ab12c57c6fb50f5a2497df9d91e9e29c33a2ff23798f80fa1c38"
+    },
+    {
+      "key": "{c934a9a7}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        309,
+        991,
+        329
+      ],
+      "color": null,
+      "file": "68bca39c.png",
+      "sha256": "ddaaa1082b685307587c0ca9322954708013396bb5e8ac65eab2344705e4bb7a"
+    },
+    {
+      "key": "{f455aedb}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        309,
+        943,
+        329
+      ],
+      "color": null,
+      "file": "1f402554.png",
+      "sha256": "19015e957685e48ade29b797401666be57ad9fe9447eb7ac90bc190e0f418e96"
+    },
+    {
+      "key": "{0e6a6155}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        434,
+        943,
+        454
+      ],
+      "color": null,
+      "file": "0e6a6155.png",
+      "sha256": "9c09c5db4ed7876e09223f8cba4e6797f8d32036a3c8945b340a9311e8f12c9d"
+    },
+    {
+      "key": "{457562da}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        434,
+        967,
+        454
+      ],
+      "color": null,
+      "file": "3f60a499.png",
+      "sha256": "ccc986e05b61283c2c6e8bedd38a36f77030d5d78e55435ffbda28357b2442c5"
+    },
+    {
+      "key": "{762dbc58}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        459,
+        967,
+        479
+      ],
+      "color": null,
+      "file": "762dbc58.png",
+      "sha256": "2aed77031af2a9e5941fde024bb44b710042e5bba9614641f903254c42234b98"
+    },
+    {
+      "key": "{9f20c007}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        459,
+        991,
+        479
+      ],
+      "color": null,
+      "file": "9f20c007.png",
+      "sha256": "07f7e64742c0254e7245f52e0cb1c6f5a815cb78e8eb024604c67514a7d96b89"
+    },
+    {
+      "key": "{b518b8f1}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        434,
+        991,
+        454
+      ],
+      "color": null,
+      "file": "b518b8f1.png",
+      "sha256": "3b79ee09ed257919f088165481579c6b5893e5da465deafc7d67a82bbc37a7c6"
+    },
+    {
+      "key": "{c7c75c3b}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        459,
+        943,
+        479
+      ],
+      "color": null,
+      "file": "c7c75c3b.png",
+      "sha256": "e2f5c57aac96d1302a3f70527074cc24f772d508230b70a104a9aa1239a65d36"
+    },
+    {
+      "key": "{2003a825}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        384,
+        991,
+        404
+      ],
+      "color": null,
+      "file": "2003a825.png",
+      "sha256": "cab41ecd50aa4f835c1d6e489dfb8b8eefc604ad506b36b27ce4851696f95dd7"
+    },
+    {
+      "key": "{25617597}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        384,
+        943,
+        404
+      ],
+      "color": null,
+      "file": "25617597.png",
+      "sha256": "058c46b5fa175dbab5c3eabe6a37eea50abb3ba80cc24c0cc189117a7a456783"
+    },
+    {
+      "key": "{431ffb51}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        384,
+        943,
+        404
+      ],
+      "color": null,
+      "file": "25617597.png",
+      "sha256": "058c46b5fa175dbab5c3eabe6a37eea50abb3ba80cc24c0cc189117a7a456783"
+    },
+    {
+      "key": "{9a5a31bc}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        384,
+        967,
+        404
+      ],
+      "color": null,
+      "file": "6a04cb7d.png",
+      "sha256": "1b13dda7dc540673cf460bc239ba1baae9fe3a816af81a31706f51af8015e76f"
+    },
+    {
+      "key": "{c093dadb}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        384,
+        991,
+        404
+      ],
+      "color": null,
+      "file": "2003a825.png",
+      "sha256": "cab41ecd50aa4f835c1d6e489dfb8b8eefc604ad506b36b27ce4851696f95dd7"
+    },
+    {
+      "key": "{dec5835e}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        384,
+        967,
+        404
+      ],
+      "color": null,
+      "file": "6a04cb7d.png",
+      "sha256": "1b13dda7dc540673cf460bc239ba1baae9fe3a816af81a31706f51af8015e76f"
+    },
+    {
+      "key": "{34d82e7e}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        334,
+        967,
+        354
+      ],
+      "color": null,
+      "file": "34d82e7e.png",
+      "sha256": "13aa167691be0d057edf2634263398257f2ada4a12401d2fd8bf7e9601d84a8e"
+    },
+    {
+      "key": "{4558ec37}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        359,
+        943,
+        379
+      ],
+      "color": null,
+      "file": "4558ec37.png",
+      "sha256": "84a7fe74a155ae43e7ac550e96966a929ac158004cbaacc56fcf284ee8b955ae"
+    },
+    {
+      "key": "{8f3d1a7b}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        359,
+        991,
+        379
+      ],
+      "color": null,
+      "file": "8f3d1a7b.png",
+      "sha256": "8181c729b90f06985a21110ed177cda99333d456dbdbbde62325a6d8b3124a60"
+    },
+    {
+      "key": "{9cf8aa71}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        334,
+        943,
+        354
+      ],
+      "color": null,
+      "file": "9cf8aa71.png",
+      "sha256": "051bba9388a7dfec7e12156bbf1270d92a1c6db71fd71a3996fea88fa0d4e1bc"
+    },
+    {
+      "key": "{c354355c}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        359,
+        967,
+        379
+      ],
+      "color": null,
+      "file": "c354355c.png",
+      "sha256": "07faec05654c5ade416931c937e4f102f3ebbb9ddfffe020ad7d05fc4ee0268c"
+    },
+    {
+      "key": "{d2930145}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        334,
+        991,
+        354
+      ],
+      "color": null,
+      "file": "d2930145.png",
+      "sha256": "6c2ad2aa92171ab35b9ffad2415ee787772036ce0d0d4915555a985ddc63cbda"
+    },
+    {
+      "key": "{b9cd428d}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        254,
+        947,
+        278
+      ],
+      "color": null,
+      "file": "b67d8fb5.png",
+      "sha256": "25776b324444d0493b2a7308b7a349dea82112a5dd95d0de559fadf3678df50f"
+    },
+    {
+      "key": "{3440d17e}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        384,
+        991,
+        404
+      ],
+      "color": null,
+      "file": "2003a825.png",
+      "sha256": "cab41ecd50aa4f835c1d6e489dfb8b8eefc604ad506b36b27ce4851696f95dd7"
+    },
+    {
+      "key": "{43a6fe62}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        384,
+        943,
+        404
+      ],
+      "color": null,
+      "file": "25617597.png",
+      "sha256": "058c46b5fa175dbab5c3eabe6a37eea50abb3ba80cc24c0cc189117a7a456783"
+    },
+    {
+      "key": "{6a04cb7d}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        384,
+        967,
+        404
+      ],
+      "color": null,
+      "file": "6a04cb7d.png",
+      "sha256": "1b13dda7dc540673cf460bc239ba1baae9fe3a816af81a31706f51af8015e76f"
+    },
+    {
+      "key": "{7227baae}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        384,
+        943,
+        404
+      ],
+      "color": null,
+      "file": "25617597.png",
+      "sha256": "058c46b5fa175dbab5c3eabe6a37eea50abb3ba80cc24c0cc189117a7a456783"
+    },
+    {
+      "key": "{ae26a369}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        384,
+        967,
+        404
+      ],
+      "color": null,
+      "file": "6a04cb7d.png",
+      "sha256": "1b13dda7dc540673cf460bc239ba1baae9fe3a816af81a31706f51af8015e76f"
+    },
+    {
+      "key": "{c93d1e9a}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        384,
+        991,
+        404
+      ],
+      "color": null,
+      "file": "2003a825.png",
+      "sha256": "cab41ecd50aa4f835c1d6e489dfb8b8eefc604ad506b36b27ce4851696f95dd7"
+    },
+    {
+      "key": "{9abc72a5}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        334,
+        967,
+        354
+      ],
+      "color": null,
+      "file": "34d82e7e.png",
+      "sha256": "13aa167691be0d057edf2634263398257f2ada4a12401d2fd8bf7e9601d84a8e"
+    },
+    {
+      "key": "{bed03022}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        359,
+        943,
+        379
+      ],
+      "color": null,
+      "file": "4558ec37.png",
+      "sha256": "84a7fe74a155ae43e7ac550e96966a929ac158004cbaacc56fcf284ee8b955ae"
+    },
+    {
+      "key": "{bfb6705a}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        359,
+        991,
+        379
+      ],
+      "color": null,
+      "file": "8f3d1a7b.png",
+      "sha256": "8181c729b90f06985a21110ed177cda99333d456dbdbbde62325a6d8b3124a60"
+    },
+    {
+      "key": "{cfe503c6}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        334,
+        943,
+        354
+      ],
+      "color": null,
+      "file": "9cf8aa71.png",
+      "sha256": "051bba9388a7dfec7e12156bbf1270d92a1c6db71fd71a3996fea88fa0d4e1bc"
+    },
+    {
+      "key": "{ed1a86f6}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        334,
+        991,
+        354
+      ],
+      "color": null,
+      "file": "d2930145.png",
+      "sha256": "6c2ad2aa92171ab35b9ffad2415ee787772036ce0d0d4915555a985ddc63cbda"
+    },
+    {
+      "key": "{f7a35e29}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        359,
+        967,
+        379
+      ],
+      "color": null,
+      "file": "c354355c.png",
+      "sha256": "07faec05654c5ade416931c937e4f102f3ebbb9ddfffe020ad7d05fc4ee0268c"
+    },
+    {
+      "key": "{1f402554}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        309,
+        943,
+        329
+      ],
+      "color": null,
+      "file": "1f402554.png",
+      "sha256": "19015e957685e48ade29b797401666be57ad9fe9447eb7ac90bc190e0f418e96"
+    },
+    {
+      "key": "{40217bb7}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        284,
+        967,
+        304
+      ],
+      "color": null,
+      "file": "2e5a19fa.png",
+      "sha256": "046e9fb7570561a5b97e3defe2da038080ce9fd7fa37d6a7998ddbf93dd3de1d"
+    },
+    {
+      "key": "{4f43c2a0}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        284,
+        991,
+        304
+      ],
+      "color": null,
+      "file": "4f43c2a0.png",
+      "sha256": "20dbb9b1cfc0ab12c57c6fb50f5a2497df9d91e9e29c33a2ff23798f80fa1c38"
+    },
+    {
+      "key": "{68bca39c}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        309,
+        991,
+        329
+      ],
+      "color": null,
+      "file": "68bca39c.png",
+      "sha256": "ddaaa1082b685307587c0ca9322954708013396bb5e8ac65eab2344705e4bb7a"
+    },
+    {
+      "key": "{7d2365d3}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        309,
+        967,
+        329
+      ],
+      "color": null,
+      "file": "734785f8.png",
+      "sha256": "5a097f128ae2627cf0640952829b467a8858dba7950d773720b126b4a5ef0054"
+    },
+    {
+      "key": "{c1912b90}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        284,
+        943,
+        304
+      ],
+      "color": null,
+      "file": "a8678175.png",
+      "sha256": "a77ae024d092f8e777e6b13c03b7143ed90714a9ec7415b8daf1ab12d72b26b5"
+    },
+    {
+      "key": "{3f60a499}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        434,
+        967,
+        454
+      ],
+      "color": null,
+      "file": "3f60a499.png",
+      "sha256": "ccc986e05b61283c2c6e8bedd38a36f77030d5d78e55435ffbda28357b2442c5"
+    },
+    {
+      "key": "{9ed6ec0d}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        947,
+        459,
+        967,
+        479
+      ],
+      "color": null,
+      "file": "762dbc58.png",
+      "sha256": "2aed77031af2a9e5941fde024bb44b710042e5bba9614641f903254c42234b98"
+    },
+    {
+      "key": "{acabfb52}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        434,
+        943,
+        454
+      ],
+      "color": null,
+      "file": "0e6a6155.png",
+      "sha256": "9c09c5db4ed7876e09223f8cba4e6797f8d32036a3c8945b340a9311e8f12c9d"
+    },
+    {
+      "key": "{b341630e}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        459,
+        991,
+        479
+      ],
+      "color": null,
+      "file": "9f20c007.png",
+      "sha256": "07f7e64742c0254e7245f52e0cb1c6f5a815cb78e8eb024604c67514a7d96b89"
+    },
+    {
+      "key": "{b57e24ca}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        971,
+        434,
+        991,
+        454
+      ],
+      "color": null,
+      "file": "b518b8f1.png",
+      "sha256": "3b79ee09ed257919f088165481579c6b5893e5da465deafc7d67a82bbc37a7c6"
+    },
+    {
+      "key": "{d2f3c7be}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        459,
+        943,
+        479
+      ],
+      "color": null,
+      "file": "c7c75c3b.png",
+      "sha256": "e2f5c57aac96d1302a3f70527074cc24f772d508230b70a104a9aa1239a65d36"
+    },
+    {
+      "key": "{b67d8fb5}",
+      "source": "assets/ux/playerbehavior/playerbehavioratlas.tex",
+      "uv": [
+        923,
+        254,
+        947,
+        278
+      ],
+      "color": null,
+      "file": "b67d8fb5.png",
+      "sha256": "25776b324444d0493b2a7308b7a349dea82112a5dd95d0de559fadf3678df50f"
+    },
+    {
+      "key": "{064cc3c0}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1136,
+        325,
+        1651,
+        392
+      ],
+      "color": null,
+      "file": "064cc3c0.png",
+      "sha256": "d55cefd26aca544e59370a6f9283e251289a43f10958fecfb29e1a83138c81d7"
+    },
+    {
+      "key": "{65d0e877}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1136,
+        325,
+        1651,
+        392
+      ],
+      "color": null,
+      "file": "064cc3c0.png",
+      "sha256": "d55cefd26aca544e59370a6f9283e251289a43f10958fecfb29e1a83138c81d7"
+    },
+    {
+      "key": "{2dae6057}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1145,
+        209,
+        1677,
+        210
+      ],
+      "color": null,
+      "file": "2dae6057.png",
+      "sha256": "3d929393b002df334cf45380b72d37667ec1dcd9e1ea1846938d1a9cc24b3aa1"
+    },
+    {
+      "key": "{6999579b}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1145,
+        189,
+        1677,
+        190
+      ],
+      "color": null,
+      "file": "6999579b.png",
+      "sha256": "5c44bb0921112dafac942ea6b856d7db021c9eed49181e0f340087ed08e97c02"
+    },
+    {
+      "key": "{6a6bd666}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1145,
+        179,
+        1677,
+        180
+      ],
+      "color": null,
+      "file": "6a6bd666.png",
+      "sha256": "29febcb6d40be4b5bc9e7a3e3d9ce58ab88c8df6195ff09c3dbf42ebede44709"
+    },
+    {
+      "key": "{802fe068}",
+      "source": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiscoreboard/atlas_0.tex",
+      "uv": [
+        2,
+        90,
+        1528,
+        607
+      ],
+      "color": null,
+      "file": "802fe068.png",
+      "sha256": "bb5ed5b805bf93c436595209ccc9ffd5780d4441a4c7cec6ad31a1fdc5a5a604"
+    },
+    {
+      "key": "{d163ee5c}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1672,
+        428,
+        1717,
+        448
+      ],
+      "color": null,
+      "file": "d163ee5c.png",
+      "sha256": "bc17c75ef54fd32a3671cc3633d0d91a5285e15b59fcc8d51412806d9199b0ae"
+    },
+    {
+      "key": "{f6a0bb0a}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1145,
+        199,
+        1677,
+        200
+      ],
+      "color": null,
+      "file": "f6a0bb0a.png",
+      "sha256": "379fcafc837735296edcafad286800c7434a145a62f42b442500b5566da35035"
+    },
+    {
+      "key": "{c531cfd2}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1207,
+        400,
+        1435,
+        480
+      ],
+      "color": null,
+      "file": "c531cfd2.png",
+      "sha256": "6fc42c5408e746041edd5dcfc8f6b108a132cae166569886a76999503656c67b"
+    },
+    {
+      "key": "{866b3e95}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1132,
+        400,
+        1207,
+        480
+      ],
+      "color": null,
+      "file": "866b3e95.png",
+      "sha256": "d9ba3b1cb5703a9c3bdfc31c33b7f8e2171f768df5edecd41281e10b9f7c8267"
+    },
+    {
+      "key": "{8ea57e8d}",
+      "source": "assets/ux/scoreboard/scoreboardatlas.tex",
+      "uv": [
+        1435,
+        400,
+        1456,
+        480
+      ],
+      "color": null,
+      "file": "8ea57e8d.png",
+      "sha256": "d747f202f63ffe79035f48edfda44558c3d26e867c7c68d2d31770d19a5350d5"
+    }
+  ]
+}

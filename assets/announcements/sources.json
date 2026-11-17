@@ -1,0 +1,42 @@
+{
+  "textures": [
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/announcements/announcementicons.tex",
+      "file": "ea2e427ce3c4b5c9.png",
+      "sha256": "74280c5c4044cf152878604b3a28bae446007bd8ab47d271c9f8634cf2453468"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/announcements/dragon_circle.tex",
+      "file": "8db97971b6a970f1.png",
+      "sha256": "2500055eefec2fa7c93aa6c0c54db91eb1c1128172fbac2a36508c9fb8bbecc3"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/announcements/sru_voidgrub_circle.tex",
+      "file": "f3131d5b95beefa6.png",
+      "sha256": "548a64196491ca1bbe3202f578b13230fef2bce0115b22d84470620ce250bf4c"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/announcements/sruriftherald_circle.tex",
+      "file": "ce508bcf8686d4c5.png",
+      "sha256": "112751733252ba1ced3359bed6bf34252df2c857955b7e655e1bd9dc5c14c8c1"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/announcements/baron_circle.tex",
+      "file": "cfe0a7eb8ba4f014.png",
+      "sha256": "a14bab5b9eea2b72575a40cb1a898d219d62b5bda33fb24cc1e4c900e3f1df8a"
+    },
+    {
+      "archive": "UI.wad.client",
+      "path": "assets/ux/fonts/announcementtexture.tex",
+      "file": "3ee6a3f6e1f9b746.png",
+      "sha256": "74a60e0d418206044051d4f40a80bbfde7682a372d25f114b529b09aff30e964"
+    }
+  ],
+  "font": "assets/ux/fonts/FZDHTK.TTF",
+  "layout": "UI.wad.client: gameplay.announcementbanners.bin + ClassicBase + assets/ux/announcements/announcementicons.tex; zh_CN lol.stringtable"
+}

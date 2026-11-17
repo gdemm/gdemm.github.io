@@ -1,0 +1,1852 @@
+{
+  "Ashe": {
+    "url": "assets/models/Ashe.glb",
+    "compressedUrl": "assets/models/Ashe.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "ashe_base_2011_MD_lambert2SG1"
+    ],
+    "bytes": 5194884,
+    "compressedBytes": 1213689,
+    "sha256": "35dc83620814ab8de772ba9119c9a89a950bc19c36f43c81be9db40c2d9e6e6d",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Ashe.wad.client",
+      "skn": "assets/characters/ashe/skins/base/ashe.skn",
+      "skl": "assets/characters/ashe/skins/base/ashe.skl",
+      "textures": [
+        "assets/characters/ashe/skins/base/ashe_base_2011_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ashe/skins/base/animations/ashe_idle1.anm",
+        "run": "assets/characters/ashe/skins/base/animations/ashe_run.anm",
+        "attack": "assets/characters/ashe/skins/base/animations/ashe_attack1.anm",
+        "q": "assets/characters/ashe/skins/base/animations/ashe_spell1.anm",
+        "w": "assets/characters/ashe/skins/base/animations/ashe_spell2.anm",
+        "e": "assets/characters/ashe/skins/base/animations/ashe_spell3.anm",
+        "death": "assets/characters/ashe/skins/base/animations/ashe_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Lux": {
+    "url": "assets/models/Lux.glb",
+    "compressedUrl": "assets/models/Lux.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "lux_base_MD_v10_MAT_Lux1",
+      "pasted__lambert4"
+    ],
+    "bytes": 3191468,
+    "compressedBytes": 792200,
+    "sha256": "4d521751b33b6b5063f94f07ec68d28490ee6804525cbb72daf17923d8b33f86",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Lux.wad.client",
+      "skn": "assets/characters/lux/skins/base/lux.skn",
+      "skl": "assets/characters/lux/skins/base/lux.skl",
+      "textures": [
+        "assets/characters/lux/skins/base/lux_base_cm_tx.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/lux/skins/base/animations/lux_idle1.anm",
+        "run": "assets/characters/lux/skins/base/animations/lux_run.anm",
+        "attack": "assets/characters/lux/skins/base/animations/lux_attack1.anm",
+        "q": "assets/characters/lux/skins/base/animations/lux_spell1.anm",
+        "w": "assets/characters/lux/skins/base/animations/lux_spell2.anm",
+        "e": "assets/characters/lux/skins/base/animations/lux_spell3.anm",
+        "r": "assets/characters/lux/skins/base/animations/lux_spell4.anm",
+        "death": "assets/characters/lux/skins/base/animations/lux_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Ahri": {
+    "url": "assets/models/Ahri.glb",
+    "compressedUrl": "assets/models/Ahri.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Body",
+      "Eyes",
+      "Tails",
+      "Tail_Large"
+    ],
+    "bytes": 9301592,
+    "compressedBytes": 2882189,
+    "sha256": "352db1eaeb5a765e08bc5c263b7626d2164fec531b45e56b487892500787f4f1",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Ahri.wad.client",
+      "skn": "assets/characters/ahri/skins/base/ahri_base.skn",
+      "skl": "assets/characters/ahri/skins/base/ahri_base.skl",
+      "textures": [
+        "assets/characters/ahri/skins/base/ahri_base_babyfox_tx_cm.tex",
+        "assets/characters/ahri/skins/base/ahri_base_tx_cm.tex",
+        "assets/characters/ahri/skins/base/ahri_skin04_w_mis_fire_mult.tex",
+        "assets/characters/ahri/skins/base/ahri_base_tails_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ahri/skins/base/animations/idle1.anm",
+        "run": "assets/characters/ahri/skins/base/animations/run.anm",
+        "attack": "assets/characters/ahri/skins/base/animations/attack1.anm",
+        "q": "assets/characters/ahri/skins/base/animations/spell1.anm",
+        "w": "assets/characters/ahri/skins/base/animations/spell2.anm",
+        "e": "assets/characters/ahri/skins/base/animations/spell3_south.anm",
+        "r": "assets/characters/ahri/skins/base/animations/spell4.anm",
+        "death": "assets/characters/ahri/skins/base/animations/death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Ezreal": {
+    "url": "assets/models/Ezreal.glb",
+    "compressedUrl": "assets/models/Ezreal.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Ezreal_Base_Mat",
+      "ez_body_exp_Ezreal_Base_Mat",
+      "Ezreal_Base_Gauntlet_Mat"
+    ],
+    "bytes": 4858684,
+    "compressedBytes": 1187561,
+    "sha256": "b1423d8886f59249d9d5c68b6d3440bbee81c72f9602666769f7d7dccd5526ed",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Ezreal.wad.client",
+      "skn": "assets/characters/ezreal/skins/base/ezreal_base.skn",
+      "skl": "assets/characters/ezreal/skins/base/ezreal_base.skl",
+      "textures": [
+        "assets/characters/ezreal/skins/base/ezreal_base_tx_cm.tex",
+        "assets/characters/ezreal/skins/base/ezreal_base_idol_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ezreal/skins/base/animations/ezreal_idle.anm",
+        "run": "assets/characters/ezreal/skins/base/animations/ezreal_run.anm",
+        "attack": "assets/characters/ezreal/skins/base/animations/ezreal_attack1.anm",
+        "q": "assets/characters/ezreal/skins/base/animations/ezreal_spell1.anm",
+        "w": "assets/characters/ezreal/skins/base/animations/ezreal_spell2.anm",
+        "e": "assets/characters/ezreal/skins/base/animations/ezreal_spell3_generic.anm",
+        "r": "assets/characters/ezreal/skins/base/animations/ezreal_spell4.anm",
+        "death": "assets/characters/ezreal/skins/base/animations/ezreal_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Garen": {
+    "url": "assets/models/Garen.glb",
+    "compressedUrl": "assets/models/Garen.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run"
+    ],
+    "materials": [
+      "Garen_Base_Mat"
+    ],
+    "bytes": 2865568,
+    "compressedBytes": 773794,
+    "sha256": "49c46bb64f233dbacec248e99dccb8d7fbdf8224283e836fea0752c3854a9818",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Garen.wad.client",
+      "skn": "assets/characters/garen/skins/base/garen.skn",
+      "skl": "assets/characters/garen/skins/base/garen.skl",
+      "textures": [
+        "assets/characters/garen/skins/base/garen_base_tx_cm.tex",
+        "assets/characters/garen/skins/base/garen_base_tx_gm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/garen/skins/base/animations/garen_2013_idle1.anm",
+        "run": "assets/characters/garen/skins/base/animations/garen_2013_run.anm",
+        "attack": "assets/characters/garen/skins/base/animations/garen_2013_attack_01.anm",
+        "q": "assets/characters/garen/skins/base/animations/garen_2013_spell1.anm",
+        "e": "assets/characters/garen/skins/base/animations/garen_base_spell3_0.anm",
+        "r": "assets/characters/garen/skins/base/animations/garen_2013_spell4.anm",
+        "death": "assets/characters/garen/skins/base/animations/garen_2013_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Jinx": {
+    "url": "assets/models/Jinx.glb",
+    "compressedUrl": "assets/models/Jinx.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Jinx_Base_Mat"
+    ],
+    "bytes": 3687412,
+    "compressedBytes": 1260218,
+    "sha256": "4282bc163ba2b95964d2c1baa7f41c9734ea592eb941afdaca9b9ed748fc8840",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Jinx.wad.client",
+      "skn": "assets/characters/jinx/skins/base/jinx.skn",
+      "skl": "assets/characters/jinx/skins/base/jinx.skl",
+      "textures": [
+        "assets/characters/jinx/skins/base/jinx_base_e_tar_rootcylinder.tex",
+        "assets/characters/jinx/skins/base/jinx_base_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/jinx/skins/base/animations/jinx_minigun_idle1.anm",
+        "run": "assets/characters/jinx/skins/base/animations/jinx_minigun_run.anm",
+        "attack": "assets/characters/jinx/skins/base/animations/jinx_minigun_attack1.anm",
+        "w": "assets/characters/jinx/skins/base/animations/jinx_minigun_spell2.anm",
+        "e": "assets/characters/jinx/skins/base/animations/jinx_minigun_spell3.anm",
+        "r": "assets/characters/jinx/skins/base/animations/jinx_minigun_spell4.anm",
+        "death": "assets/characters/jinx/skins/base/animations/jinx_minigun_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Leona": {
+    "url": "assets/models/Leona.glb",
+    "compressedUrl": "assets/models/Leona.glb.gz",
+    "animations": [
+      "attack",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "leona_base_mesh_lambert"
+    ],
+    "bytes": 3123788,
+    "compressedBytes": 839342,
+    "sha256": "8340ab03aee12a88923398bc55a9fa3230942119e6a1f7d4a55019c07218d4a2",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Leona.wad.client",
+      "skn": "assets/characters/leona/skins/base/leona.skn",
+      "skl": "assets/characters/leona/skins/base/leona.skl",
+      "textures": [
+        "assets/characters/leona/skins/base/leona_base_tx_cm.tex",
+        "assets/characters/leona/skins/base/doombots_leona_color-fuzzyshad.tex",
+        "assets/characters/leona/skins/base/leona_base_tx_gm.tex",
+        "assets/characters/leona/skins/base/doombots_leona_explosionindicator_dropindicator_mult.tex",
+        "assets/characters/leona/skins/base/doombots_leona_fuzzyshad.tex",
+        "assets/characters/leona/skins/base/doombots_leona_explosionindicator_dropindicator_green.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/leona/skins/base/animations/leona_idle1.anm",
+        "run": "assets/characters/leona/skins/base/animations/leona_run.anm",
+        "attack": "assets/characters/leona/skins/base/animations/leona_attack1.anm",
+        "q": "assets/characters/leona/skins/base/animations/leona_spell1.anm",
+        "w": "assets/characters/leona/skins/base/animations/leona_spell2.anm",
+        "e": "assets/characters/leona/skins/base/animations/leona_spell3.anm",
+        "r": "assets/characters/leona/skins/base/animations/leona_spell4.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Darius": {
+    "url": "assets/models/Darius.glb",
+    "compressedUrl": "assets/models/Darius.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Darius_TX"
+    ],
+    "bytes": 3543060,
+    "compressedBytes": 849139,
+    "sha256": "be573fc22069ae27d19c611e6957d27cb2fdccb1ade408bc0a3017549fc3570b",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Darius.wad.client",
+      "skn": "assets/characters/darius/skins/base/darius.skn",
+      "skl": "assets/characters/darius/skins/base/darius.skl",
+      "textures": [
+        "assets/characters/darius/skins/base/darius_base_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/darius/skins/base/animations/darius_idle1.anm",
+        "run": "assets/characters/darius/skins/base/animations/darius_run.anm",
+        "attack": "assets/characters/darius/skins/base/animations/darius_attack1.anm",
+        "q": "assets/characters/darius/skins/base/animations/darius_spell1.anm",
+        "w": "assets/characters/darius/skins/base/animations/darius_spell2.anm",
+        "e": "assets/characters/darius/skins/base/animations/darius_spell3.anm",
+        "r": "assets/characters/darius/skins/base/animations/darius_spell4.anm",
+        "death": "assets/characters/darius/skins/base/animations/darius_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Morgana": {
+    "url": "assets/models/Morgana.glb",
+    "compressedUrl": "assets/models/Morgana.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Morgana_Base_Body_Mat",
+      "wings_closed",
+      "wings_mid_open",
+      "wings_open",
+      "flower"
+    ],
+    "bytes": 6829532,
+    "compressedBytes": 1568280,
+    "sha256": "efc4965eaada858fe725fac2b349597e297934947c2a563eceea83ffc174cf2a",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Champions/Morgana.wad.client",
+      "skn": "assets/characters/morgana/skins/base/morgana.skn",
+      "skl": "assets/characters/morgana/skins/base/morgana.skl",
+      "textures": [
+        "assets/characters/morgana/skins/base/morgana_base_wings_ultdiffuse.tex",
+        "assets/characters/morgana/skins/base/morgana_base_bush_tx_cm.tex",
+        "assets/characters/morgana/skins/base/morgana_base_wing_gradient16.tex",
+        "assets/characters/morgana/skins/base/morgana_base_wings_tx_cm.tex",
+        "assets/characters/morgana/skins/base/morgana_base_tx_cm.tex",
+        "assets/characters/morgana/skins/base/morgana_base_flower_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/morgana/skins/base/animations/morgana_idle1.anm",
+        "run": "assets/characters/morgana/skins/base/animations/morgana_run.anm",
+        "attack": "assets/characters/morgana/skins/base/animations/morgana_attack1.anm",
+        "w": "assets/characters/morgana/skins/base/animations/morgana_spell2.anm",
+        "e": "assets/characters/morgana/skins/base/animations/morgana_spell3.anm",
+        "r": "assets/characters/morgana/skins/base/animations/morgana_spell4.anm",
+        "death": "assets/characters/morgana/skins/base/animations/morgana_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Veigar": {
+    "url": "assets/models/Veigar.glb",
+    "compressedUrl": "assets/models/Veigar.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "riotRig:MAT_veigar"
+    ],
+    "bytes": 1694188,
+    "compressedBytes": 482902,
+    "sha256": "720fd7b496bfacfc248debe30039df2286cc19eb3b06b44c47485b60f44e98e7",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Veigar.wad.client",
+      "skn": "assets/characters/veigar/skins/base/veigar.skn",
+      "skl": "assets/characters/veigar/skins/base/veigar.skl",
+      "textures": [
+        "assets/characters/veigar/skins/base/veigar_turnaround_b.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/veigar/skins/base/animations/veigar_idle1.anm",
+        "run": "assets/characters/veigar/skins/base/animations/veigar_run.anm",
+        "attack": "assets/characters/veigar/skins/base/animations/veigar_attack1.anm",
+        "attack2": "assets/characters/veigar/skins/base/animations/veigar_attack2.anm",
+        "q": "assets/characters/veigar/skins/base/animations/veigar_attack1.anm",
+        "w": "assets/characters/veigar/skins/base/animations/veigar_spell2.anm",
+        "e": "assets/characters/veigar/skins/base/animations/veigar_spell3.anm",
+        "r": "assets/characters/veigar/skins/base/animations/veigar_attack2.anm",
+        "death": "assets/characters/veigar/skins/base/animations/veigar_death.anm"
+      },
+      "materials": [
+        "riotRig:MAT_veigar"
+      ],
+      "hidden": [],
+      "scale": 1.850000023841858
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "BlueMelee": {
+    "url": "assets/models/BlueMelee.glb",
+    "compressedUrl": "assets/models/BlueMelee.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "idle",
+      "run"
+    ],
+    "materials": [
+      "lambert1"
+    ],
+    "bytes": 975820,
+    "compressedBytes": 406434,
+    "sha256": "9fd767bfbd7c7cec7bc0cedb06b34919ac72da936fd16d811ac96ffe3c755c36",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_orderminionmelee/skins/base/order_minion_melee.skn",
+      "skl": "assets/characters/ha_orderminionmelee/skins/base/order_minion_melee.skl",
+      "textures": [
+        "assets/characters/ha_orderminionmelee/skins/base/orderminion_melee_tx_cm_red.tex",
+        "assets/characters/ha_orderminionmelee/skins/base/orderminion_melee_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sru_orderminionmelee/skins/base/animations/minion_melee_idle.anm",
+        "run": "assets/characters/sru_orderminionmelee/skins/base/animations/minion_melee_run.anm",
+        "attack": "assets/characters/sru_orderminionmelee/skins/base/animations/minion_melee_attack.anm",
+        "death": "assets/characters/sru_orderminionmelee/skins/base/animations/minion_melee_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "RedMelee": {
+    "url": "assets/models/RedMelee.glb",
+    "compressedUrl": "assets/models/RedMelee.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "idle",
+      "run"
+    ],
+    "materials": [
+      "RedMinion_Caster_MD_Default3"
+    ],
+    "bytes": 914556,
+    "compressedBytes": 342038,
+    "sha256": "520665b915255dabb49e4c0618f60defd7e7af80b85bb5e50687c079b8b329c6",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_chaosminionmelee/skins/base/chaos_minion_melee.skn",
+      "skl": "assets/characters/ha_chaosminionmelee/skins/base/chaos_minion_melee.skl",
+      "textures": [
+        "assets/characters/ha_chaosminionmelee/skins/base/chaosminion_melee_tx_cm_blue.tex",
+        "assets/characters/ha_chaosminionmelee/skins/base/chaosminion_melee_tx_cm.tex"
+      ],
+      "animations": {
+        "attack": "assets/characters/sru_chaosminionmelee/skins/base/animations/minion_melee_attack.anm",
+        "idle": "assets/characters/sru_orderminionmelee/skins/base/animations/minion_melee_idle.anm",
+        "run": "assets/characters/sru_orderminionmelee/skins/base/animations/minion_melee_run.anm",
+        "death": "assets/characters/sru_orderminionmelee/skins/base/animations/minion_melee_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "BlueCaster": {
+    "url": "assets/models/BlueCaster.glb",
+    "compressedUrl": "assets/models/BlueCaster.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "idle",
+      "run"
+    ],
+    "materials": [
+      "lambert1"
+    ],
+    "bytes": 1075608,
+    "compressedBytes": 383559,
+    "sha256": "a6b0e85d88b0e0b8da4095f33cdf26f9917b70a548208419d551321980ef213e",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_orderminionranged/skins/base/order_minion_caster.skn",
+      "skl": "assets/characters/ha_orderminionranged/skins/base/order_minion_caster.skl",
+      "textures": [
+        "assets/characters/ha_orderminionranged/skins/base/orderminion_caster_tx_cm_red.tex",
+        "assets/characters/ha_orderminionranged/skins/base/orderminion_caster_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sru_orderminionranged/skins/base/animations/minion_caster_idle.anm",
+        "run": "assets/characters/sru_orderminionranged/skins/base/animations/minion_caster_run.anm",
+        "attack": "assets/characters/sru_orderminionranged/skins/base/animations/minion_caster_attack1.anm",
+        "death": "assets/characters/sru_orderminionranged/skins/base/animations/minion_caster_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "RedCaster": {
+    "url": "assets/models/RedCaster.glb",
+    "compressedUrl": "assets/models/RedCaster.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "idle",
+      "run"
+    ],
+    "materials": [
+      "RedMinion_Caster_MD_Default3"
+    ],
+    "bytes": 1152992,
+    "compressedBytes": 421993,
+    "sha256": "51e50732507b6fdd33aa6c07edb66a3ce273aea25d8049c259d9ec39e1c50cff",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_chaosminionranged/skins/base/chaos_minion_caster.skn",
+      "skl": "assets/characters/ha_chaosminionranged/skins/base/chaos_minion_caster.skl",
+      "textures": [
+        "assets/characters/ha_chaosminionranged/skins/base/red_caster_tx_cm.tex",
+        "assets/characters/ha_chaosminionranged/skins/base/red_caster_tx_cm_blue.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sru_chaosminionranged/skins/base/animations/minion_caster_idle.anm",
+        "run": "assets/characters/sru_chaosminionranged/skins/base/animations/minion_caster_run.anm",
+        "attack": "assets/characters/sru_chaosminionranged/skins/base/animations/minion_caster_attack.anm",
+        "death": "assets/characters/sru_chaosminionranged/skins/base/animations/minion_caster_chaos_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Turret": {
+    "url": "assets/models/Turret.glb",
+    "compressedUrl": "assets/models/Turret.glb.gz",
+    "animations": [
+      "idle"
+    ],
+    "materials": [
+      "BaseState",
+      "State1",
+      "State2",
+      "State3",
+      "MedRubble_Left",
+      "ShortRubble_Left",
+      "LongRubble_Right",
+      "ShortRubble_Right",
+      "MedRubble_Right"
+    ],
+    "bytes": 3167740,
+    "compressedBytes": 1668354,
+    "sha256": "dfc0b577858c3fbdbb1266f10fcaecfbac12f26c8bfbb217e50fee07a5c17b0b",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/turret/skins/skin28/ha_ap_orderturret.skn",
+      "skl": "assets/characters/turret/skins/skin28/ha_ap_orderturret.skl",
+      "textures": [
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/turret/skins/skin28/particles/ha_ap_orderturretmesh_shatter_3_right_idle.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Nexus": {
+    "url": "assets/models/Nexus.glb",
+    "compressedUrl": "assets/models/Nexus.glb.gz",
+    "animations": [
+      "death",
+      "idle"
+    ],
+    "materials": [
+      "SRUAP_OrderNexus_Mat",
+      "Khai_destroyed"
+    ],
+    "bytes": 3810100,
+    "compressedBytes": 1994610,
+    "sha256": "65687b201fcc64351882f86e0e3be5701670f96423207b728923d94916b13d7c",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/nexus/skins/skin24/skin01.skn",
+      "skl": "assets/characters/nexus/skins/skin24/skin01.skl",
+      "textures": [
+        "assets/characters/nexus/skins/skin24/ha_nexus_blue.tex",
+        "assets/characters/nexus/skins/skin24/ha_nexus_blue_destroyed.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/nexus/skins/skin24/animations/ha_ordernexus_idle.anm",
+        "death": "assets/characters/nexus/skins/skin24/animations/ha_ordernexus_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "RedTurret": {
+    "url": "assets/models/RedTurret.glb",
+    "compressedUrl": "assets/models/RedTurret.glb.gz",
+    "animations": [
+      "idle"
+    ],
+    "materials": [
+      "BaseState",
+      "State1",
+      "State2",
+      "State3",
+      "MedRubble_Left",
+      "ShortRubble_Left",
+      "LongRubble_Right",
+      "ShortRubble_Right",
+      "MedRubble_Right"
+    ],
+    "bytes": 3167888,
+    "compressedBytes": 1668450,
+    "sha256": "aa91b31562ed6f2c5c001349168f19b99da00517c843b9f31b0744a05132bd21",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/turret/skins/skin28/ha_ap_orderturret.skn",
+      "skl": "assets/characters/turret/skins/skin28/ha_ap_orderturret.skl",
+      "textures": [
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex",
+        "assets/characters/turret/skins/skin28/ha_ap_orderturret_red.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/turret/skins/skin28/particles/ha_ap_orderturretmesh_shatter_3_right_idle.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "RedNexus": {
+    "url": "assets/models/RedNexus.glb",
+    "compressedUrl": "assets/models/RedNexus.glb.gz",
+    "animations": [
+      "death",
+      "idle"
+    ],
+    "materials": [
+      "SRUAP_OrderNexus_Mat",
+      "Khai_destroyed"
+    ],
+    "bytes": 3880716,
+    "compressedBytes": 2066761,
+    "sha256": "6e4b52e8c807469c986388c9249dee85b2ffcad979333c24d6210d020c40c10b",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/nexus/skins/skin24/skin01.skn",
+      "skl": "assets/characters/nexus/skins/skin24/skin01.skl",
+      "textures": [
+        "assets/characters/nexus/skins/skin24/ha_nexus_red.tex",
+        "assets/characters/nexus/skins/skin24/ha_nexus_red_destroyed.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/nexus/skins/skin24/animations/ha_ordernexus_idle.anm",
+        "death": "assets/characters/nexus/skins/skin24/animations/ha_ordernexus_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Inhibitor": {
+    "url": "assets/models/Inhibitor.glb",
+    "compressedUrl": "assets/models/Inhibitor.glb.gz",
+    "animations": [
+      "death",
+      "idle"
+    ],
+    "materials": [
+      "Destroyed",
+      "HA_Inhib_Destroyed_Cap",
+      "HA_Inhib_Cap_Mat",
+      "HA_Inhib_Mat"
+    ],
+    "bytes": 2392660,
+    "compressedBytes": 1662178,
+    "sha256": "e7804641357c7928d7ce0f0dca586f41a917ebb5e70c0dc9c9ace42ab3c89c25",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/inhibitor/skins/skin22/skin01.skn",
+      "skl": "assets/characters/inhibitor/skins/skin22/skin01.skl",
+      "textures": [
+        "assets/characters/inhibitor/skins/skin22/ha_inhib_blue_destroyed.tex",
+        "assets/characters/inhibitor/skins/skin22/ha_inhib_blue_destroyed.tex",
+        "assets/characters/inhibitor/skins/skin22/ha_inhib_cap_blue.tex",
+        "assets/characters/inhibitor/skins/skin22/ha_inhibitor_base_blue.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/inhibitor/skins/skin22/animations/ha_orderinhib_idle1.anm",
+        "death": "assets/characters/inhibitor/skins/skin22/animations/ha_orderinhib_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "RedInhibitor": {
+    "url": "assets/models/RedInhibitor.glb",
+    "compressedUrl": "assets/models/RedInhibitor.glb.gz",
+    "animations": [
+      "death",
+      "idle"
+    ],
+    "materials": [
+      "Destroyed",
+      "HA_Inhib_Destroyed_Cap",
+      "HA_Inhib_Cap_Mat",
+      "HA_Inhib_Mat"
+    ],
+    "bytes": 2286584,
+    "compressedBytes": 1556671,
+    "sha256": "7a5c52eab728dc0e87b32ddda18e5c3b095105e3db042c3baad72813423d0d65",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/inhibitor/skins/skin22/skin01.skn",
+      "skl": "assets/characters/inhibitor/skins/skin22/skin01.skl",
+      "textures": [
+        "assets/characters/inhibitor/skins/skin22/ha_inhib_base_red_destroyed.tex",
+        "assets/characters/inhibitor/skins/skin22/ha_inhib_base_red_destroyed.tex",
+        "assets/characters/inhibitor/skins/skin22/ha_inhibitor_base_red.tex",
+        "assets/characters/inhibitor/skins/skin22/ha_inhibitor_base_red.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/inhibitor/skins/skin22/animations/ha_orderinhib_idle1.anm",
+        "death": "assets/characters/inhibitor/skins/skin22/animations/ha_orderinhib_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "BridgeStatue": {
+    "url": "assets/models/BridgeStatue.glb",
+    "compressedUrl": "assets/models/BridgeStatue.glb.gz",
+    "animations": [],
+    "materials": [
+      "MAT_BLS"
+    ],
+    "bytes": 944384,
+    "compressedBytes": 860784,
+    "sha256": "d1ea767934583ebd3c999d48424eb6a51d449db194e784e503c4f9bbc8de4846",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_ap_bridgelanestatue/skins/skin01/ha_ap_bridgelanestatue_idle1.skn",
+      "skl": "assets/characters/ha_ap_bridgelanestatue/skins/skin01/ha_ap_bridgelanestatue_idle1.skl",
+      "textures": [
+        "assets/characters/ha_ap_bridgelanestatue/skins/base/ha_ap_bridgelanestatue.tex"
+      ],
+      "animations": {}
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Chain": {
+    "url": "assets/models/Chain.glb",
+    "compressedUrl": "assets/models/Chain.glb.gz",
+    "animations": [],
+    "materials": [
+      "MAT_Chains"
+    ],
+    "bytes": 274080,
+    "compressedBytes": 236495,
+    "sha256": "743aba43f88731f8df543510041243e67e65342f73d898ce869811bd7e576105",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_ap_chains/skins/base/ha_ap_chains.skn",
+      "skl": "assets/characters/ha_ap_chains/skins/base/ha_ap_chains.skl",
+      "textures": [
+        "assets/characters/ha_ap_chains/skins/base/ha_ap_chains.tex"
+      ],
+      "animations": {}
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Poro": {
+    "url": "assets/models/Poro.glb",
+    "compressedUrl": "assets/models/Poro.glb.gz",
+    "animations": [
+      "death",
+      "idle"
+    ],
+    "materials": [
+      "lambert2",
+      "pasted__pasted__pasted__lambert2"
+    ],
+    "bytes": 553844,
+    "compressedBytes": 270093,
+    "sha256": "c95ecbf992856b3ca34d78182f56da0f81bdcac84c1c8b9caa612354b0575442",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_ap_poro/skins/base/ha_ap_poro.skn",
+      "skl": "assets/characters/ha_ap_poro/skins/base/ha_ap_poro.skl",
+      "textures": [
+        "assets/characters/ha_ap_poro/skins/base/ha_ap_poro_2.tex",
+        "assets/characters/ha_ap_poro/skins/base/ha_ap_poro_2.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ha_ap_poro/skins/base/animations/poro_idle1.anm",
+        "death": "assets/characters/ha_ap_poro/skins/base/animations/poro_death.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "LargePoro": {
+    "url": "assets/models/LargePoro.glb",
+    "compressedUrl": "assets/models/LargePoro.glb.gz",
+    "animations": [
+      "idle"
+    ],
+    "materials": [
+      "lambert4208"
+    ],
+    "bytes": 332400,
+    "compressedBytes": 228524,
+    "sha256": "dd95cb82c752a59269d5bc9b0c648fba12edfde0d6ad8866c1fd806dd91b96e4",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_ap_poro_large/skins/base/ha_ap_poro_large.skn",
+      "skl": "assets/characters/ha_ap_poro_large/skins/base/ha_ap_poro_large.skl",
+      "textures": [
+        "assets/characters/ha_ap_poro_large/skins/base/ha_ap_poro_large_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ha_ap_poro_large/skins/base/animations/fat_poro_idle.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Viking": {
+    "url": "assets/models/Viking.glb",
+    "compressedUrl": "assets/models/Viking.glb.gz",
+    "animations": [
+      "idle"
+    ],
+    "materials": [
+      "MAT_Viking_shader"
+    ],
+    "bytes": 1209556,
+    "compressedBytes": 583215,
+    "sha256": "52260bee48853f811b6650e36c1fff52cb72e7cdaa18ffae995add93cb8a929c",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_ap_viking/skins/base/ha_ap_viking.skn",
+      "skl": "assets/characters/ha_ap_viking/skins/base/ha_ap_viking.skl",
+      "textures": [
+        "assets/characters/ha_ap_viking/skins/base/ha_ap_viking.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ha_ap_viking/skins/base/animations/shopkeeper_viking_idle1.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Hermit": {
+    "url": "assets/models/Hermit.glb",
+    "compressedUrl": "assets/models/Hermit.glb.gz",
+    "animations": [
+      "idle"
+    ],
+    "materials": [
+      "Hermit7"
+    ],
+    "bytes": 2892592,
+    "compressedBytes": 1032873,
+    "sha256": "dd1185f3515a28446ca85d6497852d9b205e51a796ebc391f93489b0a2901732",
+    "source": {
+      "host": "hanyue",
+      "installation": "C:/WeGameApps/英雄联盟",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "skn": "assets/characters/ha_ap_hermit/skins/base/ha_ap_hermit.skn",
+      "skl": "assets/characters/ha_ap_hermit/skins/base/ha_ap_hermit.skl",
+      "textures": [
+        "assets/characters/ha_ap_hermit/skins/base/ha_ap_hermit.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ha_ap_hermit/skins/base/animations/shopkeeper_hermit_idle1.anm"
+      }
+    },
+    "conversion": "lol2gltf 2025-02-28-d36a532"
+  },
+  "Yasuo": {
+    "url": "assets/models/Yasuo.glb",
+    "compressedUrl": "assets/models/Yasuo.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "q2",
+      "q3",
+      "qdash",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Yasuo_Instrument_Mat",
+      "Yasuo_Base_Weapon_Mat",
+      "Yasuo_Base_Mat"
+    ],
+    "bytes": 7523488,
+    "compressedBytes": 1669171,
+    "sha256": "a18a67fdb7f06b697a2f902aeb4a0dfeb37a8894022c2b7944187a84821f76d9",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Yasuo.wad.client",
+      "skn": "assets/characters/yasuo/skins/base/yasuo.skn",
+      "skl": "assets/characters/yasuo/skins/base/yasuo.skl",
+      "textures": [
+        "assets/characters/yasuo/skins/base/yasuo_base_tx_cm.tex",
+        "assets/characters/yasuo/skins/base/yasuo_base_tx_cm.tex",
+        "assets/characters/yasuo/skins/base/yasuo_base_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/yasuo/skins/base/animations/yasuo_idle1.anm",
+        "run": "assets/characters/yasuo/skins/base/animations/yasuo_run1.anm",
+        "attack": "assets/characters/yasuo/skins/base/animations/yasuo_attack1.anm",
+        "attack2": "assets/characters/yasuo/skins/base/animations/yasuo_attack2.anm",
+        "q": "assets/characters/yasuo/skins/base/animations/yasuo_spell1a.anm",
+        "q2": "assets/characters/yasuo/skins/base/animations/yasuo_spell1b.anm",
+        "q3": "assets/characters/yasuo/skins/base/animations/yasuo_spell1c.anm",
+        "qdash": "assets/characters/yasuo/skins/base/animations/yasuo_spell1_dash.anm",
+        "w": "assets/characters/yasuo/skins/base/animations/yasuo_spell2.anm",
+        "e": "assets/characters/yasuo/skins/base/animations/yasuo_spell3.anm",
+        "r": "assets/characters/yasuo/skins/base/animations/yasuo_spell4.anm",
+        "death": "assets/characters/yasuo/skins/base/animations/yasuo_death.anm"
+      },
+      "materials": [
+        "Yasuo_Instrument_Mat",
+        "Yasuo_Base_Weapon_Mat",
+        "Yasuo_Base_Mat"
+      ],
+      "hidden": [
+        "Yasuo_Instrument_Mat",
+        "Weapon_Trail"
+      ],
+      "scale": 0.9300000071525574
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Sett": {
+    "url": "assets/models/Sett.glb",
+    "compressedUrl": "assets/models/Sett.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "q2",
+      "r",
+      "rgrab",
+      "rslam",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Sett_Base_Mat",
+      "Joke",
+      "Wolverine"
+    ],
+    "bytes": 8315064,
+    "compressedBytes": 2303144,
+    "sha256": "b6512a50dcb23254fd25f4f2f2fd9c862f6cf3a6a9430e2ac93fe8962fc86504",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Sett.wad.client",
+      "skn": "assets/characters/sett/skins/base/sett.skn",
+      "skl": "assets/characters/sett/skins/base/sett.skl",
+      "textures": [
+        "assets/characters/sett/skins/base/sett_base_tx_cm.tex",
+        "assets/characters/sett/skins/base/sett_base_mom_tx_cm.tex",
+        "assets/characters/sett/skins/base/sett_base_wolverine_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sett/skins/base/animations/sett_idle.anm",
+        "run": "assets/characters/sett/skins/base/animations/sett_run.anm",
+        "attack": "assets/characters/sett/skins/base/animations/sett_attack1.anm",
+        "attack2": "assets/characters/sett/skins/base/animations/sett_attack2.anm",
+        "q": "assets/characters/sett/skins/base/animations/sett_spell1_a.anm",
+        "q2": "assets/characters/sett/skins/base/animations/sett_spell1_b.anm",
+        "w": "assets/characters/sett/skins/base/animations/sett_spell2.anm",
+        "e": "assets/characters/sett/skins/base/animations/sett_spell3_both.anm",
+        "r": "assets/characters/sett/skins/base/animations/sett_spell4.anm",
+        "rgrab": "assets/characters/sett/skins/base/animations/sett_spell4_grab.anm",
+        "rslam": "assets/characters/sett/skins/base/animations/sett_spell4_powerbomb.anm",
+        "death": "assets/characters/sett/skins/base/animations/sett_death.anm"
+      },
+      "materials": [
+        "Sett_Base_Mat",
+        "Joke",
+        "Wolverine"
+      ],
+      "hidden": [
+        "Wolverine",
+        "Joke"
+      ],
+      "scale": 1.25
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "ElderDragon": {
+    "url": "assets/models/ElderDragon.glb",
+    "compressedUrl": "assets/models/ElderDragon.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Elder_Dragon_MAT",
+      "lambert1"
+    ],
+    "bytes": 6690152,
+    "compressedBytes": 1668299,
+    "sha256": "6de3a4011472e07390ed8b38ca307b790ea7b5ec60458e8575aa6708c09c9569",
+    "source": {
+      "host": "hanyue",
+      "archive": "Maps/Shipping/Map11.wad.client",
+      "skn": "assets/characters/sru_dragon_elder/skins/base/sru_dragon_elder.skn",
+      "skl": "assets/characters/sru_dragon_elder/skins/base/sru_dragon_elder.skl",
+      "textures": [
+        "assets/characters/sru_dragon_elder/skins/base/sru_dragon_elder_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_idle_aggro1.anm",
+        "run": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_flying_run.anm",
+        "attack": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_flying_attack1.anm",
+        "q": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_flying_spell1.anm",
+        "w": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_takeoff.anm",
+        "e": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_flying_run.anm",
+        "r": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_flying_spell1.anm",
+        "death": "assets/characters/sru_dragon/skins/base/animations/sru_dragon_death.anm"
+      }
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Ryze": {
+    "url": "assets/models/Ryze.glb",
+    "compressedUrl": "assets/models/Ryze.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Ryze_MAT",
+      "Ryze_VFX"
+    ],
+    "bytes": 4496984,
+    "compressedBytes": 1168130,
+    "sha256": "2bef00f6b9d71fa34b2c8d5dffd9bf46c01222d3f325d676a27267ce79c3ffdd",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Ryze.wad.client",
+      "skn": "assets/characters/ryze/skins/base/ryze.skn",
+      "skl": "assets/characters/ryze/skins/base/ryze.skl",
+      "textures": [
+        "assets/characters/ryze/skins/base/ryze.tex",
+        "assets/characters/ryze/skins/base/ryze.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/ryze/skins/base/animations/ryze_idle1.anm",
+        "run": "assets/characters/ryze/skins/base/animations/ryze_run_fast.anm",
+        "attack": "assets/characters/ryze/skins/base/animations/ryze_attack1.anm",
+        "q": "assets/characters/ryze/skins/base/animations/ryze_spell1.anm",
+        "w": "assets/characters/ryze/skins/base/animations/ryze_spell2.anm",
+        "e": "assets/characters/ryze/skins/base/animations/ryze_spell3.anm",
+        "r": "assets/characters/ryze/skins/base/animations/ryze_spell4.anm",
+        "death": "assets/characters/ryze/skins/base/animations/ryze_death.anm"
+      },
+      "materials": [
+        "Ryze_MAT",
+        "Ryze_VFX"
+      ],
+      "hidden": [
+        "Ryze_VFX"
+      ],
+      "scale": 0.9200000166893005
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "DrMundo": {
+    "url": "assets/models/DrMundo.glb",
+    "compressedUrl": "assets/models/DrMundo.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "BodyNormal",
+      "Body",
+      "Tongue",
+      "Weapon",
+      "L_Capacitor",
+      "R_Capacitor",
+      "BodyUlt",
+      "WeaponUlt",
+      "R_CapacitorUlt",
+      "L_CapacitorUlt",
+      "Bag",
+      "ToeTag",
+      "Clipboard",
+      "BagProps"
+    ],
+    "bytes": 8501500,
+    "compressedBytes": 3503628,
+    "sha256": "89d16ed9aebbbd52a34adfd8a9f3d94045e7cc17251777c4274abe3b5267eb52",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/DrMundo.wad.client",
+      "skn": "assets/characters/drmundo/skins/base/drmundo_base.skn",
+      "skl": "assets/characters/drmundo/skins/base/drmundo_base.skl",
+      "textures": [
+        "assets/characters/drmundo/skins/base/drmundo_base_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_ult_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_toetag_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex",
+        "assets/characters/drmundo/skins/base/drmundo_base_weapon_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/drmundo/skins/base/animations/drmundo_idle01.anm",
+        "run": "assets/characters/drmundo/skins/base/animations/drmundo_run.anm",
+        "attack": "assets/characters/drmundo/skins/base/animations/drmundo_attack1.anm",
+        "attack2": "assets/characters/drmundo/skins/base/animations/drmundo_attack2.anm",
+        "q": "assets/characters/drmundo/skins/base/animations/spell1.anm",
+        "w": "assets/characters/drmundo/skins/base/animations/drmundo_spell2.anm",
+        "e": "assets/characters/drmundo/skins/base/animations/drmundo_spell3.anm",
+        "r": "assets/characters/drmundo/skins/base/animations/drmundo_spell4.anm",
+        "death": "assets/characters/drmundo/skins/base/animations/drmundo_death.anm"
+      },
+      "materials": [
+        "BodyNormal",
+        "Body",
+        "Tongue",
+        "Weapon",
+        "L_Capacitor",
+        "R_Capacitor",
+        "BodyUlt",
+        "WeaponUlt",
+        "R_CapacitorUlt",
+        "L_CapacitorUlt",
+        "Bag",
+        "ToeTag",
+        "Clipboard",
+        "BagProps"
+      ],
+      "hidden": [
+        "Tongue",
+        "BodyUlt",
+        "Clipboard",
+        "ToeTag",
+        "L_Capacitor",
+        "R_Capacitor",
+        "L_CapacitorUlt",
+        "R_CapacitorUlt",
+        "WeaponUlt",
+        "BagProps"
+      ],
+      "scale": 0.949999988079071
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Malphite": {
+    "url": "assets/models/Malphite.glb",
+    "compressedUrl": "assets/models/Malphite.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "MAT_malphite"
+    ],
+    "bytes": 2345080,
+    "compressedBytes": 1208516,
+    "sha256": "1301ea5cdee8857cfd59005f011373e068dc9152cd0927456b34cadbafbe6174",
+    "source": {
+      "host": "hanyue",
+      "skn": "assets/characters/malphite/skins/base/malphite.skn",
+      "skl": "assets/characters/malphite/skins/base/malphite.skl",
+      "textures": [
+        "assets/characters/malphite/skins/base/malphite.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/malphite/skins/base/animations/malphite_idle1.anm",
+        "run": "assets/characters/malphite/skins/base/animations/malphite_run.anm",
+        "attack": "assets/characters/malphite/skins/base/animations/malphite_attack1.anm",
+        "attack2": "assets/characters/malphite/skins/base/animations/malphite_attack2.anm",
+        "q": "assets/characters/malphite/skins/base/animations/malphite_spell1.anm",
+        "w": "assets/characters/malphite/skins/base/animations/malphite_spell2.anm",
+        "e": "assets/characters/malphite/skins/base/animations/malphite_attack3.anm",
+        "r": "assets/characters/malphite/skins/base/animations/malphite_runult.anm",
+        "death": "assets/characters/malphite/skins/base/animations/malphite_death.anm"
+      },
+      "materials": [
+        "MAT_malphite"
+      ],
+      "hidden": [],
+      "scale": 1.75,
+      "archive": "Champions/Malphite.wad.client"
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "RiftHerald": {
+    "url": "assets/models/RiftHerald.glb",
+    "compressedUrl": "assets/models/RiftHerald.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "RiftHerald_Mat"
+    ],
+    "bytes": 5251344,
+    "compressedBytes": 1833776,
+    "sha256": "e9023335ab123fcc23ffbfe8e347d8ed86f5e9deaf143199d2a977ee01ecd463",
+    "source": {
+      "host": "hanyue",
+      "skn": "assets/characters/sru_riftherald/skins/base/sru_riftherald_base.skn",
+      "skl": "assets/characters/sru_riftherald/skins/base/sru_riftherald_base.skl",
+      "textures": [
+        "assets/characters/sru_riftherald/skins/base/sru_riftherald_base_main_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_idle.anm",
+        "run": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_run.anm",
+        "attack": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_attack1.anm",
+        "attack2": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_attack2.anm",
+        "q": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_dash_windup.anm",
+        "w": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_spinningpunch.anm",
+        "e": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_angry_idle.anm",
+        "r": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_dash_hit.anm",
+        "death": "assets/characters/sru_riftherald/skins/base/animations/sru_riftherald_death.anm"
+      },
+      "materials": [
+        "RiftHerald_Mat"
+      ],
+      "hidden": [],
+      "scale": 0.800000011920929,
+      "archive": "Maps/Shipping/Map11.wad.client"
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "BaronNashor": {
+    "url": "assets/models/BaronNashor.glb",
+    "compressedUrl": "assets/models/BaronNashor.glb.gz",
+    "animations": [
+      "attack",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Shield",
+      "Horn",
+      "Eye",
+      "Body"
+    ],
+    "bytes": 7752156,
+    "compressedBytes": 2857152,
+    "sha256": "b815f5ecdc6d94c7d3ad2e98b971f43e04c9c26619798f99efde8307465cfedd",
+    "source": {
+      "host": "hanyue",
+      "skn": "assets/characters/sru_baron/skins/base/sru_baron_base.skn",
+      "skl": "assets/characters/sru_baron/skins/base/sru_baron_base.skl",
+      "textures": [
+        "assets/characters/sru_baron/skins/base/baron_base_tx_cm.tex",
+        "assets/characters/sru_baron/skins/base/baron_base_tx_cm.tex",
+        "assets/characters/sru_baron/skins/base/baron_base_tx_cm.tex",
+        "assets/characters/sru_baron/skins/base/baron_base_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sru_baron/skins/base/animations/sru_baron_idle1.anm",
+        "run": "assets/characters/sru_baron/skins/base/animations/sru_baron_idle1_aggro.anm",
+        "attack": "assets/characters/sru_baron/skins/base/animations/sru_baron_attack1.anm",
+        "q": "assets/characters/sru_baron/skins/base/animations/sru_baron_spell2.anm",
+        "w": "assets/characters/sru_baron/skins/base/animations/sru_baron_spell3.anm",
+        "e": "assets/characters/sru_baron/skins/base/animations/sru_baron_spell5.anm",
+        "r": "assets/characters/sru_baron/skins/base/animations/sru_baron_spell7.anm",
+        "death": "assets/characters/sru_baron/skins/base/animations/sru_baron_death.anm"
+      },
+      "materials": [
+        "Shield",
+        "Horn",
+        "Eye",
+        "Body"
+      ],
+      "hidden": [
+        "Horn",
+        "Eye"
+      ],
+      "scale": 0.8999999761581421,
+      "archive": "Maps/Shipping/Map11.wad.client"
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "MissFortune": {
+    "url": "assets/models/MissFortune.glb",
+    "compressedUrl": "assets/models/MissFortune.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "rend",
+      "rstart",
+      "run",
+      "runfast",
+      "w"
+    ],
+    "materials": [
+      "MissFortune_Base_MAT"
+    ],
+    "bytes": 4215484,
+    "compressedBytes": 992906,
+    "sha256": "fc0fa70d199dbde7f746ac49cf6629a124af3f78465d346fe38643a6ffe52f88",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/MissFortune.wad.client",
+      "skn": "assets/characters/missfortune/skins/base/missfortune.skn",
+      "skl": "assets/characters/missfortune/skins/base/missfortune.skl",
+      "textures": [
+        "assets/characters/missfortune/skins/base/missfortune_base_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/missfortune/skins/base/animations/missfortune_idle1.anm",
+        "run": "assets/characters/missfortune/skins/base/animations/missfortune_run.anm",
+        "runfast": "assets/characters/missfortune/skins/base/animations/missfortune_run_passive.anm",
+        "attack": "assets/characters/missfortune/skins/base/animations/missfortune_attack1.anm",
+        "attack2": "assets/characters/missfortune/skins/base/animations/missfortune_attack2.anm",
+        "q": "assets/characters/missfortune/skins/base/animations/missfortune_spell1.anm",
+        "w": "assets/characters/missfortune/skins/base/animations/missfortune_run_passive.anm",
+        "e": "assets/characters/missfortune/skins/base/animations/missfortune_spell3.anm",
+        "r": "assets/characters/missfortune/skins/base/animations/missfortune_spell4_loop.anm",
+        "rstart": "assets/characters/missfortune/skins/base/animations/missfortune_spell4_windup.anm",
+        "rend": "assets/characters/missfortune/skins/base/animations/missfortune_spell4_to_idle.anm",
+        "death": "assets/characters/missfortune/skins/base/animations/missfortune_death.anm"
+      },
+      "materials": [
+        "MissFortune_Base_MAT"
+      ],
+      "hidden": [],
+      "scale": 1.2000000476837158
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Tryndamere": {
+    "url": "assets/models/Tryndamere.glb",
+    "compressedUrl": "assets/models/Tryndamere.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "crit",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "riotRig:tryndamere_base2011_MD_v05_lambert3",
+      "lambert1"
+    ],
+    "bytes": 3785976,
+    "compressedBytes": 983557,
+    "sha256": "efc29212a9cf06b1b9d72898351ec5b64de00a71a7adda1bd234c775eb839dc8",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Tryndamere.wad.client",
+      "skn": "assets/characters/tryndamere/skins/base/tryndamere.skn",
+      "skl": "assets/characters/tryndamere/skins/base/tryndamere.skl",
+      "textures": [
+        "assets/characters/tryndamere/skins/base/tryndamere_base2011_tx_cm.tex",
+        "assets/characters/tryndamere/skins/base/tryndamere_base2011_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/tryndamere/skins/base/animations/tryndamere_idle1.anm",
+        "run": "assets/characters/tryndamere/skins/base/animations/tryndamere_run.anm",
+        "attack": "assets/characters/tryndamere/skins/base/animations/tryndamere_attack1.anm",
+        "attack2": "assets/characters/tryndamere/skins/base/animations/tryndamere_attack2.anm",
+        "crit": "assets/characters/tryndamere/skins/base/animations/tryndamere_crit.anm",
+        "q": "assets/characters/tryndamere/skins/base/animations/tryndamere_spell1.anm",
+        "w": "assets/characters/tryndamere/skins/base/animations/tryndamere_spell2.anm",
+        "e": "assets/characters/tryndamere/skins/base/animations/tryndamere_spell3.anm",
+        "r": "assets/characters/tryndamere/skins/base/animations/tryndamere_spell4.anm",
+        "death": "assets/characters/tryndamere/skins/base/animations/tryndamere_death.anm"
+      },
+      "materials": [
+        "riotRig:tryndamere_base2011_MD_v05_lambert3",
+        "lambert1"
+      ],
+      "hidden": [],
+      "scale": 2.0
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Jhin": {
+    "url": "assets/models/Jhin.glb",
+    "compressedUrl": "assets/models/Jhin.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "crit",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "reload",
+      "rshot",
+      "rstart",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "base_mat"
+    ],
+    "bytes": 10496544,
+    "compressedBytes": 2667917,
+    "sha256": "0666fe4874e73f38ad13a8e7e198cffe33d6d4e61c5d223bee11ce93ee0049c2",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Jhin.wad.client",
+      "skn": "assets/characters/jhin/skins/base/jhin.skn",
+      "skl": "assets/characters/jhin/skins/base/jhin.skl",
+      "textures": [
+        "assets/characters/jhin/skins/base/jhin_base_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/jhin/skins/base/animations/jhin_idle01.anm",
+        "run": "assets/characters/jhin/skins/base/animations/jhin_run01.anm",
+        "attack": "assets/characters/jhin/skins/base/animations/jhin_attack1.anm",
+        "attack2": "assets/characters/jhin/skins/base/animations/jhin_attack2.anm",
+        "crit": "assets/characters/jhin/skins/base/animations/jhin_attack4.anm",
+        "q": "assets/characters/jhin/skins/base/animations/jhin_spell1.anm",
+        "w": "assets/characters/jhin/skins/base/animations/jhin_spell2.anm",
+        "e": "assets/characters/jhin/skins/base/animations/jhin_spell3.anm",
+        "rstart": "assets/characters/jhin/skins/base/animations/jhin_spell4_deploy.anm",
+        "r": "assets/characters/jhin/skins/base/animations/jhin_spell4_idle.anm",
+        "rshot": "assets/characters/jhin/skins/base/animations/jhin_spell4_shooting1.anm",
+        "reload": "assets/characters/jhin/skins/base/animations/jhin_reload.anm",
+        "death": "assets/characters/jhin/skins/base/animations/jhin_death.anm"
+      },
+      "materials": [
+        "base_mat"
+      ],
+      "hidden": [],
+      "scale": 1.2000000476837158
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Teemo": {
+    "url": "assets/models/Teemo.glb",
+    "compressedUrl": "assets/models/Teemo.glb.gz",
+    "animations": [
+      "attack",
+      "crit",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Body",
+      "Bag",
+      "Weapon",
+      "Harmonica",
+      "Mushroom"
+    ],
+    "bytes": 5648884,
+    "compressedBytes": 2017637,
+    "sha256": "d503e893aa7e457ad5d5f6280d7f1f1f0407d625db00e3aee901d2f474236b8c",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Teemo.wad.client",
+      "skn": "assets/characters/teemo/skins/base/teemo_base.skn",
+      "skl": "assets/characters/teemo/skins/base/teemo_base.skl",
+      "textures": [
+        "assets/characters/teemo/skins/base/teemo_base_tx_cm.tex",
+        "assets/characters/teemo/skins/base/teemo_base_tx_cm.tex",
+        "assets/characters/teemo/skins/base/teemo_base_tx_cm.tex",
+        "assets/characters/teemo/skins/base/teemo_base_harmonica_tx_cm.tex",
+        "assets/characters/teemo/skins/base/teemo_base_mushroom_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/teemo/skins/base/animations/idle.anm",
+        "run": "assets/characters/teemo/skins/base/animations/run.anm",
+        "attack": "assets/characters/teemo/skins/base/animations/attack1.anm",
+        "crit": "assets/characters/teemo/skins/base/animations/crit.anm",
+        "q": "assets/characters/teemo/skins/base/animations/spell1.anm",
+        "w": "assets/characters/teemo/skins/base/animations/spell2.anm",
+        "e": "assets/characters/teemo/skins/base/animations/attack1.anm",
+        "r": "assets/characters/teemo/skins/base/animations/spell4_0.anm",
+        "death": "assets/characters/teemo/skins/base/animations/death.anm"
+      },
+      "materials": [
+        "Body",
+        "Bag",
+        "Weapon",
+        "Harmonica",
+        "Mushroom"
+      ],
+      "hidden": [
+        "Mushroom",
+        "Harmonica"
+      ],
+      "scale": 1
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "MasterYi": {
+    "url": "assets/models/MasterYi.glb",
+    "compressedUrl": "assets/models/MasterYi.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "MasterYi_Base_MD_MasterYi"
+    ],
+    "bytes": 4766548,
+    "compressedBytes": 1459008,
+    "sha256": "3eb6a2cc7422f5d0ccdf6e15ee73fa69e3c3c12058cd76b5537c1ac39bb00fe9",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/MasterYi.wad.client",
+      "skn": "assets/characters/masteryi/skins/base/masteryi.skn",
+      "skl": "assets/characters/masteryi/skins/base/masteryi.skl",
+      "textures": [
+        "assets/characters/masteryi/skins/base/masteryi_2013_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/masteryi/skins/base/animations/masteryi_2013_idle1.anm",
+        "run": "assets/characters/masteryi/skins/base/animations/masteryi_2013_run.anm",
+        "attack": "assets/characters/masteryi/skins/base/animations/masteryi_2013_attack1.anm",
+        "attack2": "assets/characters/masteryi/skins/base/animations/masteryi_2013_attack2.anm",
+        "q": "assets/characters/masteryi/skins/base/animations/masteryi_2013_attack1.anm",
+        "w": "assets/characters/masteryi/skins/base/animations/masteryi_2013_spell2_loop.anm",
+        "e": "assets/characters/masteryi/skins/base/animations/masteryi_spell3.anm",
+        "r": "assets/characters/masteryi/skins/base/animations/masteryi_2013_run_haste.anm",
+        "death": "assets/characters/masteryi/skins/base/animations/masteryi_2013_death.anm"
+      },
+      "materials": [
+        "MasterYi_Base_MD_MasterYi"
+      ],
+      "hidden": [],
+      "scale": 1.5
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Chogath": {
+    "url": "assets/models/Chogath.glb",
+    "compressedUrl": "assets/models/Chogath.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "riotRig:lambert4"
+    ],
+    "bytes": 2893232,
+    "compressedBytes": 1147878,
+    "sha256": "fe49f4d4ff69b83b2f40a254ab38b0de0d967de8664699b8840f47aaf3733e29",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Chogath.wad.client",
+      "skn": "assets/characters/chogath/skins/base/chogath.skn",
+      "skl": "assets/characters/chogath/skins/base/chogath.skl",
+      "textures": [
+        "assets/characters/chogath/skins/base/greenterror.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/chogath/skins/base/animations/chogath_idle1.anm",
+        "run": "assets/characters/chogath/skins/base/animations/chogath_run.anm",
+        "attack": "assets/characters/chogath/skins/base/animations/chogath_attack1.anm",
+        "attack2": "assets/characters/chogath/skins/base/animations/chogath_attack2.anm",
+        "q": "assets/characters/chogath/skins/base/animations/chogath_spell1.anm",
+        "w": "assets/characters/chogath/skins/base/animations/chogath_spell2.anm",
+        "e": "assets/characters/chogath/skins/base/animations/chogath_spell3.anm",
+        "r": "assets/characters/chogath/skins/base/animations/chogath_spell4.anm",
+        "death": "assets/characters/chogath/skins/base/animations/chogath_death.anm"
+      },
+      "materials": [
+        "riotRig:lambert4"
+      ],
+      "hidden": [],
+      "scale": 0.800000011920929
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Sylas": {
+    "url": "assets/models/Sylas.glb",
+    "compressedUrl": "assets/models/Sylas.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "death",
+      "e",
+      "e2",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Sylas_Base_Mat",
+      "gauntlet_left",
+      "gauntlet_right",
+      "chain_left",
+      "chain_right",
+      "Sylas_Base_ChainLock_Mat"
+    ],
+    "bytes": 6264168,
+    "compressedBytes": 1506680,
+    "sha256": "1eb30186180aa7d69058ffa78829f17f2d481de6789019f3d8493ee268258ea2",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Sylas.wad.client",
+      "skn": "assets/characters/sylas/skins/base/sylas_base.skn",
+      "skl": "assets/characters/sylas/skins/base/sylas_base.skl",
+      "textures": [
+        "assets/characters/sylas/skins/base/sylas_base_tx_cm.tex",
+        "assets/characters/sylas/skins/base/sylas_base_shackles_tx_cm.tex",
+        "assets/characters/sylas/skins/base/sylas_base_shackles_tx_cm.tex",
+        "assets/characters/sylas/skins/base/sylas_base_shackles_tx_cm.tex",
+        "assets/characters/sylas/skins/base/sylas_base_shackles_tx_cm.tex",
+        "assets/characters/sylas/skins/base/sylas_base_chain_lock_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/sylas/skins/base/animations/sylas_idle.anm",
+        "run": "assets/characters/sylas/skins/base/animations/sylas_run.anm",
+        "attack": "assets/characters/sylas/skins/base/animations/sylas_attack_01.anm",
+        "attack2": "assets/characters/sylas/skins/base/animations/sylas_attack_02.anm",
+        "q": "assets/characters/sylas/skins/base/animations/sylas_spell1_cast.anm",
+        "w": "assets/characters/sylas/skins/base/animations/sylas_spell2.anm",
+        "e": "assets/characters/sylas/skins/base/animations/sylas_spell3_dash.anm",
+        "e2": "assets/characters/sylas/skins/base/animations/sylas_spell3_bhit_cast.anm",
+        "r": "assets/characters/sylas/skins/base/animations/sylas_spell4_cast.anm",
+        "death": "assets/characters/sylas/skins/base/animations/sylas_death.anm"
+      },
+      "materials": [
+        "Sylas_Base_Mat",
+        "gauntlet_left",
+        "gauntlet_right",
+        "chain_left",
+        "chain_right",
+        "Sylas_Base_ChainLock_Mat"
+      ],
+      "hidden": [
+        "Sylas_Base_ChainLock_Mat"
+      ],
+      "scale": 1.100000023841858
+    },
+    "conversion": "existing lol2gltf exporter"
+  },
+  "Jax": {
+    "url": "assets/models/Jax.glb",
+    "compressedUrl": "assets/models/Jax.glb.gz",
+    "animations": [
+      "attack",
+      "attack2",
+      "crit",
+      "death",
+      "e",
+      "idle",
+      "q",
+      "r",
+      "run",
+      "w"
+    ],
+    "materials": [
+      "Body",
+      "Weapon",
+      "Bluefish",
+      "Goldfish"
+    ],
+    "bytes": 9225320,
+    "compressedBytes": 2894069,
+    "sha256": "12482ae89a8fdded7f6cec387572b9781fdcac167f41867ca33613e4e0f496d6",
+    "source": {
+      "host": "hanyue",
+      "archive": "Champions/Jax.wad.client",
+      "skn": "assets/characters/jax/skins/base/jax_base.skn",
+      "skl": "assets/characters/jax/skins/base/jax_base.skl",
+      "textures": [
+        "assets/characters/jax/skins/base/jax_base_body_tx_cm.tex",
+        "assets/characters/jax/skins/base/jax_base_weapon_tx_cm.tex",
+        "assets/characters/jax/skins/base/jax_base_fish_tx_cm.tex",
+        "assets/characters/jax/skins/base/jax_base_fish_tx_cm.tex"
+      ],
+      "animations": {
+        "idle": "assets/characters/jax/skins/base/animations/idle1_v04.anm",
+        "run": "assets/characters/jax/skins/base/animations/jax_run2.anm",
+        "attack": "assets/characters/jax/skins/base/animations/attack_1.anm",
+        "attack2": "assets/characters/jax/skins/base/animations/attack_2.anm",
+        "crit": "assets/characters/jax/skins/base/animations/crit.anm",
+        "q": "assets/characters/jax/skins/base/animations/spell1.anm",
+        "w": "assets/characters/jax/skins/base/animations/spell2_v03.anm",
+        "e": "assets/characters/jax/skins/base/animations/spell3_run_cycle.anm",
+        "r": "assets/characters/jax/skins/base/animations/spell4_idle.anm",
+        "death": "assets/characters/jax/skins/base/animations/death1.anm"
+      },
+      "materials": [
+        "Body",
+        "Weapon",
+        "Bluefish",
+        "Goldfish"
+      ],
+      "hidden": [
+        "Bluefish",
+        "Goldfish"
+      ],
+      "scale": 0.8999999761581421
+    },
+    "conversion": "existing lol2gltf exporter"
+  }
+}

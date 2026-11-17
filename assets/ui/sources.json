@@ -1,0 +1,286 @@
+[
+  {
+    "file": "assets/ui/Ashe-0.png",
+    "archive": "Champions/Ashe.wad.client",
+    "path": "assets/characters/ashe/hud/icons2d/ashe_q.dds"
+  },
+  {
+    "file": "assets/ui/Ashe-1.png",
+    "archive": "Champions/Ashe.wad.client",
+    "path": "assets/characters/ashe/hud/icons2d/ashe_w.dds"
+  },
+  {
+    "file": "assets/ui/Ashe-2.png",
+    "archive": "Champions/Ashe.wad.client",
+    "path": "assets/characters/ashe/hud/icons2d/ashe_e.dds"
+  },
+  {
+    "file": "assets/ui/Ashe-3.png",
+    "archive": "Champions/Ashe.wad.client",
+    "path": "assets/characters/ashe/hud/icons2d/ashe_r.dds"
+  },
+  {
+    "file": "assets/ui/Ashe-circle.png",
+    "archive": "Champions/Ashe.wad.client",
+    "path": "assets/characters/ashe/hud/ashe_circle.tex"
+  },
+  {
+    "file": "assets/ui/Ashe-square.png",
+    "archive": "Champions/Ashe.wad.client",
+    "path": "assets/characters/ashe/hud/ashe_square.tex"
+  },
+  {
+    "file": "assets/ui/Lux-0.png",
+    "archive": "Champions/Lux.wad.client",
+    "path": "assets/characters/lux/hud/icons2d/luxcrashingblitz2.dds"
+  },
+  {
+    "file": "assets/ui/Lux-1.png",
+    "archive": "Champions/Lux.wad.client",
+    "path": "assets/characters/lux/hud/icons2d/luxprismawrap.dds"
+  },
+  {
+    "file": "assets/ui/Lux-2.png",
+    "archive": "Champions/Lux.wad.client",
+    "path": "assets/characters/lux/hud/icons2d/luxlightstrikekugel.dds"
+  },
+  {
+    "file": "assets/ui/Lux-3.png",
+    "archive": "Champions/Lux.wad.client",
+    "path": "assets/characters/lux/hud/icons2d/luxfinalefunkeln.dds"
+  },
+  {
+    "file": "assets/ui/Ahri-0.png",
+    "archive": "Champions/Ahri.wad.client",
+    "path": "assets/characters/ahri/hud/icons2d/icons_ahri_q.dds"
+  },
+  {
+    "file": "assets/ui/Ahri-1.png",
+    "archive": "Champions/Ahri.wad.client",
+    "path": "assets/characters/ahri/hud/icons2d/icons_ahri_w.dds"
+  },
+  {
+    "file": "assets/ui/Ahri-2.png",
+    "archive": "Champions/Ahri.wad.client",
+    "path": "assets/characters/ahri/hud/icons2d/icons_ahri_e.dds"
+  },
+  {
+    "file": "assets/ui/Ahri-3.png",
+    "archive": "Champions/Ahri.wad.client",
+    "path": "assets/characters/ahri/hud/icons2d/icons_ahri_r.dds"
+  },
+  {
+    "file": "assets/ui/Ezreal-0.png",
+    "archive": "Champions/Ezreal.wad.client",
+    "path": "assets/characters/ezreal/hud/icons2d/ezreal_q.dds"
+  },
+  {
+    "file": "assets/ui/Ezreal-1.png",
+    "archive": "Champions/Ezreal.wad.client",
+    "path": "assets/characters/ezreal/hud/icons2d/ezreal_w.dds"
+  },
+  {
+    "file": "assets/ui/Ezreal-2.png",
+    "archive": "Champions/Ezreal.wad.client",
+    "path": "assets/characters/ezreal/hud/icons2d/ezreal_e.dds"
+  },
+  {
+    "file": "assets/ui/Ezreal-3.png",
+    "archive": "Champions/Ezreal.wad.client",
+    "path": "assets/characters/ezreal/hud/icons2d/ezreal_r.dds"
+  },
+  {
+    "file": "assets/ui/Ezreal-circle.png",
+    "archive": "Champions/Ezreal.wad.client",
+    "path": "assets/characters/ezreal/hud/ezreal_circle.tex"
+  },
+  {
+    "file": "assets/ui/Garen-0.png",
+    "archive": "Champions/Garen.wad.client",
+    "path": "assets/characters/garen/hud/icons2d/garen_q.dds"
+  },
+  {
+    "file": "assets/ui/Garen-1.png",
+    "archive": "Champions/Garen.wad.client",
+    "path": "assets/characters/garen/hud/icons2d/garen_w.dds"
+  },
+  {
+    "file": "assets/ui/Garen-2.png",
+    "archive": "Champions/Garen.wad.client",
+    "path": "assets/characters/garen/hud/icons2d/garen_e1.dds"
+  },
+  {
+    "file": "assets/ui/Garen-3.png",
+    "archive": "Champions/Garen.wad.client",
+    "path": "assets/characters/garen/hud/icons2d/garen_r.dds"
+  },
+  {
+    "file": "assets/ui/Garen-circle.png",
+    "archive": "Champions/Garen.wad.client",
+    "path": "assets/characters/garen/hud/garen_circle.tex"
+  },
+  {
+    "file": "assets/ui/Garen-square.png",
+    "archive": "Champions/Garen.wad.client",
+    "path": "assets/characters/garen/hud/garen_square.tex"
+  },
+  {
+    "file": "assets/ui/Jinx-0.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/icons2d/jinx_q1.dds"
+  },
+  {
+    "file": "assets/ui/Jinx-1.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/icons2d/jinx_w.dds"
+  },
+  {
+    "file": "assets/ui/Jinx-2.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/icons2d/jinx_e.dds"
+  },
+  {
+    "file": "assets/ui/Jinx-3.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/icons2d/jinx_r.dds"
+  },
+  {
+    "file": "assets/ui/Jinx-circle.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/jinx_circle.tex"
+  },
+  {
+    "file": "assets/ui/Jinx-square.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/jinx_square.tex"
+  },
+  {
+    "file": "assets/ui/sword.png",
+    "archive": "Global.wad.client",
+    "path": "assets/items/icons2d/1038_marksman_t1_bfsword.dds"
+  },
+  {
+    "file": "assets/ui/crystal.png",
+    "archive": "Global.wad.client",
+    "path": "assets/items/icons2d/3116_rylais_sceptre.tex"
+  },
+  {
+    "file": "assets/ui/armor.png",
+    "archive": "Global.wad.client",
+    "path": "assets/items/icons2d/2051_aram_t1_guardianshorn.dds"
+  },
+  {
+    "file": "assets/ui/boots.png",
+    "archive": "Global.wad.client",
+    "path": "assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.dds"
+  },
+  {
+    "file": "assets/ui/flash.png",
+    "archive": "Global.wad.client",
+    "path": "assets/ux/jade/s3icons/samesized/s3_summoner_flash.dds"
+  },
+  {
+    "file": "assets/ui/heal.png",
+    "archive": "Global.wad.client",
+    "path": "assets/ux/jade/s3icons/samesized/s3_summoner_heal.dds"
+  },
+  {
+    "file": "assets/ui/panel.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      28,
+      90,
+      348,
+      405
+    ]
+  },
+  {
+    "file": "assets/ui/ability-frame.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      546,
+      267,
+      615,
+      337
+    ]
+  },
+  {
+    "file": "assets/ui/portrait-ring.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      3,
+      653,
+      166,
+      816
+    ]
+  },
+  {
+    "file": "assets/ui/inventory-frame.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      3,
+      411,
+      251,
+      586
+    ]
+  },
+  {
+    "file": "assets/ui/gold-frame.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      4,
+      601,
+      205,
+      639
+    ]
+  },
+  {
+    "file": "assets/ui/hp-bar.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      2,
+      919,
+      458,
+      939
+    ]
+  },
+  {
+    "file": "assets/ui/mp-bar.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      2,
+      941,
+      458,
+      963
+    ]
+  },
+  {
+    "file": "assets/ui/score-frame.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      259,
+      437,
+      669,
+      586
+    ]
+  },
+  {
+    "file": "assets/ui/gold-icon.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "rectangle": [
+      48,
+      57,
+      77,
+      80
+    ]
+  }
+]

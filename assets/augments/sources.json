@@ -1,0 +1,1203 @@
+{
+  "source": "Maps/Shipping/Map12.wad.client: maps/modespecificdata/kiwi.bin",
+  "localization": "Localized/Global.zh_CN.wad.client: data/menu/en_us/lol.stringtable",
+  "count": 142,
+  "assets": [
+    {
+      "id": "ARAM_BluntForce",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/bluntforce_large.tex",
+      "file": "aram_bluntforce.png",
+      "sha256": "3d8b58ed241e7661b2d583a0e64967e7eddecc4974a12a0692077fd9bd378fcc",
+      "bytes": 16834
+    },
+    {
+      "id": "ARAM_WitchfulThinking",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/witchfulthinking_large.tex",
+      "file": "aram_witchfulthinking.png",
+      "sha256": "235c8861b541a0b74d4837f34a495f83582af793c2142f12cb9b39f4f4c3f221",
+      "bytes": 15020
+    },
+    {
+      "id": "ARAM_Deft",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/deft_large.tex",
+      "file": "aram_deft.png",
+      "sha256": "d4ed9657116989eb300562c106f115d3194850841896f81eaa7dcef271d8fe01",
+      "bytes": 15634
+    },
+    {
+      "id": "ARAM_Goredrink",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/goredrink_large.tex",
+      "file": "aram_goredrink.png",
+      "sha256": "16efa11fd2e296fe6c44e8e959cf4ef0876b6a6e9d064f87f84419ea09cf5523",
+      "bytes": 12510
+    },
+    {
+      "id": "ARAM_MindtoMatter",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/mindtomatter_large.tex",
+      "file": "aram_mindtomatter.png",
+      "sha256": "92b98744b1c39471348cc8259d7b2d199152211ed69483b41ab2fd722c251f49",
+      "bytes": 14702
+    },
+    {
+      "id": "ARAM_HeavyHitter",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/heavyhitter_large.tex",
+      "file": "aram_heavyhitter.png",
+      "sha256": "a8dc9467357b9a2ab8eaf98ae956b8b1a4bab5926b72dc70213d1180c7184cb6",
+      "bytes": 11757
+    },
+    {
+      "id": "ARAM_ScopedWeapons",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/scopedweapons_large.tex",
+      "file": "aram_scopedweapons.png",
+      "sha256": "4a4bb598333cf58c25622f46f618e84f6e4405e87c33b777961f3240ac92c752",
+      "bytes": 14326
+    },
+    {
+      "id": "ARAM_InfernalSoul",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/infernalsoul_large.tex",
+      "file": "aram_infernalsoul.png",
+      "sha256": "e66eb96061a0ef8c3286ed986c85383dbd0c3105bf4e229bf72099668ecff60d",
+      "bytes": 13539
+    },
+    {
+      "id": "ARAM_OceanSoul",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/oceansoul_large.tex",
+      "file": "aram_oceansoul.png",
+      "sha256": "422c929b4d1acd5b806529dd6d04bb5c5e11bd94a7ba3fdfdb340619f4ad6e18",
+      "bytes": 14519
+    },
+    {
+      "id": "ARAM_MountainSoul",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/mountainsoul_large.tex",
+      "file": "aram_mindtomatter.png",
+      "sha256": "92b98744b1c39471348cc8259d7b2d199152211ed69483b41ab2fd722c251f49",
+      "bytes": 14702
+    },
+    {
+      "id": "ARAM_FirstAidKit",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/firstaidkit_large.tex",
+      "file": "aram_firstaidkit.png",
+      "sha256": "45e321fb53c45544b57e192a7cd603f17ff78d449054379242398e194b4f4b77",
+      "bytes": 12682
+    },
+    {
+      "id": "ARAM_Homeguard",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/homeguard_large.tex",
+      "file": "aram_homeguard.png",
+      "sha256": "35b9437e50d3f9b323f05027d646acb3f09b2fbaa5ba8a34dd81fbd31990f10e",
+      "bytes": 15243
+    },
+    {
+      "id": "ARAM_ItsCritical",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/itscritical_large.tex",
+      "file": "aram_itscritical.png",
+      "sha256": "130a194a5c68f26707d8012be540c0f399d39584893f2e152146b75a5a4ce78f",
+      "bytes": 14173
+    },
+    {
+      "id": "SnowballUpgrade",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/snowballupgrade_large.tex",
+      "file": "snowballupgrade.png",
+      "sha256": "3bed29b9c2ed5ebf123812a1673e84c98567b53bebf1d6cbff62124d6d2bd17f",
+      "bytes": 12418
+    },
+    {
+      "id": "ARAM_TankEngine",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/tank_engine_large.tex",
+      "file": "aram_tankengine.png",
+      "sha256": "4ae1dba1d08a01f3bc3ffdac38afbc9aa4ce6bcaab445cd0b8fa9239aa002900",
+      "bytes": 12114
+    },
+    {
+      "id": "ARAM_Perseverance",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/perseverance_large.tex",
+      "file": "aram_perseverance.png",
+      "sha256": "09e08b5270da179f3074d096632c0bb56734fdad155c9ddd2d1b13a0d9650150",
+      "bytes": 12746
+    },
+    {
+      "id": "SoulEater",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/souleater_large.tex",
+      "file": "souleater.png",
+      "sha256": "bb8c1f842ba6dce3bfe7be27b1bdf5f8dad1694253543340b301efba6c49e0b2",
+      "bytes": 12115
+    },
+    {
+      "id": "Vampirism",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/vampired_large.tex",
+      "file": "vampirism.png",
+      "sha256": "5738af2265134690287f554d3fa8717d44ba29b46006fbb434091bfc48ccb6ab",
+      "bytes": 11472
+    },
+    {
+      "id": "CritNCast",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/critncast_large.tex",
+      "file": "critncast.png",
+      "sha256": "047b26b2d9e61b1038a65cfaed044da93fdfb7b5512da1ebefcd0caa83acc262",
+      "bytes": 13487
+    },
+    {
+      "id": "ARAM_SpinToWin",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/spintowin_large.tex",
+      "file": "aram_deft.png",
+      "sha256": "d4ed9657116989eb300562c106f115d3194850841896f81eaa7dcef271d8fe01",
+      "bytes": 15634
+    },
+    {
+      "id": "ARAM_Goliath",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/goliath_large.tex",
+      "file": "aram_goliath.png",
+      "sha256": "7c32ecff8505ae03c12ee462a52f3ef8ac41551f8c3032fa73864f7d7bec8186",
+      "bytes": 19494
+    },
+    {
+      "id": "GlassCannon",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/glasscannon_large.tex",
+      "file": "glasscannon.png",
+      "sha256": "56ffb1ded1648c7d41789cb84c8c9b527ad0d9657d8cebe8c8e5e1acd9bb5240",
+      "bytes": 19287
+    },
+    {
+      "id": "ARAM_JeweledGauntlet",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/jeweledgauntlet_large.tex",
+      "file": "aram_jeweledgauntlet.png",
+      "sha256": "b39318db5fcae9e2ac402333d6d9cfa8849104366c24e7624fcbcecd5e3f30dd",
+      "bytes": 14747
+    },
+    {
+      "id": "ARAM_SymphonyofWar",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/symphonyofwar_large.tex",
+      "file": "aram_symphonyofwar.png",
+      "sha256": "af5172a87329f5a6119411b8352c8b0509d2b11b1320b082485baf3c4468a2cb",
+      "bytes": 11628
+    },
+    {
+      "id": "UltimateAwakening",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/zerohour_large.tex",
+      "file": "ultimateawakening.png",
+      "sha256": "3d6e1a7340d294f4450dd3d9d89911b47395294d9cb91f898a5720c819042de5",
+      "bytes": 15531
+    },
+    {
+      "id": "ARAM_UltimateRevolution",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/ultimaterevolution_large.tex",
+      "file": "aram_ultimaterevolution.png",
+      "sha256": "4ca168e4eb3b45b3de64d0fda6b334b2ade345ca10a86f54dc4dc29bc8fb748a",
+      "bytes": 15286
+    },
+    {
+      "id": "ARAM_BacktoBasics",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/backtobasics_large.tex",
+      "file": "aram_backtobasics.png",
+      "sha256": "48164d19588f4486b4e76effe2cf03a535a3c4d12f72adfcebbabca46f4ef1dd",
+      "bytes": 14940
+    },
+    {
+      "id": "ARAM_MysticPunch",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/mysticpunch_large.tex",
+      "file": "aram_mysticpunch.png",
+      "sha256": "473f24cfdaeba6509d6ce24a1653a8272acc452425cc6f528471bc8a6a247770",
+      "bytes": 13524
+    },
+    {
+      "id": "ARAM_FanTheHammer",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/fanthehammer_large.tex",
+      "file": "aram_fanthehammer.png",
+      "sha256": "404e3813d25cdaad5b64b371378e2e1697862163da8c4976b4c9b5cb746f9669",
+      "bytes": 12509
+    },
+    {
+      "id": "ARAM_Earthwake",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/earthwake_large.tex",
+      "file": "aram_earthwake.png",
+      "sha256": "4d24806ba45eca38be1d69056a1dee55f2b96bbdd75ca129cd82d48383b2e370",
+      "bytes": 13293
+    },
+    {
+      "id": "ARAM_CantTouchThis",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/canttouchthis_large.tex",
+      "file": "aram_canttouchthis.png",
+      "sha256": "c882a10927893e82b0f057360bd71a7276c4c7a09bb6f7afabd73aa4c9d0e9fd",
+      "bytes": 15642
+    },
+    {
+      "id": "InfiniteRecursion",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/infiniterecursion_large.tex",
+      "file": "infiniterecursion.png",
+      "sha256": "e02e2f7ded229386fed4adbf19c538173a2654ff37f0adf8e9ba403bc585c2fa",
+      "bytes": 14465
+    },
+    {
+      "id": "ARAM_ScopiestWeapons",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/scopiestweapons_large.tex",
+      "file": "aram_scopiestweapons.png",
+      "sha256": "c0ffe1043a60c8d33bac2b86f0797e5c07c7c3f4c21c2362ad131047d3bd7f31",
+      "bytes": 15603
+    },
+    {
+      "id": "ARAM_CourageoftheColossus",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/courageofthecolossus_large.tex",
+      "file": "aram_courageofthecolossus.png",
+      "sha256": "a43e203ff8307c5629aa95d44eecacdf153df11ace9daf60bbdfe3f8ea105d96",
+      "bytes": 14320
+    },
+    {
+      "id": "ARAM_TapDancer",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/tapdancer_large.tex",
+      "file": "aram_tapdancer.png",
+      "sha256": "9baf0b3b8eead56865ea922a8db22f2f1b6e2945b28501012c469f19e278c9ba",
+      "bytes": 13404
+    },
+    {
+      "id": "ARAM_InfernalConduit",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/infernalconduit_large.tex",
+      "file": "aram_infernalconduit.png",
+      "sha256": "4e17d5b11ddb2193800d527f1d95b233db5dee4e4c931fe3d48978a987727df2",
+      "bytes": 15501
+    },
+    {
+      "id": "ARAM_MasterofDuality",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/masterofduality_large.tex",
+      "file": "aram_masterofduality.png",
+      "sha256": "7799d45fa2437a9556fe77155e5a400a1b3d02b23bfd9e867d32d360797aca89",
+      "bytes": 13424
+    },
+    {
+      "id": "ARAM_GiantSlayer",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/giantslayer_large.tex",
+      "file": "aram_giantslayer.png",
+      "sha256": "27f792fdadb351bac40cc7d9ff8ae6b327483164051dc8f4df7380491d91c7ca",
+      "bytes": 17719
+    },
+    {
+      "id": "ARAM_Dashing",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/dashing_large.tex",
+      "file": "aram_dashing.png",
+      "sha256": "4f23efb3e657ce04ad5c510092b470d5db6a1e757df36ae555a3c7e99b8850b8",
+      "bytes": 14507
+    },
+    {
+      "id": "ARAM_ThreadtheNeedle",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/threadtheneedle_large.tex",
+      "file": "terraind.png",
+      "sha256": "8b95acdcd4e31fdf83db2454fb5b036e5a02fd3bc6535622e541951e0d1f858b",
+      "bytes": 17288
+    },
+    {
+      "id": "abilityframe_silver",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/augmentselection/abilityframe_silver.tex",
+      "file": "abilityframe_silver.png",
+      "sha256": "d962c61b80010d2a4213d51856419e98cf3bd5783af1026c02119d2f2d275b8f",
+      "bytes": 1039
+    },
+    {
+      "id": "abilityframe_gold",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/augmentselection/abilityframe_gold.tex",
+      "file": "abilityframe_gold.png",
+      "sha256": "169453c8c6917840c35a5faf60154868a90a6f6e3458b12e69d98369d4616022",
+      "bytes": 1028
+    },
+    {
+      "id": "abilityframe_prismatic",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/augmentselection/abilityframe_prismatic.tex",
+      "file": "abilityframe_prismatic.png",
+      "sha256": "cc8810044fd78f51f367ef589142e7cf3af8ce408befbb3a80a71ee0f797ca6d",
+      "bytes": 911
+    },
+    {
+      "id": "ARAM_Recursion",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/recursion_large.tex",
+      "file": "aram_recursion.png",
+      "sha256": "5f86864a8e1501e90a52efeb4914eb47282663e8700c962cecab425990bd61df",
+      "bytes": 13989
+    },
+    {
+      "id": "ARAM_BreadAndButter",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "ARAM_BreadAndJam",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "ARAM_BreadAndCheese",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "ARAM_CelestialBody",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/celestialbody_large.tex",
+      "file": "aram_celestialbody.png",
+      "sha256": "a825c1df8a0c3f8da844187085f90bb0deba6e8549cadca2bfc008738727c203",
+      "bytes": 13627
+    },
+    {
+      "id": "ARAM_Marksmage",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/marksmage_large.tex",
+      "file": "aram_marksmage.png",
+      "sha256": "e2811894141b58336612c76dc22567c25f61d8790ebdb3debe4d47da9005e14b",
+      "bytes": 11704
+    },
+    {
+      "id": "ARAM_Eureka",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/eureka_large.tex",
+      "file": "aram_eureka.png",
+      "sha256": "092643afe4d1a62ee9afa3aa87457c13f71a19f6e7707ec985139019e8a9cca5",
+      "bytes": 15026
+    },
+    {
+      "id": "ARAM_WithHaste",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/withhaste_large.tex",
+      "file": "aram_withhaste.png",
+      "sha256": "0467263447499d26fe8865546ba929db9f8ab5c5f11e013bbc6f043f0905666e",
+      "bytes": 16814
+    },
+    {
+      "id": "ARAM_LegDay",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/legday_large.tex",
+      "file": "aram_legday.png",
+      "sha256": "bc3b02120178aa26fa049b8b1bf27c1cd6de247afe8b4956c48548c798c257b0",
+      "bytes": 10420
+    },
+    {
+      "id": "ARAM_ScopierWeapons",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/scopierweapons_large.tex",
+      "file": "aram_scopierweapons.png",
+      "sha256": "42272b8dd2cc65f1dccfed8c3d79dbcb98e7c19c79c9207ac2ca9045cbf7b7b7",
+      "bytes": 14706
+    },
+    {
+      "id": "ARAM_GetExcited",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/getexcited_large.tex",
+      "file": "criticalrhythm.png",
+      "sha256": "b97d577796bca0f65a16e7cbfde26a08c5d53e8561710c1366efad20c92b9f9b",
+      "bytes": 11695
+    },
+    {
+      "id": "ARAM_SoulSiphon",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/soulsiphon_large.tex",
+      "file": "aram_soulsiphon.png",
+      "sha256": "048571eb3765414204cebf8e929526488b82f1bd2f9356c71bdafe36ada59517",
+      "bytes": 13530
+    },
+    {
+      "id": "ARAM_TankItOrLeaveIt",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/tankitorleaveit_large.tex",
+      "file": "aram_tankitorleaveit.png",
+      "sha256": "7ddfe0a8bc1fc8777f11e42df24ad62c918b0c5919ef447f747c9c0d2b898b65",
+      "bytes": 13508
+    },
+    {
+      "id": "ARAM_DawnbringersResolve",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/dawnbringersresolve_large.tex",
+      "file": "aram_perseverance.png",
+      "sha256": "09e08b5270da179f3074d096632c0bb56734fdad155c9ddd2d1b13a0d9650150",
+      "bytes": 12746
+    },
+    {
+      "id": "ARAM_PhenomenalEvil",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/aram_phenomenalevil_large.tex",
+      "file": "aram_phenomenalevil.png",
+      "sha256": "be94834002b72afbdf6b5f507e6f8463224eb4bbc961b2479f7b84c8a5f7b8b6",
+      "bytes": 11603
+    },
+    {
+      "id": "CriticalRhythm",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/criticalrhythm_large.tex",
+      "file": "criticalrhythm.png",
+      "sha256": "b97d577796bca0f65a16e7cbfde26a08c5d53e8561710c1366efad20c92b9f9b",
+      "bytes": 11695
+    },
+    {
+      "id": "ARAM_Erosion",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/erosion_large.tex",
+      "file": "aram_erosion.png",
+      "sha256": "9e0e544c174873f1abfc05674453cee87179d1738319b9cf439a7b8f9e0bfb71",
+      "bytes": 13537
+    },
+    {
+      "id": "Donation",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/donation_large.tex",
+      "file": "donation.png",
+      "sha256": "ca7aad1da610bd93dcde7bf162e39035f7af4339f8f8ae3616ae14ba7310a0f9",
+      "bytes": 14998
+    },
+    {
+      "id": "ARAM_ADAPt",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/adapt_large.tex",
+      "file": "aram_adapt.png",
+      "sha256": "7cd7f4b63e39fa7d422ea6d73ec3d64031f0586e20d79c0439a4e8ef442e641b",
+      "bytes": 14846
+    },
+    {
+      "id": "ARAM_escAPADe",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/escapade_large.tex",
+      "file": "aram_adapt.png",
+      "sha256": "7cd7f4b63e39fa7d422ea6d73ec3d64031f0586e20d79c0439a4e8ef442e641b",
+      "bytes": 14846
+    },
+    {
+      "id": "ARAM_Archmage",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/eureka_large.tex",
+      "file": "aram_eureka.png",
+      "sha256": "092643afe4d1a62ee9afa3aa87457c13f71a19f6e7707ec985139019e8a9cca5",
+      "bytes": 15026
+    },
+    {
+      "id": "ARAM_BigBrain",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/bigbrain_large.tex",
+      "file": "aram_bigbrain.png",
+      "sha256": "19afc417994ff868ca2e90220e6842d95e99c8b4ded9b7465f364b09a732515e",
+      "bytes": 14907
+    },
+    {
+      "id": "ARAM_DiveBomber",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/divebomber_large.tex",
+      "file": "aram_divebomber.png",
+      "sha256": "0859372e710f273b883240ca4223bc6c303757a844fc797d5124090b26a7d28b",
+      "bytes": 15092
+    },
+    {
+      "id": "ARAM_DontBlink",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/dontblink_large.tex",
+      "file": "aram_dontblink.png",
+      "sha256": "d8d34161937dbdda1c385b7b0d7550c2761661232428e94445c19b2eb6901898",
+      "bytes": 15802
+    },
+    {
+      "id": "ARAM_Firebrand",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/firebrand_large.tex",
+      "file": "aram_firebrand.png",
+      "sha256": "397c735edd481cbf5f446c0fb3a1c7ef58ba447346ec7de4302a4f9b46316f05",
+      "bytes": 15115
+    },
+    {
+      "id": "ARAM_ItsKillingTime",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/itskillingtime_large.tex",
+      "file": "aram_itskillingtime.png",
+      "sha256": "17ed98503d0a057f3aaf60f214b07e6b0b3917954dfdf8bc7ccf94107c406a16",
+      "bytes": 13322
+    },
+    {
+      "id": "ARAM_MadScientist",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/madscientist_large.tex",
+      "file": "aram_madscientist.png",
+      "sha256": "9bcd7b4fff2f4f5bc699e5eec8c3ff6fc9b6067b070734885626809258e76409",
+      "bytes": 19307
+    },
+    {
+      "id": "ARAM_MagicMissile",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/maps/particles/kiwi/magicmissile_large.tex",
+      "file": "aram_magicmissile.png",
+      "sha256": "e92f52fbbbb1fa53ba714b2b008905d3f46c8b7cd3e952bd4267eac339120194",
+      "bytes": 12914
+    },
+    {
+      "id": "ARAM_OutlawsGrit",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/outlawsgrit_large.tex",
+      "file": "aram_outlawsgrit.png",
+      "sha256": "423c5add7a6dd77eb57e38da0571ac227857c07ed50e2fc8d89fdf6d046cff96",
+      "bytes": 11666
+    },
+    {
+      "id": "ARAM_Quest_SteelYourHeart",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/quest_steelyourheart_large.tex",
+      "file": "aram_quest_steelyourheart.png",
+      "sha256": "7887e7d5f7424a1e624084be83be19df382a72a21a132930d2bdbf4bd636e4e3",
+      "bytes": 16707
+    },
+    {
+      "id": "ARAM_ShadowRunner",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/shadowrunner_large.tex",
+      "file": "aram_shadowrunner.png",
+      "sha256": "0bb14fc69e3cfd68053f235eb43c835190bdfd8429c00d7fdd0bc8e9a1e88c10",
+      "bytes": 12670
+    },
+    {
+      "id": "ARAM_SkilledSniper",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/skilledsniper_large.tex",
+      "file": "aram_skilledsniper.png",
+      "sha256": "09528e13f25e24472af8780cf1ad66ed318e127f18e2558a36be31659bed0129",
+      "bytes": 14570
+    },
+    {
+      "id": "ARAM_SlapAround",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/slaparound_large.tex",
+      "file": "aram_slaparound.png",
+      "sha256": "e8ab3a68a10a61f3e29db820842f2b6039c7fc66ea1abcffa774901ce24c1607",
+      "bytes": 10651
+    },
+    {
+      "id": "ARAM_SpiritualPurification",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/spiritualpurification_large.tex",
+      "file": "aram_spiritualpurification.png",
+      "sha256": "f0207ec4a8046902025a845dae2fec97505593f52cdc27e4562e9cf87d08b91a",
+      "bytes": 19904
+    },
+    {
+      "id": "VeilOfWarding",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/poltergeist_large.tex",
+      "file": "veilofwarding.png",
+      "sha256": "5fbc9a156ca2c1af9cff380d9c6c00a7d053365d0fc036e5558c505705e97c9b",
+      "bytes": 10545
+    },
+    {
+      "id": "Adamant",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/adamant_large.tex",
+      "file": "adamant.png",
+      "sha256": "1d7c305fb7a1ac2213a0f45724269ef87d65319b1eaf240000c98339dd43f831",
+      "bytes": 13713
+    },
+    {
+      "id": "EscapePlan",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/escapeplan_large.tex",
+      "file": "escapeplan.png",
+      "sha256": "d64039cb5a5c551cefdfcedae4b767053f377330745106cbdce385b2528e73e1",
+      "bytes": 11342
+    },
+    {
+      "id": "FinalForm",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/finalform_large.tex",
+      "file": "finalform.png",
+      "sha256": "111f46281670d5401a8ea278f87ed35a128293acf7738caa2139f85b0105dc51",
+      "bytes": 14159
+    },
+    {
+      "id": "SwiftAndSafe",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/swiftandsafe_large.tex",
+      "file": "swiftandsafe.png",
+      "sha256": "6b7e7be7251be3d5917e55c9dbbe1072cfcdb88d111d5389a01f9836259f8dd2",
+      "bytes": 10891
+    },
+    {
+      "id": "KillSecured",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/killsecure_large.tex",
+      "file": "killsecured.png",
+      "sha256": "e6c096ef78ff098e211a6d707f9506855f09340b2573c1456dfc62b9ea19b320",
+      "bytes": 10405
+    },
+    {
+      "id": "ShrinkEngine",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/shrinkengine_large.tex",
+      "file": "shrinkengine.png",
+      "sha256": "1ac2f89e53d7aa81936970e6a2c7cbbd69223287e0edf95e94df2703dddc54d5",
+      "bytes": 12881
+    },
+    {
+      "id": "SkipTheBasics",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/skipthebasic_large.tex",
+      "file": "skipthebasics.png",
+      "sha256": "0f831b58943a7e7dabc849d1534d7fe5b4e1aa4885943bbd8744fe421285be37",
+      "bytes": 15375
+    },
+    {
+      "id": "ARAM_Flashy",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/flashy_large.tex",
+      "file": "aram_flashy.png",
+      "sha256": "8868d1e1eaa9c47b8cfcaa68b78ca79349c3f3cbed59cfa4d8d8ab1553e4d08b",
+      "bytes": 13471
+    },
+    {
+      "id": "Flash2",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/flash2_large.tex",
+      "file": "flash2.png",
+      "sha256": "dfb6d19cad00e46ca43a8c90310fcd8aabbf042b933696fb44bcd69448990705",
+      "bytes": 11227
+    },
+    {
+      "id": "GoldenSnowball",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/goldensnowball_large.tex",
+      "file": "goldensnowball.png",
+      "sha256": "0aeecd899d93fcc4bce863fc6ae6b12a9c6d5a7fbc31469dc9532853730bb296",
+      "bytes": 18311
+    },
+    {
+      "id": "ARAM_Snowday",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/snowday_large.tex",
+      "file": "aram_snowday.png",
+      "sha256": "f086551149b9182013355aa9ade1c0c42e5250423448369918cd69ba64494488",
+      "bytes": 11891
+    },
+    {
+      "id": "BiggestSnowballEver",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/biggestsnowballever_large.tex",
+      "file": "biggestsnowballever.png",
+      "sha256": "8ee83b4b7390e6041570778e58b0a591fddcc4a305f100797b8d72831fb7c00c",
+      "bytes": 15076
+    },
+    {
+      "id": "ARAM_Juiced",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/juiced_large.tex",
+      "file": "aram_juiced.png",
+      "sha256": "8a7671ead1f3978b79feca427a40900d3bdd27221502a4ad17840f4d9227aa72",
+      "bytes": 14206
+    },
+    {
+      "id": "ARAM_IceCold",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/icecold_large.tex",
+      "file": "aram_icecold.png",
+      "sha256": "1984c85aba4b185f7b604e7607f60a3099186e737d3e859b5cb2ccefcc68a056",
+      "bytes": 16742
+    },
+    {
+      "id": "ARAM_AllForYou",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/allforyou_large.tex",
+      "file": "aram_allforyou.png",
+      "sha256": "9ef2235bb685e9062e1383be2c096724323e095058899fa7d19b6ac580d8e4fa",
+      "bytes": 11733
+    },
+    {
+      "id": "ARAM_CriticalHealing",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/criticalhealing_large.tex",
+      "file": "aram_criticalhealing.png",
+      "sha256": "236939116aac2e33a7c425f9d78346b66d8d0c0f0dae0f461079b84f900ae889",
+      "bytes": 14645
+    },
+    {
+      "id": "ARAM_CircleofDeath",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/circleofdeath_large.tex",
+      "file": "aram_circleofdeath.png",
+      "sha256": "3b51a101962c76a79ccb1e1c22e9520dc42d4360f19b1fcb41303b29b08a68f8",
+      "bytes": 14515
+    },
+    {
+      "id": "Equilibrium",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/equillibrium_large.tex",
+      "file": "equilibrium.png",
+      "sha256": "9c318e5660a41e029c45f3821404d26ccda2ef612677248d7275de9666c22f04",
+      "bytes": 14560
+    },
+    {
+      "id": "ARAM_WindspeakersBlessing",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/windspeakersblessing_large.tex",
+      "file": "aram_windspeakersblessing.png",
+      "sha256": "21ba73c89b9276edec80be46ba799ba4a47b134514acecb9839956f554f30e9f",
+      "bytes": 16171
+    },
+    {
+      "id": "ARAM_SonicBoom",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/sonicboom_large.tex",
+      "file": "aram_sonicboom.png",
+      "sha256": "033fabd3ab57463abf8246e38892f7c7c3e087b5542ee31e8bbe7982a9c7e7d1",
+      "bytes": 12760
+    },
+    {
+      "id": "ARAM_ProteinShake",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/proteinshake_large.tex",
+      "file": "aram_proteinshake.png",
+      "sha256": "fb673a276df4aa815cb7397236f5e676ed4b7434b140a42e445d4a0bf94f5419",
+      "bytes": 16229
+    },
+    {
+      "id": "WarlockJuicebox",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/warlockjuicebox_large.tex",
+      "file": "warlockjuicebox.png",
+      "sha256": "ca6438185d5bb62ec757d440f07d468c8d165d578cc1ce45bab7082ba9a8c52a",
+      "bytes": 12532
+    },
+    {
+      "id": "MightyShield",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/mightyshield_large.tex",
+      "file": "mightyshield.png",
+      "sha256": "cf072208ca8a45b8e572f445f90cd9745113c00bf852681a92cced16a17f9d99",
+      "bytes": 15561
+    },
+    {
+      "id": "PatOnTheBack",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/patontheback_large.tex",
+      "file": "patontheback.png",
+      "sha256": "8bcd641276d00c6216232dafbc08fc7c91fa4b91644bb1d2fa93b111fadd9fca",
+      "bytes": 15877
+    },
+    {
+      "id": "ARAM_WeeWooWeeWoo",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/weewooweewoo_large.tex",
+      "file": "aram_weewooweewoo.png",
+      "sha256": "175efab0fbc737a085adc40da3ba5a5f2c682a5a2947f1a3a46dfe4c496123a1",
+      "bytes": 10361
+    },
+    {
+      "id": "ARAM_RabbleRousing",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/rabblerousing_large.tex",
+      "file": "aram_rabblerousing.png",
+      "sha256": "ff1ef86ac9f46de912bb5617071717ae8812e20d7cc5bf3824bd3e5d8500bc88",
+      "bytes": 12911
+    },
+    {
+      "id": "ARAM_SustainingStrike",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.tex",
+      "file": "itsgotime.png",
+      "sha256": "04a6ad550d71e9476e05effa2bc2f91214b6108653a11fb05bae82457271c6b2",
+      "bytes": 1150
+    },
+    {
+      "id": "DoubleDefense",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.tex",
+      "file": "itsgotime.png",
+      "sha256": "04a6ad550d71e9476e05effa2bc2f91214b6108653a11fb05bae82457271c6b2",
+      "bytes": 1150
+    },
+    {
+      "id": "ARAM_Terror",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/desecrator_large.tex",
+      "file": "aram_terror.png",
+      "sha256": "1654e409a0b612ec73416d58629b6172c890b702919f4519108113b07a2a3e8d",
+      "bytes": 18556
+    },
+    {
+      "id": "ARAM_Quickstep",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "Bonk",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/bonk_large.tex",
+      "file": "bonk.png",
+      "sha256": "b090d175b8cdf79be072af38ea6cda7791e40cc0eed96627b10d7826e5b6c42f",
+      "bytes": 14272
+    },
+    {
+      "id": "Overloaded",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.tex",
+      "file": "overloaded.png",
+      "sha256": "4388597bb72564d741276f80fd0cabb6ae0f6fcd532441bad985cdba8bce0554",
+      "bytes": 1328
+    },
+    {
+      "id": "WardingWeapon",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.tex",
+      "file": "itsgotime.png",
+      "sha256": "04a6ad550d71e9476e05effa2bc2f91214b6108653a11fb05bae82457271c6b2",
+      "bytes": 1150
+    },
+    {
+      "id": "DarkWind",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/upgradehubris_large.tex",
+      "file": "darkwind.png",
+      "sha256": "7c9274e7feddaa947cc2bc7bc6e46ce6a282766930b7a644f525f389a7627831",
+      "bytes": 15783
+    },
+    {
+      "id": "KeepGoing",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/lightningstrikes_large.tex",
+      "file": "terraind.png",
+      "sha256": "8b95acdcd4e31fdf83db2454fb5b036e5a02fd3bc6535622e541951e0d1f858b",
+      "bytes": 17288
+    },
+    {
+      "id": "LittleExtraHelp",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "Missile_Split",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.tex",
+      "file": "overloaded.png",
+      "sha256": "4388597bb72564d741276f80fd0cabb6ae0f6fcd532441bad985cdba8bce0554",
+      "bytes": 1328
+    },
+    {
+      "id": "SpellVolley",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.tex",
+      "file": "overloaded.png",
+      "sha256": "4388597bb72564d741276f80fd0cabb6ae0f6fcd532441bad985cdba8bce0554",
+      "bytes": 1328
+    },
+    {
+      "id": "ARAM_Multishot",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.tex",
+      "file": "overloaded.png",
+      "sha256": "4388597bb72564d741276f80fd0cabb6ae0f6fcd532441bad985cdba8bce0554",
+      "bytes": 1328
+    },
+    {
+      "id": "SnapBack",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "VoidDash",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "Terraind",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/lightningstrikes_large.tex",
+      "file": "terraind.png",
+      "sha256": "8b95acdcd4e31fdf83db2454fb5b036e5a02fd3bc6535622e541951e0d1f858b",
+      "bytes": 17288
+    },
+    {
+      "id": "SpecializedEmpowerment",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/marksmage_large.tex",
+      "file": "aram_marksmage.png",
+      "sha256": "e2811894141b58336612c76dc22567c25f61d8790ebdb3debe4d47da9005e14b",
+      "bytes": 11704
+    },
+    {
+      "id": "ARAM_SpecializedRecursion",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.tex",
+      "file": "snapback.png",
+      "sha256": "a518e0fdb507b557c0beb09a37d6131927766db75f4dd7a491a60dd3c2d45ff6",
+      "bytes": 1237
+    },
+    {
+      "id": "CriticalMissile",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/criticalmissile_large.tex",
+      "file": "criticalmissile.png",
+      "sha256": "6b7ee4bdfbce4626d130467fc94b86b3a170e45d1d9355510c66289ba2804c12",
+      "bytes": 13453
+    },
+    {
+      "id": "Twinfire",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/twinfire_large.tex",
+      "file": "bonk.png",
+      "sha256": "b090d175b8cdf79be072af38ea6cda7791e40cc0eed96627b10d7826e5b6c42f",
+      "bytes": 14272
+    },
+    {
+      "id": "Goldrend",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/goldrend_large.tex",
+      "file": "goldrend.png",
+      "sha256": "bd91968d26d6cbd7ad1de8a7ee730c1107ed05ff58ccab0497a4a1444e873817",
+      "bytes": 16836
+    },
+    {
+      "id": "BloodMoneyBurn",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/kiwi/augments/icons/bloodmoney2_large.tex",
+      "file": "bloodmoneyburn.png",
+      "sha256": "cc4ea30be674601237fcdc6c821368747942126c352cfe2f23a9a7ef224f6bcf",
+      "bytes": 14398
+    },
+    {
+      "id": "ARAM_ShrinkRay",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "path": "assets/ux/cherry/augments/icons/shrinkray_large.tex",
+      "file": "aram_shrinkray.png",
+      "sha256": "85c64f590aed6eca134b1073589c1b8659a2fb1aaa447e8ac2e19cffc109b0a1",
+      "bytes": 13971
+    },
+    {
+      "id": "ARAM_ApexInventor",
+      "path": "assets/ux/cherry/augments/icons/apexinventor_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{39d2d345}",
+      "file": "aram_apexinventor.png",
+      "sha256": "fdd5ede54a42c69c34bc01cc77eba775a63d6d145e510da06168011a40690541",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_StackosaurusRex",
+      "path": "assets/ux/cherry/augments/icons/stackosaurusrex_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{0b8940a9}",
+      "file": "aram_stackosaurusrex.png",
+      "sha256": "609565193d94cb3e23ac126cf6e961fad1ccb8d4ef4195fa8da60749568e82a5",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_Zealot",
+      "path": "assets/ux/kiwi/augments/icons/zealot_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{2ca881b3}",
+      "file": "aram_zealot.png",
+      "sha256": "daeb8c53c656e0f561d6637d0103481b153bde17a81591ea457a652547233ee0",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "BrushPower",
+      "path": "assets/ux/kiwi/augments/icons/brushpower_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{1330f547}",
+      "file": "brushpower.png",
+      "sha256": "d10c359acc831c99e7142b6e7677581eb589968d5f87065c305ff7a3bf0b0d9a",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "NatureIsHealing",
+      "path": "assets/ux/kiwi/augments/icons/natureishealing_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{6b4089f1}",
+      "file": "natureishealing.png",
+      "sha256": "ba2e289260daf4138fff197092b29881022b745fe160b2224358dd9b4408bae8",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_Quest_UrfsChampion",
+      "path": "assets/ux/kiwi/augments/icons/quest_urfschampion_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{c8e78bb0}",
+      "file": "aram_quest_urfschampion.png",
+      "sha256": "2abe718fdb781cebd4a89a24383f71be0e076146099e05086af1930a56ab7c68",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_Flashbang",
+      "path": "assets/ux/cherry/augments/icons/flashbang_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{0b68dc04}",
+      "file": "aram_flashbang.png",
+      "sha256": "4c8b00039b60f5c4cfe6eaa179a3790ac5e58cbb96116f9c4ff0922dbfb629c5",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_SearingDawn",
+      "path": "assets/ux/cherry/augments/icons/searingdawn_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{8114ef97}",
+      "file": "aram_searingdawn.png",
+      "sha256": "5df0817cd13583e4873fb8af09beaff2c0cfdb99dce066539efff0e7d4fdce81",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_DivineIntervention",
+      "path": "assets/ux/cherry/augments/icons/slowactingpainkillers_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{173d41ea}",
+      "file": "aram_divineintervention.png",
+      "sha256": "5f3541fb1c8eb490e12d3fb41b1b51f9bf31a599675a5cf0315bc211f5ccc6a3",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_Firefox",
+      "path": "assets/ux/cherry/augments/icons/firfox_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{486b6b05}",
+      "file": "aram_firefox.png",
+      "sha256": "807469c6f59553243da94cd9af0c8650ac9df3c9d16d8cccf1575d025cd937ed",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_OkBoomerang",
+      "path": "assets/ux/cherry/augments/icons/okboomerang_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{1181a302}",
+      "file": "aram_okboomerang.png",
+      "sha256": "144b1971400aaea7b56bead47d2f181e0cede27b1d845b82bafa454305dbac2a",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_Cruelty",
+      "path": "assets/ux/kiwi/augments/icons/cruelty_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{ecec0ffa}",
+      "file": "aram_cruelty.png",
+      "sha256": "5a6b513e443d98c88e9f92ac353e86d20c8a78524ecf50065a37c23a6d73ed1a",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "Sonata",
+      "path": "assets/ux/kiwi/augments/icons/sonata_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{0729448a}",
+      "file": "sonata.png",
+      "sha256": "4b18a583159481fa5e8cb1026733d8fb27f16dc38563ea5ea8af5055c249e046",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "DontChangeTheChannel",
+      "path": "assets/ux/kiwi/augments/icons/dontchangethechannel_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{cb9bdfcb}",
+      "file": "dontchangethechannel.png",
+      "sha256": "69cac426818ccc92053f6457f9892aed5f5e94269b8c8d73da380a0b1502f9b7",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ItsGoTime",
+      "path": "assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{07228d9f}",
+      "file": "itsgotime.png",
+      "sha256": "04a6ad550d71e9476e05effa2bc2f91214b6108653a11fb05bae82457271c6b2",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "id": "SurgeField",
+      "path": "assets/ux/kiwi/augments/icons/surgefield_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{b06a7688}",
+      "file": "surgefield.png",
+      "sha256": "de2d1aa11442ee50b9b5254c7697956d5e308a4b213ce045d53a85ecc1462cd9",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_FeyMagic",
+      "path": "assets/ux/cherry/augments/icons/feymagic_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{11afd833}",
+      "file": "aram_feymagic.png",
+      "sha256": "199df9e1d0e0f5baf044ac9c23dd780acb2c908b38a7a479c067fa887602c34a",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "ARAM_LightemUp",
+      "path": "assets/ux/cherry/augments/icons/lightemup_large.tex",
+      "archive": "Maps/Shipping/Map12.wad.client",
+      "sourceKey": "{fb203aa3}",
+      "file": "aram_lightemup.png",
+      "sha256": "2a4f741cf54e60b735f359d8d96b7afe97e967e8a1080d96ed25491eace80747",
+      "width": 256,
+      "height": 256
+    }
+  ]
+}

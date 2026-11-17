@@ -1,0 +1,102 @@
+[
+  {
+    "path": "uiautoatlas/clientstates/gameplay/ux/lol/playerframe/atlas_0.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-f8cdcc98e0a9.png"
+  },
+  {
+    "path": "uiautoatlas/clientstates/gameplay/ux/lol/playerinventory/atlas_0.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-66318204fe40.png"
+  },
+  {
+    "path": "assets/ux/lol/clarity_hudatlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-a4c6abd11507.png"
+  },
+  {
+    "path": "assets/ux/lol/clarity_abilityatlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-ef02fa598634.png"
+  },
+  {
+    "path": "assets/ux/lol/hudresetatlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-80bbd43496ae.png"
+  },
+  {
+    "path": "assets/ux/lol/clarity_levelupatlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-eaed34679172.png"
+  },
+  {
+    "path": "assets/ux/lol/statspanel_atlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-9cbe10e2e782.png"
+  },
+  {
+    "path": "assets/ux/lol/perkssummonerspecialistui_atlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-0750e9c0963a.png"
+  },
+  {
+    "path": "assets/ux/common/tooltipatlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-c39dedbf1856.png"
+  },
+  {
+    "path": "assets/ux/lol/animatedmeters.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-55cc933e8518.png"
+  },
+  {
+    "path": "assets/ux/lol/clarity_levelupatlas2.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-c81ec184e642.png"
+  },
+  {
+    "path": "assets/ux/lol/clarity_resourceatlas.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-13a836ecc3e7.png"
+  },
+  {
+    "path": "assets/ux/lol/clarity_hudatlasupdate.tex",
+    "archive": "UI.wad.client",
+    "file": "atlas-902d1b84f2ea.png"
+  },
+  {
+    "path": "assets/characters/ashe/hud/icons2d/ashe_p.dds",
+    "archive": "Champions/Ashe.wad.client",
+    "file": "Ashe-passive.png"
+  },
+  {
+    "path": "assets/characters/lux/hud/icons2d/luxilluminatingfraulein.dds",
+    "archive": "Champions/Lux.wad.client",
+    "file": "Lux-passive.png"
+  },
+  {
+    "path": "assets/characters/ahri/hud/icons2d/ahri_souleater2.dds",
+    "archive": "Champions/Ahri.wad.client",
+    "file": "Ahri-passive.png"
+  },
+  {
+    "path": "assets/characters/ezreal/hud/icons2d/ezreal_risingspellforce.dds",
+    "archive": "Champions/Ezreal.wad.client",
+    "file": "Ezreal-passive.png"
+  },
+  {
+    "path": "assets/characters/garen/hud/icons2d/garen_passive.dds",
+    "archive": "Champions/Garen.wad.client",
+    "file": "Garen-passive.png"
+  },
+  {
+    "path": "assets/characters/jinx/hud/icons2d/jinx_passive.dds",
+    "archive": "Champions/Jinx.wad.client",
+    "file": "Jinx-passive.png"
+  },
+  {
+    "path": "data/spells/icons2d/recallhome.dds",
+    "archive": "DATA.wad.client",
+    "file": "recall.png"
+  }
+]

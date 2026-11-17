@@ -1,0 +1,9 @@
+{
+  "archive": "hanyue:C:/WeGameApps/英雄联盟/Game/DATA/FINAL/UI.wad.client",
+  "fonts": [
+    "assets/ux/fonts/fzltxihk.ttf",
+    "assets/ux/fonts/fzdhtk.ttf",
+    "assets/ux/fonts/beaufortforlol-bold.otf",
+    "assets/ux/fonts/spiegel-regular.otf"
+  ]
+}

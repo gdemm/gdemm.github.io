@@ -1,0 +1,2570 @@
+{
+  "version": "installed-20260911-1",
+  "count": 232,
+  "source": "Global.wad.client / items / ItemDataClient.inventoryIcon",
+  "items": [
+    {
+      "id": "1001",
+      "sourceId": "1001",
+      "path": "assets/items/icons2d/1001_class_t1_bootsofspeed.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "ec991b5eb87c82a7b8912b42f064147dee30709ce1eba4d57b50b2f9e4301bc4"
+    },
+    {
+      "id": "1004",
+      "sourceId": "1004",
+      "path": "assets/items/icons2d/1004_class_t1_faeriecharm.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "8ba9526f37ad5553b4e46f87b11b58d68f5f16bfa9cb798d30a6a9b5ca306ead"
+    },
+    {
+      "id": "1006",
+      "sourceId": "1006",
+      "path": "assets/items/icons2d/1006_tank_t1_rejuvenationbead.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "0babb5d759b05feb2f6b59c0b5cec5576feae30d8742beeeac0575b8ba012e3e"
+    },
+    {
+      "id": "1011",
+      "sourceId": "1011",
+      "path": "assets/items/icons2d/1011_class_t2_giantsbelt.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "7ccac16b7101d35bb7f438e67ff7209223f87471f70fd5db9698315d3ed927f5"
+    },
+    {
+      "id": "1018",
+      "sourceId": "1018",
+      "path": "assets/items/icons2d/1018_base_t1_cloakagility.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "bc96e5d1eedf5b8f24989a8811a48ce3c8ff1d618a42c6db914585c3f2a91a20"
+    },
+    {
+      "id": "1026",
+      "sourceId": "1026",
+      "path": "assets/items/icons2d/1026_mage_t1_blastingwand.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "4e8dbc2f2693bb56d56baae41e6c10d35c84e8f24b8a7f975572f1cb54ac235e"
+    },
+    {
+      "id": "1027",
+      "sourceId": "1027",
+      "path": "assets/items/icons2d/1027_base_t1_saphirecrystal.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "64d7e2142d05fc611339135ec9d641f8db770b22f82b4a5b6b959bcee035ddad"
+    },
+    {
+      "id": "1028",
+      "sourceId": "1028",
+      "path": "assets/items/icons2d/1028_base_t1_rubycrystal.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "e66532dec8bc34f7b5c0b3be4af69f40a9a136b5ada1eb6ec9ab67dab3149116"
+    },
+    {
+      "id": "1029",
+      "sourceId": "1029",
+      "path": "assets/items/icons2d/1029_base_t1_clotharmor.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3354b7decff4512b61293000a27a927942b4a77ee084a4a8490dec495ce9337d"
+    },
+    {
+      "id": "1031",
+      "sourceId": "1031",
+      "path": "assets/items/icons2d/1031_base_t2_chainvest.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "407e31f2d9facdc702c48fb31edf68b6610a8290b91dbcf6cc0ebe4bdfb649a9"
+    },
+    {
+      "id": "1033",
+      "sourceId": "1033",
+      "path": "assets/items/icons2d/1033_base_t1_magicmantle.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c92f9f9d3c4ed7e59b18556f2dc49d066bfa445a4cc12fa561e12c5426bece4f"
+    },
+    {
+      "id": "1036",
+      "sourceId": "1036",
+      "path": "assets/items/icons2d/1036_class_t1_longsword.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "dfc4aa7011c59bbd510dc0399c4437090fdf520984fdef6b07766643122146c8"
+    },
+    {
+      "id": "1037",
+      "sourceId": "1037",
+      "path": "assets/items/icons2d/1037_class_t1_pickaxe.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "65dee66ca166806d389cde6440bbe2e1431230a910d2d50f826e4a67fd359be4"
+    },
+    {
+      "id": "1038",
+      "sourceId": "1038",
+      "path": "assets/items/icons2d/1038_marksman_t1_bfsword.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "df4efd06da0faf3e4bebbc7904f6921ede21c92615c8e8b00129c87e004cb724"
+    },
+    {
+      "id": "1042",
+      "sourceId": "1042",
+      "path": "assets/items/icons2d/1042_base_t1_dagger.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c6dd49fcd9137fbe84867458d50fea67dcabd51b884426ffa5a3718464bc8c10"
+    },
+    {
+      "id": "1043",
+      "sourceId": "1043",
+      "path": "assets/items/icons2d/1043_base_t2_recurvebow.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d016270ec694a1770491d86de1f8bb1d80a37856bc71bd6813eb6368118590f6"
+    },
+    {
+      "id": "1052",
+      "sourceId": "1052",
+      "path": "assets/items/icons2d/1052_mage_t2_amptome.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "ccecd9bd094efdd1aa0b252756a12df77e2e3b5de96c600fd35d4566d0fd00d6"
+    },
+    {
+      "id": "1053",
+      "sourceId": "1053",
+      "path": "assets/items/icons2d/1053_fighter_t2_vampiricscepter.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "182388cc31833a2051e9a9343ccf9eea2e9df45077128b947105d1341e4a6558"
+    },
+    {
+      "id": "1054",
+      "sourceId": "1054",
+      "path": "assets/items/icons2d/1054_dorans_shield.tex",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": false,
+      "sha256": "125dc725b9638c7565fa8199b2b6fc92d3c320bc0e2f7c1830f28efca21da8b2"
+    },
+    {
+      "id": "1055",
+      "sourceId": "1055",
+      "path": "assets/items/icons2d/1055_marksman_t1_doransblade.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c4e2fbd68836931f7e6157c495be62975795b013006d9a0eef9249e8d1a2c1e5"
+    },
+    {
+      "id": "1056",
+      "sourceId": "1056",
+      "path": "assets/items/icons2d/1056_mage_t1_doransring.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "bf2997e5ee0cd429bac73560b59ffd0b68117bbdb9d2cdc224dc6e744848929f"
+    },
+    {
+      "id": "1057",
+      "sourceId": "1057",
+      "path": "assets/items/icons2d/1057_tank_t2_negatroncloak.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "2a60c9cebb75eaf8f7ac0c68f65d9e2b92a8348eefb70968b0a5d75b3f551725"
+    },
+    {
+      "id": "1058",
+      "sourceId": "1058",
+      "path": "assets/items/icons2d/1058_mage_t1_largerod.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "af75015ab7fc551b9eb01f655a8e8d6c8eb8c4ed96bd26d8f200ae8eb2f2c99f"
+    },
+    {
+      "id": "2003",
+      "sourceId": "2003",
+      "path": "assets/items/icons2d/2003_class_t1_healthpotion.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "10ab30a93877c271010876c2145ab553ec9fd171da035717c4f5531ae80aba76"
+    },
+    {
+      "id": "2015",
+      "sourceId": "2015",
+      "path": "assets/items/icons2d/2015_marksman_t2_kirkcheisshard.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "81a3fa981aea1680012162ae001d5ecd06616850bd0ce0d655b2692f141c0d07"
+    },
+    {
+      "id": "2031",
+      "sourceId": "2031",
+      "path": "assets/items/icons2d/2031_class_t1_refillablepotion.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "df347ad24a2da6268428ea73a59cce6b50ecc40c61ae7d03dde6845f0574fb0c"
+    },
+    {
+      "id": "2051",
+      "sourceId": "2051",
+      "path": "assets/items/icons2d/2051_aram_t1_guardianshorn.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "a3eba294b07f2565cc54fe1ae8518af57898a7fb6d4b754d49aee50d93419dfa"
+    },
+    {
+      "id": "2065",
+      "sourceId": "2065",
+      "path": "assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "2a6a5d82d14bfb02bbb7d200f1537fdc03e50d15a55f7fa3ededc05b1c6c5bd5"
+    },
+    {
+      "id": "2138",
+      "sourceId": "2138",
+      "path": "assets/items/icons2d/2138_class_elixirofiron.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "4a33ba282f6395a04ee8d7ad95ccaf8a47ef2127fb9ca50218c8b5d47f975a04"
+    },
+    {
+      "id": "2139",
+      "sourceId": "2139",
+      "path": "assets/items/icons2d/2139_class_t1_elixirofsorcery.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "72b8489d649632d50cf046c86f2bf2707905b52cde0df2c14610eb08ee781e25"
+    },
+    {
+      "id": "2140",
+      "sourceId": "2140",
+      "path": "assets/items/icons2d/2140_class_t0_elixirofwrath.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "8c2693ab7f575d41b961a119f18212d94cd21fe62f7693252d843360bd55c7d1"
+    },
+    {
+      "id": "2420",
+      "sourceId": "2420",
+      "path": "assets/items/icons2d/3191_battlemage_t2_seekersarmguard.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "50f0dd017d12af682600552a9c92a02dba6ee101a8792892cd175af154606517"
+    },
+    {
+      "id": "2421",
+      "sourceId": "2421",
+      "path": "assets/items/icons2d/2420_shatteredarmguard.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "421cbeb3a41265c4ec04222d515dd02b21a8d81c4dc32b0238ce2a1deeec3163"
+    },
+    {
+      "id": "3001",
+      "sourceId": "3001",
+      "path": "assets/items/icons2d/3001_support_lunari.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": false,
+      "sha256": "0f0b519f22239408e2701089bfa70b4400f12bce54813844bc0c473b5f5cc8e5"
+    },
+    {
+      "id": "3003",
+      "sourceId": "3003",
+      "path": "assets/items/icons2d/3003_mage_t3_archangelstaff.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "b6b548d4bfb6fbaf8ef253adddf270b0f48e4b2af4d148a448848f800553fadb"
+    },
+    {
+      "id": "3004",
+      "sourceId": "3004",
+      "path": "assets/items/icons2d/3004_marksman_t3_manamune.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "babe27b2d58f707c19954c208ab622e8262ffa29a4fa9b04eceee79f4e2ed0e1"
+    },
+    {
+      "id": "3006",
+      "sourceId": "3006",
+      "path": "assets/items/icons2d/3006_class_t2_berserkersgreaves.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d91353a800afa8056f8b59815dfff3ce772ea578864fdd63004b545d62f1ca5e"
+    },
+    {
+      "id": "3009",
+      "sourceId": "3009",
+      "path": "assets/items/icons2d/3009_class_t2_bootsofswiftness.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "8b695c6a404eec1df589f51f033c0d21d0431fbd40ad9ff9cb535ba4e4ea17e1"
+    },
+    {
+      "id": "3011",
+      "sourceId": "3011",
+      "path": "assets/items/icons2d/3011_enchanter_t3_chemtechfumigator.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "ab0a17ddb225913bea60b88a834cf309306c5f6584d936eb32675bc23dcfdf51"
+    },
+    {
+      "id": "3012",
+      "sourceId": "3012",
+      "path": "assets/items/icons2d/3012_blessed_chalice.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "86f78256800e0a112115f438ff82559e078004dd88bda6befbcd0849a9db6c32"
+    },
+    {
+      "id": "3020",
+      "sourceId": "3020",
+      "path": "assets/items/icons2d/3020_class_t2_sorcerersshoes.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "2088820f522cfd0e1966943784fe91e0b28b9af78a5c9a1d56e7f90fdd011cdd"
+    },
+    {
+      "id": "3023",
+      "sourceId": "3023",
+      "path": "assets/items/icons2d/3023_lifewell_pendant.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "67ce7b1908cbc09e26c6443d359ae98a7b86388d9bee29ff260facc1766d7c1c"
+    },
+    {
+      "id": "3024",
+      "sourceId": "3024",
+      "path": "assets/items/icons2d/3024_tank_t2_glacialshroud.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "6032bd2278cbcd4f9541e480f7009dfb5f79842234b42667e661ff44ddb4ca47"
+    },
+    {
+      "id": "3031",
+      "sourceId": "3031",
+      "path": "assets/items/icons2d/3031_marksman_t3_infinityedge.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "aff88940a8d96094fa2eb6f43df97ba9cd33f0056b905be0b4e342b12c2df969"
+    },
+    {
+      "id": "3033",
+      "sourceId": "3033",
+      "path": "assets/items/icons2d/3033_marksman_t3_mortalreminder.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "22e590cd3a1e628a54e178107c84699f28c8fd5e301fc627e6df56c7b6d6126c"
+    },
+    {
+      "id": "3035",
+      "sourceId": "3035",
+      "path": "assets/items/icons2d/3035_marksman_t2_lastwhisper.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "7c2c97cd421dc54de66b10e79a06ddcabd58e132c33db94916baac034b3f53e4"
+    },
+    {
+      "id": "3036",
+      "sourceId": "3036",
+      "path": "assets/items/icons2d/3036_marksman_t3_dominikregards.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "98fea5d3fce986f806642731d8230eca13706e5333b2809d5d65dbec05ad6d9e"
+    },
+    {
+      "id": "3044",
+      "sourceId": "3044",
+      "path": "assets/items/icons2d/3044_fighter_t2_phage.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d292deea8a64319275481227f1c5d268710e0475ae242140d3a9fe7ff4dc97a2"
+    },
+    {
+      "id": "3046",
+      "sourceId": "3046",
+      "path": "assets/items/icons2d/3046_marksman_t3_phantomdancer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "70afa260cace0e72f52dc781f23b554c8b391c913241b24e114291dd02fc31ce"
+    },
+    {
+      "id": "3047",
+      "sourceId": "3047",
+      "path": "assets/items/icons2d/3047_class_t2_ninjatabi.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "944301e0426bcc274052311d0426aa6ba27888b0268ce7ed73ea21046fc90ab2"
+    },
+    {
+      "id": "3050",
+      "sourceId": "3050",
+      "path": "assets/items/icons2d/3050_enchanter_t3_zekesconvergence.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "4350a62baa831ae6699323bee8c91d29b246aa1714b48bbcdc0570f2d4f1d54c"
+    },
+    {
+      "id": "3051",
+      "sourceId": "3051",
+      "path": "assets/items/icons2d/3051_fighter_t2_axeofavarosa.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "e34bc59ad363ea065fe4260624e0b1b3c6826f0abdba23dd917afb5e37398415"
+    },
+    {
+      "id": "3053",
+      "sourceId": "3053",
+      "path": "assets/items/icons2d/3053_steraks_gage.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "4c0457467bafef9caa6e50f764209ad0ec7fe7e5290865a23c6c30428ef557f6"
+    },
+    {
+      "id": "3057",
+      "sourceId": "3057",
+      "path": "assets/items/icons2d/3057_fighter_t2_sheen.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "83cdaed25e5d21a6b815deefe678ffc5a93bf70c935203638c2aafdd307f7b69"
+    },
+    {
+      "id": "3065",
+      "sourceId": "3065",
+      "path": "assets/items/icons2d/3065_tank_t3_spiritvisage.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "0cdea9922626c280c83b26ac2ac6177c1395696f299788bb72e1bfc61060410d"
+    },
+    {
+      "id": "3066",
+      "sourceId": "3066",
+      "path": "assets/items/icons2d/3066_tank_t3_wingedmoonplate.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "baa6865a74f165113551df4d7aba2bdac081c8af024466dfeea278b023a96cac"
+    },
+    {
+      "id": "3067",
+      "sourceId": "3067",
+      "path": "assets/items/icons2d/3067_tank_t1_kindlegem.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "1b4901810bf9484ec01ebb4a4d11857908fba6ec1b963d59c5210e9ff9e7a35f"
+    },
+    {
+      "id": "3068",
+      "sourceId": "3068",
+      "path": "assets/items/icons2d/3068_tank_t4_sunfireaegis.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "a090a09c94f8486a4d18e0faec468fcb5544468d27ee94a4943444d53a826dd3"
+    },
+    {
+      "id": "3070",
+      "sourceId": "3070",
+      "path": "assets/items/icons2d/3070_all_t1_tearofthegoddess.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "e19ae0899cf8b16a8a41966abff0f10e6bb22e5feeb68ea2cdeeee2d5a053f79"
+    },
+    {
+      "id": "3071",
+      "sourceId": "3071",
+      "path": "assets/items/icons2d/3071_fighter_t3_blackcleaver.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3ea3676c12c507f3c4fa2242f764461a6d7fab7cb3e9571e6e6c1a9e475e52e7"
+    },
+    {
+      "id": "3072",
+      "sourceId": "3072",
+      "path": "assets/items/icons2d/3072_fighter_t3_bloodthirster.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d8ca78360ed7bca4efb374c2cbd48639ae46c928d090be505a5997ec18457704"
+    },
+    {
+      "id": "3074",
+      "sourceId": "3074",
+      "path": "assets/items/icons2d/3074_fighter_t3_ravenoushydra.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "047fb23e4f1014cdf79f43dd5ce8ba33c242fffeb7af71bacb56f4506b751618"
+    },
+    {
+      "id": "3075",
+      "sourceId": "3075",
+      "path": "assets/items/icons2d/3075_tank_t3_thornmail.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "9fc4eee258c7a098825b52e87b18a621d71a5a99bccded89f210cbecc70a9ded"
+    },
+    {
+      "id": "3076",
+      "sourceId": "3076",
+      "path": "assets/items/icons2d/3076_tank_t2_bramblevest.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "96b959fd8e1e8b4cd07ebc2c24240d1ae614a73e5b8ca524fa08ef694ed42059"
+    },
+    {
+      "id": "3077",
+      "sourceId": "3077",
+      "path": "assets/items/icons2d/3077_fighter_t2_tiamat.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3f9bb4e4e0c83ffa13655e426c0e6d61d896bca4e616e213caed4a020e12bf5d"
+    },
+    {
+      "id": "3078",
+      "sourceId": "3078",
+      "path": "assets/items/icons2d/3078_fighter_t4_trinityforce.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c6abf78cc98600958264ecd511a33ff2c84b59196946e8f9a25fbf69b1d3132c"
+    },
+    {
+      "id": "3082",
+      "sourceId": "3082",
+      "path": "assets/items/icons2d/3082_tank_t2_wardensmail.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "a217269bfe11b81d4f9e8d14831e7c8549556ad7c04a2b9cd2bd22ce6c454c5c"
+    },
+    {
+      "id": "3083",
+      "sourceId": "3083",
+      "path": "assets/items/icons2d/3083_tank_t3_warmogs.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "7039ddcb2b0dc36676ccb882592c736b7c62f5d25da3dd11e430afb3afa2774c"
+    },
+    {
+      "id": "3084",
+      "sourceId": "3084",
+      "path": "assets/items/icons2d/3084_tank_t4_heartsteel.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "17dcae7327c6b2ed8032dc1805ba331c585788daf2d9c87ad1d9e62438f451e7"
+    },
+    {
+      "id": "3085",
+      "sourceId": "3085",
+      "path": "assets/items/icons2d/3085_marksman_t3_runaans.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "13ca7129fbd0b75f69913d70af6c54763701d8022be6b433fc78e8ef5edda49e"
+    },
+    {
+      "id": "3086",
+      "sourceId": "3086",
+      "path": "assets/items/icons2d/3086_fighter_t2_zeal.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c82e4384aa610ddd8a7296009457aec20677a2696b861487bf424d31f0ba6800"
+    },
+    {
+      "id": "3087",
+      "sourceId": "3087",
+      "path": "assets/items/icons2d/3087_statikk_shiv.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "994ddc51c09f384e37a97488517e143eb20a464dd577c5d326177b3e0e1cf0ee"
+    },
+    {
+      "id": "3089",
+      "sourceId": "3089",
+      "path": "assets/items/icons2d/3089_mage_t3_deathcap.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "abb3a38cee5d4462482ca62e0e75b92d264fe7b44be6aa4b5d30f88253afe236"
+    },
+    {
+      "id": "3091",
+      "sourceId": "3091",
+      "path": "assets/items/icons2d/3091_fighter_t3_witsend.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "b859bd5c78b588ca94eddecf0068fe3f6a977f494a36bbaa74ee1051b33631f6"
+    },
+    {
+      "id": "3094",
+      "sourceId": "3094",
+      "path": "assets/items/icons2d/3094_marksman_t3_rapidfirehandcannon.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "5ba831549c7a38b0b52c47be78b089c512242293301f555298ee7c234222b276"
+    },
+    {
+      "id": "3095",
+      "sourceId": "3095",
+      "path": "assets/items/icons2d/3095_windblade.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d49a581ae01593ac1c37a342564500bc6648df041fac3a2a7a3afa3747a6c5b4"
+    },
+    {
+      "id": "3100",
+      "sourceId": "3100",
+      "path": "assets/items/icons2d/3100_mage_t3_lichbane.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "9490e63019d184a72e4a71fd2a120ee33ca7aca25bd175a72dbf2af932e64d84"
+    },
+    {
+      "id": "3102",
+      "sourceId": "3102",
+      "path": "assets/items/icons2d/3102_mage_t3_bansheesveil.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "0fcd4be7d19b72e550ea4bb5d823ebebf57554749ce62e353df538873ecdd932"
+    },
+    {
+      "id": "3105",
+      "sourceId": "3105",
+      "path": "assets/items/icons2d/3105_tank_t2_aegisofthelegion.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "bde0e5491c97a3a38ab84635530b7a9de18013246dd202ef6fdf4921bcac2cc4"
+    },
+    {
+      "id": "3107",
+      "sourceId": "3107",
+      "path": "assets/items/icons2d/3107_enchanter_t3_redemption.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "11e5be2bbcc474854e9ed3220eea236ceec32ad128bac970d021720c4a17a225"
+    },
+    {
+      "id": "3108",
+      "sourceId": "3108",
+      "path": "assets/items/icons2d/3108_mage_t2_fiendishcodex.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "f05b7d57d3af30034a397995e8035a686b7e9e6de6db286aab869752b1237442"
+    },
+    {
+      "id": "3109",
+      "sourceId": "3109",
+      "path": "assets/items/icons2d/3109_tank_t3_knightsvow.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "18e57fa81cc9195f85a1c395c51be2d98b721199b055d59492f8f785327e4536"
+    },
+    {
+      "id": "3110",
+      "sourceId": "3110",
+      "path": "assets/items/icons2d/3110_tank_t3_frozenheart.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "4818a98b3505c29f65f98d02b296990b699d56349f2ebaaf36a59407be665aff"
+    },
+    {
+      "id": "3111",
+      "sourceId": "3111",
+      "path": "assets/items/icons2d/3111_class_t2_mercurystreads.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "74ac135a29f09c3107f11b8ab1c0060317de193806a9685e07dd42a1711f3012"
+    },
+    {
+      "id": "3112",
+      "sourceId": "3112",
+      "path": "assets/items/icons2d/3112_aram_t1_guardiansorb.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "638a998dd139470546977717f34ba35cb86b7210c5f88a62aca9f2f64cfdcde6"
+    },
+    {
+      "id": "3113",
+      "sourceId": "3113",
+      "path": "assets/items/icons2d/3113_mage_t2_aetherwisp.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "9a0826427940cfb7f17a399706310a8bd608d8e85abdb8fac983f484135424f8"
+    },
+    {
+      "id": "3114",
+      "sourceId": "3114",
+      "path": "assets/items/icons2d/3114_mage_t2_forbiddenidol.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3114bb8cf0efc28ffb635b3bb75cbf5eeeb233afbe1029af51c7e233ecede2a5"
+    },
+    {
+      "id": "3115",
+      "sourceId": "3115",
+      "path": "assets/items/icons2d/3115_mage_t3_nashorstooth.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "974a108e0e267a4fe867b31c52792e8a5daed93615f6154f67bc0e5c906bfead"
+    },
+    {
+      "id": "3116",
+      "sourceId": "3116",
+      "path": "assets/items/icons2d/3116_mage_t3_rylajscrystalscepter.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d0867080d4fcb0d8c6d25c2e0f7642edb5399796a6b38d0a4668fc9aee00ae37"
+    },
+    {
+      "id": "3117",
+      "sourceId": "3117",
+      "path": "assets/items/icons2d/3117_class_t2_bootsofmobility.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c97480f09e68f7018a299d39619e16b1febd98a582cfaa3cf0833ff4ac92d84c"
+    },
+    {
+      "id": "3119",
+      "sourceId": "3119",
+      "path": "assets/items/icons2d/3119_wintersapproach.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": false,
+      "sha256": "587467f699929b3969361c1051ae7008f6085f0ee095a8626aff6f7072c7ec95"
+    },
+    {
+      "id": "3123",
+      "sourceId": "3123",
+      "path": "assets/items/icons2d/3123_fighter_t2_executionerscalling.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "e3e239b33c20974b0431dd106ddd98f87570d9ca47835f8449a9f025630ab454"
+    },
+    {
+      "id": "3124",
+      "sourceId": "3124",
+      "path": "assets/items/icons2d/3124_marksman_t3_guinsoosrageblade.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "e9afd23b8f74cba9f3034a7fab40e711dae02e96454711acbba4c4f90bf23bc8"
+    },
+    {
+      "id": "3133",
+      "sourceId": "3133",
+      "path": "assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "b13ad15626bcf1253bf32473c399b931015ff4c07c7f1d3cf8f35d6e55a5c3f8"
+    },
+    {
+      "id": "3134",
+      "sourceId": "3134",
+      "path": "assets/items/icons2d/3134_assassin_t2_serrateddirk.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "5e5977f962a0f01cffae4286e16f2d280c3e738c57259f06cc390c55d5e89948"
+    },
+    {
+      "id": "3135",
+      "sourceId": "3135",
+      "path": "assets/items/icons2d/3135_mage_t3_voidstaff.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "8b48d7d02a363663f69efbf883c2131b86ba981f200594a60341c3d9c43cd20f"
+    },
+    {
+      "id": "3139",
+      "sourceId": "3139",
+      "path": "assets/items/icons2d/3139_marksman_t3_mercurialscimitar.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c16701e2190b7141f9d02d11d1a6aeaf0b810cf9b2d161297df6d8f6794e88fb"
+    },
+    {
+      "id": "3140",
+      "sourceId": "3140",
+      "path": "assets/items/icons2d/3140_marksman_t2_quicksilversash.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "b838dc9b83b05e1d68a93b60b72c34cf75661479d9fd0a4275ccb66265ccbdb0"
+    },
+    {
+      "id": "3142",
+      "sourceId": "3142",
+      "path": "assets/items/icons2d/3142_assassin_t3_youmuusghostblade.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "79ae946cd05cde6fa4a12799be3b072bf3fceda4f01b6da76b97b05028cb35bf"
+    },
+    {
+      "id": "3143",
+      "sourceId": "3143",
+      "path": "assets/items/icons2d/3143_tank_t3_randuinsomen.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "67bcbaee508346ecfd947c6cf045c382fecf3530e24e8e5911c32632ac8090e4"
+    },
+    {
+      "id": "3145",
+      "sourceId": "3145",
+      "path": "assets/items/icons2d/3145_mage_t2_hextechalternator.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3e046dfeb9d2c3725ef53d56ca4f9dbf3d66250c944e2612a6aa06d846f2d5eb"
+    },
+    {
+      "id": "3152",
+      "sourceId": "3152",
+      "path": "assets/items/icons2d/3152_mage_t4_hextechrocketbelt.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "29cbd645bf7bc8f6a0b68d5695e9575a8b6d10430c77cf590a2c191298c0ad03"
+    },
+    {
+      "id": "3153",
+      "sourceId": "3153",
+      "path": "assets/items/icons2d/3153_fighter_t3_bladeoftheruinedking.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "2e0d1da4fbfd31a938f9263b41b6b1b737c5cc9ffba0e956d0acd9a62c4c7af3"
+    },
+    {
+      "id": "3155",
+      "sourceId": "3155",
+      "path": "assets/items/icons2d/3155_fighter_t2_hexdrinker.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "7eaffe0238aedbb9a06cd2ef470fba852e3fb618fbb90e313f1db78190fd6680"
+    },
+    {
+      "id": "3156",
+      "sourceId": "3156",
+      "path": "assets/items/icons2d/3156_fighter_t3_mawofmalmortius.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "73ad85c2f15e5c5fd22472fb6d2c475c46daef19490a373eb48aa728aff812ee"
+    },
+    {
+      "id": "3157",
+      "sourceId": "3157",
+      "path": "assets/items/icons2d/3157_mage_t3_zhonyashourglass.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "05b9e64d8b7fbd28f4a4af9a4265cd8e719e2492dc98e5a59735f897b473853f"
+    },
+    {
+      "id": "3158",
+      "sourceId": "3158",
+      "path": "assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "a9b78d996b038dbccfe67d4281b6c8d91a3539257b0bec325edcdf92255ecde0"
+    },
+    {
+      "id": "3161",
+      "sourceId": "3161",
+      "path": "assets/items/icons2d/3161_fighter_t3_spearofshojin.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "25cbca5cc2d8559a5a49c51d921051be9bd8a3f0fe7b6896e61adca3c2a9cc72"
+    },
+    {
+      "id": "3165",
+      "sourceId": "3165",
+      "path": "assets/items/icons2d/3165_mage_t3_morellonomicon.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "de499e39fe6b53c3eef8f50db5a88ecfcfc01f09d6d038a8b57bd79f7a20948a"
+    },
+    {
+      "id": "3177",
+      "sourceId": "3177",
+      "path": "assets/items/icons2d/3177_aram_t1_guardiansblade.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "f86761b5d2af9257c088301697ac43c42fd3b99db57939ec950fa56126abb6b9"
+    },
+    {
+      "id": "3179",
+      "sourceId": "3179",
+      "path": "assets/items/icons2d/3179_assassin_t3_umbralglaive.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "80952aab33519e507660351205fc9fe9fc86ee14ca796e92d89147145fdb3329"
+    },
+    {
+      "id": "3184",
+      "sourceId": "3184",
+      "path": "assets/items/icons2d/3177_aram_t1_guardianshammer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "2c8b5db08e0bcbda70277fbfd1d318f3c039e7654ab0f54072321221962a19b8"
+    },
+    {
+      "id": "3190",
+      "sourceId": "3190",
+      "path": "assets/items/icons2d/3190_enchanter_t4_locketofironsolari.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "f637a1a0dc329ebd126bd604c8b44b89e1864176ec198212c2258ab06d2d6bce"
+    },
+    {
+      "id": "3191",
+      "sourceId": "2420",
+      "path": "assets/items/icons2d/3191_battlemage_t2_seekersarmguard.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "50f0dd017d12af682600552a9c92a02dba6ee101a8792892cd175af154606517"
+    },
+    {
+      "id": "3193",
+      "sourceId": "3193",
+      "path": "assets/items/icons2d/3193_tank_t3_gargoylestoneplate.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "4970a415393493e44dc0341eed31a589fe079bf388d8677ddf01986652e42c58"
+    },
+    {
+      "id": "3211",
+      "sourceId": "3211",
+      "path": "assets/items/icons2d/3211_tank_t2_spectrescowl.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "77db66916adb1157a397d0515ce6310a5e5661c07d41c26fb98034349fe8a821"
+    },
+    {
+      "id": "3222",
+      "sourceId": "3222",
+      "path": "assets/items/icons2d/3222_enchanter_t3_mikaelsblessing.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "1d2301923c273b44a2393ec585db0513b5920ef4a9343795df5d6b5eef28e97e"
+    },
+    {
+      "id": "3363",
+      "sourceId": "3363",
+      "path": "assets/items/icons2d/3363_class_t1_farsightalteration.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "eb43111b5497e9cbcb68860c605744dedd41481a434c9f96f1cb61e1ad07fb77"
+    },
+    {
+      "id": "3504",
+      "sourceId": "3504",
+      "path": "assets/items/icons2d/3504_enchanter_t3_ardentcenser.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "aa5f2094b74bafb8c374e49ab568250cf813d51fdc5d35b26a5b0d51149d1def"
+    },
+    {
+      "id": "3508",
+      "sourceId": "3508",
+      "path": "assets/items/icons2d/3508_marksman_t3_essencereaver.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3cddb81574b5cd31b1a62047471be8d5e0c314ebc21aef54e7816a4d07bffdb7"
+    },
+    {
+      "id": "3742",
+      "sourceId": "3742",
+      "path": "assets/items/icons2d/3742_tank_t3_deadmansplate.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "8ecdf77240978e68f68107a818cb011f83c889eed814528365ebe134cf74d99b"
+    },
+    {
+      "id": "3748",
+      "sourceId": "3748",
+      "path": "assets/items/icons2d/3748_fighter_t3_titanichydra.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "a6bb004b0a5aaa917d3729938a8ea53cbea62c4eeb7560f74a0de541bd271987"
+    },
+    {
+      "id": "3801",
+      "sourceId": "3801",
+      "path": "assets/items/icons2d/3801_tank_t2_crystallinebracer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c6d7f339209779f9ec1539d1e4ded5fb1ca2e8f27e488623ecd8f3a97ad2740b"
+    },
+    {
+      "id": "3802",
+      "sourceId": "3802",
+      "path": "assets/items/icons2d/3802_mage_tier2_lostchapter.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "6123a4a1b5dfe2c92ef39c2ad9a2b4854699af1dd811a681da9d763dbd197105"
+    },
+    {
+      "id": "3803",
+      "sourceId": "3803",
+      "path": "assets/items/icons2d/3803_mage_t2_catalystofaeons.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "017ff802ebf681ec651022f7d2284c61ab0d20f4a055b8d3f897152f66e355e4"
+    },
+    {
+      "id": "3814",
+      "sourceId": "3814",
+      "path": "assets/items/icons2d/3814_assassin_t3_edgeofnight.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "2c1299e7d2a41695fc2afc195479940389934027e0647f892fd55e940b523cd4"
+    },
+    {
+      "id": "3916",
+      "sourceId": "3916",
+      "path": "assets/items/icons2d/3916_mage_t2_oblivionorb.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "0728c7849f3c970eecd77fd51c9a9d1b44244916b25386cf8bff3b30a98a7ca1"
+    },
+    {
+      "id": "4005",
+      "sourceId": "4005",
+      "path": "assets/items/icons2d/4005_enchanter_t4_imperialmandate.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "913137fc69b32cf429a3947fc569b39a5fa8f8ccb0300ca65d32ccb934cc77b8"
+    },
+    {
+      "id": "4401",
+      "sourceId": "4401",
+      "path": "assets/items/icons2d/4401_tank_t3_forceofnature.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "29a83ad4afca9205058cdb36618238a832e4c14124327e7efa4bc68b98b9bce6"
+    },
+    {
+      "id": "4628",
+      "sourceId": "4628",
+      "path": "assets/items/icons2d/4628_mage_t3_horizonfocus.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "5e0059802bfae7ef4a102362e3a5393a74e4f3fd488f5cb6d4d5616e69904022"
+    },
+    {
+      "id": "4629",
+      "sourceId": "4629",
+      "path": "assets/items/icons2d/4629_mage_t3_cosmicdrive.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "be6692fff45db86d6c22897a5a82c4bce55998b0415d33c1e9967f55225d5184"
+    },
+    {
+      "id": "4630",
+      "sourceId": "4630",
+      "path": "assets/items/icons2d/4630_mage_t2_voidcrystal.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "f50ef032946e8351bb639522ee0a64ca7dcc78c3299541a3364ed827bbd344f0"
+    },
+    {
+      "id": "4632",
+      "sourceId": "4632",
+      "path": "assets/items/icons2d/4632_tank_t2_verdantbarrier.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "10b986f03129cf455f14578ae792c59578e73d765b06a01e9e4b09faa7609519"
+    },
+    {
+      "id": "4633",
+      "sourceId": "4633",
+      "path": "assets/items/icons2d/4633_mage_t4_riftmaker.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "01c9de19c0ddc07cd31afc6af1b4e39c6cd43b5a7511c759a6a3f951f8883091"
+    },
+    {
+      "id": "4635",
+      "sourceId": "4635",
+      "path": "assets/items/icons2d/4635_mage_t2_leechingleer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "6e303f07f52685d6f34889d031de98a690433d95ac174a45d60bd239a153cac0"
+    },
+    {
+      "id": "4636",
+      "sourceId": "4636",
+      "path": "assets/items/icons2d/4636_mage_t4_nightharvester.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "72ebe0a93f95bcc79b79714f15f71ddb7e3840ffc252c27c8e02d939eed6b997"
+    },
+    {
+      "id": "4637",
+      "sourceId": "4637",
+      "path": "assets/items/icons2d/4637_mage_t3_demonicembrace.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c58071bdb5e12c02dda2121217c69da6b8e9d2033c23d88e3e7df7d5579c2371"
+    },
+    {
+      "id": "4642",
+      "sourceId": "4642",
+      "path": "assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "2219639512795314092472ae3e6e5ff478687ea05f82d04760d89836cafbc407"
+    },
+    {
+      "id": "4644",
+      "sourceId": "4644",
+      "path": "assets/items/icons2d/4644_crown.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": false,
+      "sha256": "94b2d3fa2071700a852e9e0e3773df9e7a69645cac863a6f9ffb1a416d002649"
+    },
+    {
+      "id": "4645",
+      "sourceId": "4645",
+      "path": "assets/items/icons2d/4645_shadowflame.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": false,
+      "sha256": "574e921c7a718ad73cdcc8ddad166746dd551ed181c2ffa3543faf09c15586c4"
+    },
+    {
+      "id": "6029",
+      "sourceId": "6029",
+      "path": "assets/items/icons2d/6029_fighter_t2_ironspikewhip.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "13349c7d86be4c3137a93247cb2dcb6d2f0b29d862a0413bdebf172aa1403504"
+    },
+    {
+      "id": "6035",
+      "sourceId": "6035",
+      "path": "assets/items/icons2d/6035_fighter_t3_silvermeredawn.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3eb86897ca97347fb70efbe6c05a54cf31f53932ecc3ab563fd7eb8b83543386"
+    },
+    {
+      "id": "6333",
+      "sourceId": "6333",
+      "path": "assets/items/icons2d/6333_fighter_t3_deathsdance.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3b66e14d579f37a1957f5f0cf9985423643f86e31040ddc8362aacd318866984"
+    },
+    {
+      "id": "6609",
+      "sourceId": "6609",
+      "path": "assets/items/icons2d/6609_fighter_t3_chempunkchainsword.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "509f09cd70f87f8b49e6122c927c8501eea30fac010572ba107bef6d2e63e58f"
+    },
+    {
+      "id": "6616",
+      "sourceId": "6616",
+      "path": "assets/items/icons2d/3744_enchanter_t3_staffofflowingwater.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "f9baad548b9b4dff88a7970fcb613bd321d0c1ea5a1a027e5e15ac99635b7542"
+    },
+    {
+      "id": "6617",
+      "sourceId": "6617",
+      "path": "assets/items/icons2d/6617_enchanter_t4_moonstonerenewer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "b8a7fd17f5a9c72a8789d0d93a53ad487afa464eff092fe0707c9ae0d4a8af09"
+    },
+    {
+      "id": "6620",
+      "sourceId": "6620",
+      "path": "assets/items/icons2d/6620_echoes_of_helia.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "394740c6f73ab97a1bf38253daaaa42aaaa25da429f16cc9c2f5f4959a0be1f5"
+    },
+    {
+      "id": "6630",
+      "sourceId": "6630",
+      "path": "assets/items/icons2d/6630_fighter_t4_goredrinker.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "6f6e5f507ad857220eccecd375649c201a9649d0afe7482e482b56ff19cecd1b"
+    },
+    {
+      "id": "6631",
+      "sourceId": "6631",
+      "path": "assets/items/icons2d/6631_fighter_t4_stridebreaker.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "93f39e5e17adb04870c8731aa3ddd987e3b2c5fddad4f061fbbde1fa41cd262d"
+    },
+    {
+      "id": "6632",
+      "sourceId": "6632",
+      "path": "assets/items/icons2d/6632_fighter_t4_divinedevourer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "e2e284ff39c3ab98501a86ca1ef73d62ef76f87f22153aa624db4533241f17e3"
+    },
+    {
+      "id": "6653",
+      "sourceId": "6653",
+      "path": "assets/items/icons2d/6653_mage_t4_liandrysanguish.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "ab81d65524acfde3580ef771d87d3d962d2b80846a2ce0cd5903684676622628"
+    },
+    {
+      "id": "6655",
+      "sourceId": "6655",
+      "path": "assets/items/icons2d/6655_mage_t4_ludenstempest.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3ffe29761fb4ebb6f08df99fe4fc1ac7406bbd143ca535da5582f65f14825f24"
+    },
+    {
+      "id": "6656",
+      "sourceId": "6656",
+      "path": "assets/items/icons2d/6656_mage_t4_everfrost.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "94214630fb03c1070a5a7f45a08ba641fab3b519419e12bbec0ad02682645120"
+    },
+    {
+      "id": "6657",
+      "sourceId": "6657",
+      "path": "assets/items/icons2d/6657_mage_t4_rodofages.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "b9427a3e38e524b827a5effd5a45c9bd307f4dc3428ada1ad2e8f0e305df9e36"
+    },
+    {
+      "id": "6660",
+      "sourceId": "6660",
+      "path": "assets/items/icons2d/6660_tank_t2_bamiscinder.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "a2ab784b40d3532c8e430123279261d666cced50202367476e89214077678a51"
+    },
+    {
+      "id": "6662",
+      "sourceId": "6662",
+      "path": "assets/items/icons2d/6662_tank_t3_iceborngauntlet.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "70f17ff9cba09333b2009965006b2f14b3e7a3d1cd2240f6dbb9370db3a85303"
+    },
+    {
+      "id": "6664",
+      "sourceId": "6664",
+      "path": "assets/items/icons2d/6664_hollowradiance.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "5cc238a98b4bfdb375fab8f49aa4b4e525323c917271cabe3df383c55315df92"
+    },
+    {
+      "id": "6665",
+      "sourceId": "6665",
+      "path": "assets/items/icons2d/6665_tank_t4_jakshotheprotean.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "4bc48899243efa13428efa1c89d50f7d08bed3f5dab071134f67403c775d1cd7"
+    },
+    {
+      "id": "6667",
+      "sourceId": "6667",
+      "path": "assets/items/icons2d/6667_tank_t4_radiantvirtue.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "36552cbf642f5e11c9908ad9f19743e71f4d552bd8462979e4d3c0195e3b37b6"
+    },
+    {
+      "id": "6670",
+      "sourceId": "6670",
+      "path": "assets/items/icons2d/6670_marksman_t2_noonquiver.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "8a68588843c64ec4202c6614a56f1d50438614a1f678beca45df01bb9b77300b"
+    },
+    {
+      "id": "6671",
+      "sourceId": "6671",
+      "path": "assets/items/icons2d/6671_marksman_t4_galeforce.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d1f04a3f5886a5e3f6bca9f4eda2281f5af25ad3c3f8240dee796eaa5ad9e325"
+    },
+    {
+      "id": "6672",
+      "sourceId": "6672",
+      "path": "assets/items/icons2d/6672_marksman_t4_behemothslayer.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "13b0a91552c06219c34843ddcf027a977380694c6961583fbe3e02480086d288"
+    },
+    {
+      "id": "6673",
+      "sourceId": "6673",
+      "path": "assets/items/icons2d/6673_marksman_t4_crimsonshieldbow.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "3b46c0dd600f55aba9030d4aa414a29e4c8b5b9ba38c1605f18b7e05cc85bca4"
+    },
+    {
+      "id": "6675",
+      "sourceId": "6675",
+      "path": "assets/items/icons2d/6675_navoriflickerblade.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "d4044fb411fcd422a4c563dc2fbee2d66bc1d3e08760afe64b091ca218f8b3ea"
+    },
+    {
+      "id": "6676",
+      "sourceId": "6676",
+      "path": "assets/items/icons2d/6676_marksman_t3_thecollector.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "c71ba7f8ce255098187af4cc9a7ff95c750264db820ec90a6edcd7e339c64fe2"
+    },
+    {
+      "id": "6677",
+      "sourceId": "6677",
+      "path": "assets/items/icons2d/6677_marksman_t2_rageknife.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "09cdda25fd6d2f95a94bbfb61a72fc0b3792276b52ee4e5ee1b1367745f1b042"
+    },
+    {
+      "id": "6691",
+      "sourceId": "6691",
+      "path": "assets/items/icons2d/6691_assassin_t4_duskbladeofdraktharr.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "96e1627dcc14379d38413d35848407c027b71c5f05ab67837a7e54ccf9fe511b"
+    },
+    {
+      "id": "6692",
+      "sourceId": "6692",
+      "path": "assets/items/icons2d/6692_assassin_t4_eclipse.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "8d67d247b095b2e61e90089a55717ed60f0a0e243a3bff0e39844507cedcb8fc"
+    },
+    {
+      "id": "6693",
+      "sourceId": "6693",
+      "path": "assets/items/icons2d/6693_assassin_t4_prowlersclaw.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "7f480091f78f23a9ea145f5bb52933b8da924156bbb38a4c1b31514508a95013"
+    },
+    {
+      "id": "6694",
+      "sourceId": "6694",
+      "path": "assets/items/icons2d/6694_assasin_t3_seryldasgrudge.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "24a0d2f80fbef60304edb9415ef72660af3ca76a205047832604e09bfb15740a"
+    },
+    {
+      "id": "6695",
+      "sourceId": "6695",
+      "path": "assets/items/icons2d/6695_assassin_t3_serpentsfang.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "b3bcd8a8b1fe6ee262f0f0bae3f57fc708b90463f67e488d6d38bf2440aedecd"
+    },
+    {
+      "id": "6696",
+      "sourceId": "6696",
+      "path": "assets/items/icons2d/6696_axiomarc.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": false,
+      "sha256": "0103a5272e322ed75c231ebd9102324a36fb12df2d74aa7bcd11fbbf8b97008f"
+    },
+    {
+      "id": "8001",
+      "sourceId": "8001",
+      "path": "assets/items/icons2d/8001_tank_t3_anathemaschains.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "47f71457b78eba4ab004a43528bf12aca982bad315e93c2a1f0fb02225fccb0b"
+    },
+    {
+      "id": "8020",
+      "sourceId": "8020",
+      "path": "assets/items/icons2d/8020_tank_t3_abyssalmask.dds",
+      "size": [
+        64,
+        64
+      ],
+      "pixelEqual": true,
+      "sha256": "684349c67cf7f31daca8e80932d9c65983ca41bd5408cd938c627a287dbf9765"
+    },
+    {
+      "id": "3040",
+      "sourceId": "3040",
+      "path": "assets/items/icons2d/3048_mage_t3_seraphsembrace.dds",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "6bec528d6497e0dd36c3e627076798ad8e045540d12cb2caf088a5c79884f2a8"
+    },
+    {
+      "id": "3042",
+      "sourceId": "3042",
+      "path": "assets/items/icons2d/3042_marksman_t3_muramana.dds",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "dc0782377971ed7346f7c8d1422dac1eb4de5eb9ced567e454011734b13971b9"
+    },
+    {
+      "id": "3121",
+      "sourceId": "3121",
+      "path": "assets/items/icons2d/3121_fimbulwinter.dds",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "1d3f9fb12d5d654747600d5acd05884bebfa447a78eca47526358c2998a5c964"
+    },
+    {
+      "id": "4403",
+      "sourceId": "4403",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/4403.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "b3a8e225c8f748b1ab209ff98d6fcf25b84830e5e8c048ff73f7ac51a1728912"
+    },
+    {
+      "id": "2019",
+      "sourceId": "2019",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2019.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "4c84471bfb7d5daeaedc44f027e1e2fcfd32edc50778d52eba902cbaaaa959c3",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3026",
+      "sourceId": "3026",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3026.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "2b0333182d1b97b1b7717b2f7b999dc7147722159605887cf6c1216a55df1743",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "1086",
+      "sourceId": "1086",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/1086.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "f5d7b162b3c5b81da3b0edec560b1f84583ad894b81ebb836aa3b8c9670d8671",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "1120",
+      "sourceId": "1120",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/1120.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "75e4dfe4f5ab032233134e5efd5977cf0eab7f29d1864bd022fd6470235d92e2",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3008",
+      "sourceId": "3008",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3008.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "9520289a5d32503267c53ffccd85f4f1c1ef682986d755706d58cafd817ef8f5",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2021",
+      "sourceId": "2021",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2021.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "10a22de46eabda4f3bbadab153828d271405076b20af418fc775d205324d826b",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2501",
+      "sourceId": "2501",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2501.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "593d3f9233e6ed490651953d12067d1ce04600c2cba097ff3f6eaf1360b29dc9",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2504",
+      "sourceId": "2504",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2504.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "8843a46c315cfa93134ea400708628d39ddd7a8ec206642e644cba5c8bdfe71e",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2502",
+      "sourceId": "2502",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2502.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "757093b592b3021d98087148306638e8f0fc9cf38484c869c9628502caf63a7a",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "6610",
+      "sourceId": "6610",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/6610.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "01e91cbbc8d8fd28c531c6c1b1563fda3941f78e9424cf486e3ba28a0a6fdbae",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2022",
+      "sourceId": "2022",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2022.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "88c238fd9146f4cf888d77f5d272ba7688e24bd2124bbfd4a8eede7fbc5f0f7c",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2020",
+      "sourceId": "2020",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2020.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "e3360135539e5b33e28201b6b3612d3d33bdfbdf915c7c77d4346905636192a7",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "6698",
+      "sourceId": "6698",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/6698.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "a1875209dadbae4f311dcf89a9c1ef35fef4167008cd62d206596259a9255213",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3181",
+      "sourceId": "3181",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3181.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "ffdc0e07aa8a2632d90e9d3b34127f143d70b0018fc5cf3a2b3351d9de3d5666",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3118",
+      "sourceId": "3118",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3118.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "df7498e07b347ac1a3256bbba5ba0d4ee1cd25ae6e405bf41403564250844e90",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2508",
+      "sourceId": "2508",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2508.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "502a287ec66e5dbc7de33436883633c52f9903fac3935691b63b266199a30773",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2503",
+      "sourceId": "2503",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2503.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "427a4cb044545c67f8f9d6289c9312420cda824a9628f8494b43844091951fcd",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "4646",
+      "sourceId": "4646",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/4646.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "e1c8c11a0851d6159ff8d238f7a62608e594179c2c3d3ee323e3c2aa0e08ea25",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2510",
+      "sourceId": "2510",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2510.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "b3d2c76a2ccc7c8c10c823edc0a05b63f24f921d8ed5aeea1bc32da48b495648",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2522",
+      "sourceId": "2522",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2522.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "25dc82fb680313eb5c7e1ded756a1c1a7308bf3e06f79671531d53c6c240d4b4",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3302",
+      "sourceId": "3302",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3302.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "13fe6236782227704cc5a6b201ca373b5051ba20c98d585a20bb0d070790a6c3",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3144",
+      "sourceId": "3144",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3144.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "cd3a86400d92b14a692536a8cb61759e0fc49c4bfffb97eb6c1d9c3769817220",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3032",
+      "sourceId": "3032",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3032.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "8e0db72081d1247978130897828c7b016ada70131b569af3701063619c237ff2",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2512",
+      "sourceId": "2512",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2512.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "fa073bdf352e9a74fc4449c6fa5e217e3940806e012a427a890e1c495177424b",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2523",
+      "sourceId": "2523",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2523.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "48f86e2994cdf0b884f43a8988f54c4dd42dbbd9cfa509372c8533346ea6cc2b",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "6699",
+      "sourceId": "6699",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/6699.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "ba79a0064a5a8d6360d90e5d850b53309e92df55a984ca86066cef320985ab82",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "6621",
+      "sourceId": "6621",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/6621.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "4929910e36c5d8a1bbbdf1fd2cca8e5b2f260118544e13ca9b8951023d8a066b",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2524",
+      "sourceId": "2524",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2524.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "6c259117cf0b267a7cd67cc84c2492a31920ee480bb443d19bd9179f57fd462b",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2517",
+      "sourceId": "2517",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2517.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "ad10263a01127da406ae8cd674b08db9786c0bc7a4f1cac53edeca96b4335689",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2525",
+      "sourceId": "2525",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2525.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "f676a80a022a06863570054c3ebbc5bac52eb581465dc2b51a8fd8e2493f8c10",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2526",
+      "sourceId": "2526",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2526.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "ec4a53bea0433c6b43b43e1cba001ce8c6bc2748bbabdd3e6e89dd9dab33853c",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447108",
+      "sourceId": "447108",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447108.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "148084a3147efa7e70099e18ec77d0f132fa5db1ae38e81d120812c7b8be4662",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447113",
+      "sourceId": "447113",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447113.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "8c5c6beb641d515eaf34fcab67243f252115d0ed73222249bd6ef8c73ba23f37",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "443054",
+      "sourceId": "443054",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/443054.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "3ba7d4abb6c096df7545899dbebe98c81df3f4d792a93bda6d7f9ff63ad9e7b9",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "443069",
+      "sourceId": "443069",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/443069.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "f4ca4fe7a9dfeddc87026e75c4c46432de364a1f9ac3fe43230eff298c111fa1",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "443060",
+      "sourceId": "443060",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/443060.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "762253b9530022efabe84827a23e8e0fcfc9d54e8f8c48511d5920a19036928f",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447114",
+      "sourceId": "447114",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447114.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "0c10c752453a08c946adf9f653bcc5358d805d431d987b9f52387b68ac427e8e",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447106",
+      "sourceId": "447106",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447106.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "5b17e8f84664cbccad23312a6d0acb759903f8a3d427a12ae0a9d7fc3414918e",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "443056",
+      "sourceId": "443056",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/443056.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "3c258e73ab622ffc7354590bbe1314ce5537395f7ec4b55ed586fc17fb2e6bf8",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447101",
+      "sourceId": "447101",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447101.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "115e91b99e24a33e2384713b4d8fcef1596388e1e1024b6fadaaf3c9e3b0fcf8",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "443064",
+      "sourceId": "443064",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/443064.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "0862afbd0c653e5d07caadde7bb1921356d2ac3e011daf3322526a9d93ab7040",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447122",
+      "sourceId": "447122",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447122.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "d8c11746b8c1fb7b22edaa39ad57c92cc95b87a01254aad3194b792e4563f09a",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "443058",
+      "sourceId": "443058",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/443058.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "297d823b4729db5a1c0a0c8b99f41304b0bb04a180fb82c94b02c2ad1c6e713b",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "443059",
+      "sourceId": "443059",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/443059.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "07dd681eadd537f3b01f59b97168000e9b604bec127f689335e75711a8a2bc90",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447123",
+      "sourceId": "447123",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447123.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "84b7cad2ba495d0dcc67ddbaeaf5417a25747f2c1b738e2c3777b69c9a7ea6f6",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "4011",
+      "sourceId": "4011",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/4011.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "eebe512f050085e9e81a95dd329fc20e943fcbfb62db7ebda69aded96c82751f",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "4017",
+      "sourceId": "4017",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/4017.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "7ea9c1269d52c9e33b16fb650a45a1d07a7a87f0b4c8b6417301b64a446cf732",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "4015",
+      "sourceId": "4015",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/4015.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "8c4b84c7612fc079df0b5a8dd9cf6540ba9c59fa51db6d6644b00deb3525da66",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "4016",
+      "sourceId": "4016",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/4016.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "100249d0660c6afafbdfb669e29ebd9e018e26b06ac778a731c0f10f91c3df79",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "2530",
+      "sourceId": "2530",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/2530.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "4cbafff21e10032c8bedc1e635d02855ea24f527b741fbb245759c00609fa1f3",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "447107",
+      "sourceId": "447107",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/447107.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "0175d87a5267db9603c94f8520a94afa4543ba5fade638e18b31b58667fe3e52",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "6697",
+      "sourceId": "6697",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/6697.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "8f3e03355ed59d52398a9b859c9cacd0c52a3b3e76afd1289ca27cbfef183380",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "1082",
+      "sourceId": "1082",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/1082.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "81afb1dcf001f57180ad618ea6429ddca33db9dd2882ee7a24b5ac33ca3c02c5",
+      "size": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "3041",
+      "sourceId": "3041",
+      "path": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/item/3041.png",
+      "source": "Riot Data Dragon 16.18.1",
+      "sha256": "7882be7f6e58f8cfc718eb54ac13a334718c5d2fb69a2d86e50dfc18245a1971",
+      "size": [
+        64,
+        64
+      ]
+    }
+  ],
+  "comparison": {
+    "equalPixels": 168,
+    "changedPixels": 6,
+    "rgbChanges": [
+      "1054"
+    ],
+    "alphaOnlyChanges": [
+      "3001",
+      "3119",
+      "4644",
+      "4645",
+      "6696"
+    ]
+  }
+}

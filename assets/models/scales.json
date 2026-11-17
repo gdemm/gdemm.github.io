@@ -1,0 +1,225 @@
+{
+  "Ashe": {
+    "scale": 1.100000023841858,
+    "path": "data/characters/ashe/skins/skin0.bin",
+    "archive": "Champions/Ashe.wad.client"
+  },
+  "Lux": {
+    "scale": 1.5,
+    "path": "data/characters/lux/skins/skin0.bin",
+    "archive": "Champions/Lux.wad.client"
+  },
+  "Ahri": {
+    "scale": 1,
+    "path": "data/characters/ahri/skins/skin0.bin",
+    "archive": "Champions/Ahri.wad.client"
+  },
+  "Ezreal": {
+    "scale": 1.100000023841858,
+    "path": "data/characters/ezreal/skins/skin0.bin",
+    "archive": "Champions/Ezreal.wad.client"
+  },
+  "Garen": {
+    "scale": 1,
+    "path": "data/characters/garen/skins/skin0.bin",
+    "archive": "Champions/Garen.wad.client"
+  },
+  "Jinx": {
+    "scale": 1.0299999713897705,
+    "path": "data/characters/jinx/skins/skin0.bin",
+    "archive": "Champions/Jinx.wad.client"
+  },
+  "Leona": {
+    "scale": 1.3700000047683716,
+    "path": "data/characters/leona/skins/skin0.bin",
+    "archive": "Champions/Leona.wad.client"
+  },
+  "Darius": {
+    "scale": 1.0499999523162842,
+    "path": "data/characters/darius/skins/skin0.bin",
+    "archive": "Champions/Darius.wad.client"
+  },
+  "Morgana": {
+    "scale": 1.3200000524520874,
+    "path": "data/characters/morgana/skins/skin0.bin",
+    "archive": "Champions/Morgana.wad.client"
+  },
+  "Veigar": {
+    "scale": 1.850000023841858,
+    "hidden": []
+  },
+  "BlueMelee": {
+    "scale": 0.699999988079071,
+    "path": "data/characters/ha_orderminionmelee/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "RedMelee": {
+    "scale": 0.7400000095367432,
+    "path": "data/characters/ha_chaosminionmelee/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "BlueCaster": {
+    "scale": 0.7599999904632568,
+    "path": "data/characters/ha_orderminionranged/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "RedCaster": {
+    "scale": 0.8700000047683716,
+    "path": "data/characters/ha_chaosminionranged/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Turret": {
+    "scale": 750.0,
+    "path": "data/characters/turret/skins/skin28.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Nexus": {
+    "scale": 1,
+    "path": "data/characters/nexus/skins/skin24.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "RedTurret": {
+    "scale": 750.0,
+    "path": "data/characters/turret/skins/skin29.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "RedNexus": {
+    "scale": 1,
+    "path": "data/characters/nexus/skins/skin25.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Inhibitor": {
+    "scale": 1,
+    "path": "data/characters/inhibitor/skins/skin22.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "RedInhibitor": {
+    "scale": 1,
+    "path": "data/characters/inhibitor/skins/skin23.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "BridgeStatue": {
+    "scale": 1000.0,
+    "path": "data/characters/ha_ap_bridgelanestatue/skins/skin1.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Chain": {
+    "scale": 1,
+    "path": "data/characters/ha_ap_chains/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Poro": {
+    "scale": 0.2800000011920929,
+    "path": "data/characters/ha_ap_poro/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "LargePoro": {
+    "scale": 0.2800000011920929,
+    "path": "data/characters/ha_ap_poro_large/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Viking": {
+    "scale": 1.350000023841858,
+    "path": "data/characters/ha_ap_viking/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Hermit": {
+    "scale": 1.2000000476837158,
+    "path": "data/characters/ha_ap_hermit/skins/skin0.bin",
+    "archive": "Maps/Shipping/Map12.wad.client"
+  },
+  "Yasuo": {
+    "scale": 0.9300000071525574,
+    "hidden": [
+      "Yasuo_Instrument_Mat",
+      "Weapon_Trail"
+    ]
+  },
+  "Sett": {
+    "scale": 1.25,
+    "hidden": [
+      "Wolverine",
+      "Joke"
+    ]
+  },
+  "ElderDragon": {
+    "scale": 0.75,
+    "hidden": []
+  },
+  "Ryze": {
+    "scale": 0.9200000166893005,
+    "hidden": [
+      "Ryze_VFX"
+    ]
+  },
+  "DrMundo": {
+    "scale": 0.949999988079071,
+    "hidden": [
+      "Tongue",
+      "BodyUlt",
+      "Clipboard",
+      "ToeTag",
+      "L_Capacitor",
+      "R_Capacitor",
+      "L_CapacitorUlt",
+      "R_CapacitorUlt",
+      "WeaponUlt",
+      "BagProps"
+    ]
+  },
+  "Malphite": {
+    "scale": 1.75,
+    "hidden": []
+  },
+  "RiftHerald": {
+    "scale": 0.800000011920929,
+    "hidden": []
+  },
+  "BaronNashor": {
+    "scale": 0.8999999761581421,
+    "hidden": [
+      "Horn",
+      "Eye"
+    ]
+  },
+  "MissFortune": {
+    "scale": 1.2000000476837158,
+    "hidden": []
+  },
+  "Tryndamere": {
+    "scale": 2.0,
+    "hidden": []
+  },
+  "Jhin": {
+    "scale": 1.2000000476837158,
+    "hidden": []
+  },
+  "Teemo": {
+    "scale": 1,
+    "hidden": [
+      "Mushroom",
+      "Harmonica"
+    ]
+  },
+  "MasterYi": {
+    "scale": 1.5,
+    "hidden": []
+  },
+  "Chogath": {
+    "scale": 0.800000011920929,
+    "hidden": []
+  },
+  "Sylas": {
+    "scale": 1.100000023841858,
+    "hidden": [
+      "Sylas_Base_ChainLock_Mat"
+    ]
+  },
+  "Jax": {
+    "scale": 0.8999999761581421,
+    "hidden": [
+      "Bluefish",
+      "Goldfish"
+    ]
+  }
+}

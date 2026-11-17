@@ -1,0 +1,149 @@
+[
+  {
+    "file": "locallinemissilebase.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/locallinemissilebase.tex"
+  },
+  {
+    "file": "locallinemissiletarget.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/locallinemissiletarget.tex"
+  },
+  {
+    "file": "globallinemissilebase.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/globallinemissilebase.tex"
+  },
+  {
+    "file": "globallinemissiletarget.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/globallinemissiletarget.tex"
+  },
+  {
+    "file": "conicrangeindicator.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/conicrangeindicator.tex"
+  },
+  {
+    "file": "circularrangeindicatorul.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/circularrangeindicatorul.tex"
+  },
+  {
+    "file": "autoattackrangeindicator.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/autoattackrangeindicator.tex"
+  },
+  {
+    "file": "aoe.png",
+    "archive": "UI.wad.client",
+    "path": "assets/spells/textures/aoe.tex"
+  },
+  {
+    "file": "pos_microtarget.png",
+    "archive": "Global.wad.client",
+    "path": "assets/spells/textures/pos_microtarget.tex"
+  },
+  {
+    "file": "movement_indicator.png",
+    "archive": "Global.wad.client",
+    "path": "assets/shared/particles/movement_indicator.tex"
+  },
+  {
+    "file": "color-movetogreen.png",
+    "archive": "Global.wad.client",
+    "path": "assets/shared/particles/color-movetogreen.tex"
+  },
+  {
+    "file": "cursor_moveto.mesh.json",
+    "archive": "Global.wad.client",
+    "path": "assets/shared/particles/cursor_moveto.scb"
+  },
+  {
+    "file": "movement_indicator4.mesh.json",
+    "archive": "Global.wad.client",
+    "path": "assets/shared/particles/movement_indicator4.scb"
+  },
+  {
+    "file": "hand1.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/cursors/hand1.tga"
+  },
+  {
+    "file": "hoverenemy.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/cursors/hoverenemy.tga"
+  },
+  {
+    "file": "hoverfriendly.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/cursors/hoverfriendly.tga"
+  },
+  {
+    "file": "singletarget.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/cursors/singletarget.tga"
+  },
+  {
+    "file": "singletargetenemycannoyattack.png",
+    "archive": "UI.wad.client",
+    "path": "assets/ux/cursors/singletargetenemycannoyattack.tga"
+  },
+  {
+    "file": "aoe_jinx.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/textures/aoe_jinx.tex"
+  },
+  {
+    "file": "skillshot_jinx_arrow_02.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/textures/skillshot_jinx_arrow_02.tex"
+  },
+  {
+    "file": "skillshot_jinx_base_02.png",
+    "archive": "Champions/Jinx.wad.client",
+    "path": "assets/characters/jinx/hud/textures/skillshot_jinx_base_02.tex"
+  },
+  {
+    "file": "skillshot_rectangle_base_r01_v01.png",
+    "archive": "Champions/Lux.wad.client",
+    "path": "assets/spells/textures/skillshot_rectangle_base_r01_v01.tex"
+  },
+  {
+    "file": "skillshot_rectangle_tip_r01_v01.png",
+    "archive": "Champions/Lux.wad.client",
+    "path": "assets/spells/textures/skillshot_rectangle_tip_r01_v01.tex"
+  },
+  {
+    "file": "../vfx/f264a28e5182b48e.mesh.json",
+    "archive": "DATA.wad.client",
+    "path": "data/shared/particles/shockwavetrail.scb"
+  },
+  {
+    "file": "line03.png",
+    "archive": "DATA.wad.client",
+    "path": "data/shared/particles/line03.dds"
+  },
+  {
+    "file": "black.png",
+    "archive": "DATA.wad.client",
+    "path": "data/shared/particles/black.dds"
+  },
+  {
+    "file": "color-hold.png",
+    "archive": "DATA.wad.client",
+    "path": "data/particles/color-hold.dds"
+  },
+  {
+    "file": "sett_base_w_indicator_blue.png",
+    "archive": "Champions/Sett.wad.client",
+    "path": "assets/characters/sett/hud/textures/sett_base_w_indicator_blue.tex",
+    "sha256": "48908133f41a6cc12139d6ddc57e50ca791393c914e607fe132c258a9a8e4227"
+  },
+  {
+    "file": "sett_base_e_indicator.png",
+    "archive": "Champions/Sett.wad.client",
+    "path": "assets/characters/sett/hud/textures/sett_base_e_indicator.tex",
+    "sha256": "7df96c5f51f9a1b5e730bddbe2c3c32a5c7129a96e798c328a8eaaf44547730e"
+  }
+]

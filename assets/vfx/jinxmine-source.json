@@ -1,0 +1,12 @@
+{
+  "archive": "Champions/Jinx.wad.client",
+  "paths": [
+    "assets/characters/jinxmine/skins/base/animations/jinxmine_attack.anm",
+    "assets/characters/jinxmine/skins/base/jinxmine.skl",
+    "assets/characters/jinxmine/skins/base/animations/jinxmine_idle.anm",
+    "assets/characters/jinx/skins/base/jinx_base_tx_cm.tex",
+    "assets/characters/jinxmine/skins/base/jinxmine.skn"
+  ],
+  "skinScale": 1.100000023841858,
+  "conversion": "lol2gltf 2025-02-28-d36a532"
+}

@@ -1,0 +1,212 @@
+{
+  "source": "Riot Games Data Dragon",
+  "documentation": "https://developer.riotgames.com/docs/lol",
+  "version": "16.18.1",
+  "assets": [
+    {
+      "file": "Ashe.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ashe.png",
+      "bytes": 32121
+    },
+    {
+      "file": "Ashe-loading.jpg",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_0.jpg",
+      "bytes": 48832
+    },
+    {
+      "file": "Ashe-0.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/AsheQ.png",
+      "bytes": 6683
+    },
+    {
+      "file": "Ashe-1.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/Volley.png",
+      "bytes": 6241
+    },
+    {
+      "file": "Ashe-2.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/AsheSpiritOfTheHawk.png",
+      "bytes": 5806
+    },
+    {
+      "file": "Ashe-3.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/EnchantedCrystalArrow.png",
+      "bytes": 6449
+    },
+    {
+      "file": "Lux.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Lux.png",
+      "bytes": 29188
+    },
+    {
+      "file": "Lux-loading.jpg",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_0.jpg",
+      "bytes": 59727
+    },
+    {
+      "file": "Lux-0.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/LuxLightBinding.png",
+      "bytes": 6820
+    },
+    {
+      "file": "Lux-1.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/LuxPrismaticWave.png",
+      "bytes": 6679
+    },
+    {
+      "file": "Lux-2.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/LuxLightStrikeKugel.png",
+      "bytes": 6567
+    },
+    {
+      "file": "Lux-3.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/LuxR.png",
+      "bytes": 5520
+    },
+    {
+      "file": "Ahri.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ahri.png",
+      "bytes": 28511
+    },
+    {
+      "file": "Ahri-loading.jpg",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg",
+      "bytes": 57774
+    },
+    {
+      "file": "Ahri-0.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/AhriQ.png",
+      "bytes": 5817
+    },
+    {
+      "file": "Ahri-1.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/AhriW.png",
+      "bytes": 5854
+    },
+    {
+      "file": "Ahri-2.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/AhriE.png",
+      "bytes": 6464
+    },
+    {
+      "file": "Ahri-3.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/AhriR.png",
+      "bytes": 6639
+    },
+    {
+      "file": "Ezreal.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Ezreal.png",
+      "bytes": 31064
+    },
+    {
+      "file": "Ezreal-loading.jpg",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_0.jpg",
+      "bytes": 50869
+    },
+    {
+      "file": "Ezreal-0.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/EzrealQ.png",
+      "bytes": 4590
+    },
+    {
+      "file": "Ezreal-1.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/EzrealW.png",
+      "bytes": 5102
+    },
+    {
+      "file": "Ezreal-2.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/EzrealE.png",
+      "bytes": 4567
+    },
+    {
+      "file": "Ezreal-3.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/EzrealR.png",
+      "bytes": 5719
+    },
+    {
+      "file": "Garen.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Garen.png",
+      "bytes": 30705
+    },
+    {
+      "file": "Garen-loading.jpg",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_0.jpg",
+      "bytes": 52371
+    },
+    {
+      "file": "Garen-0.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/GarenQ.png",
+      "bytes": 6105
+    },
+    {
+      "file": "Garen-1.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/GarenW.png",
+      "bytes": 5947
+    },
+    {
+      "file": "Garen-2.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/GarenE.png",
+      "bytes": 6473
+    },
+    {
+      "file": "Garen-3.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/GarenR.png",
+      "bytes": 5230
+    },
+    {
+      "file": "Jinx.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Jinx.png",
+      "bytes": 27938
+    },
+    {
+      "file": "Jinx-loading.jpg",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg",
+      "bytes": 44163
+    },
+    {
+      "file": "Jinx-0.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/JinxQ.png",
+      "bytes": 6119
+    },
+    {
+      "file": "Jinx-1.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/JinxW.png",
+      "bytes": 5888
+    },
+    {
+      "file": "Jinx-2.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/JinxE.png",
+      "bytes": 5975
+    },
+    {
+      "file": "Jinx-3.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/spell/JinxR.png",
+      "bytes": 6406
+    },
+    {
+      "file": "Darius.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Darius.png",
+      "bytes": 27666
+    },
+    {
+      "file": "Morgana.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Morgana.png",
+      "bytes": 26025
+    },
+    {
+      "file": "Leona.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Leona.png",
+      "bytes": 31573
+    },
+    {
+      "file": "Veigar.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/champion/Veigar.png",
+      "bytes": 26807
+    },
+    {
+      "file": "map12.png",
+      "url": "https://ddragon.leagueoflegends.com/cdn/16.18.1/img/map/map12.png",
+      "bytes": 134736
+    }
+  ]
+}

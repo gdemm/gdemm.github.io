@@ -1,0 +1,2674 @@
+{
+  "source": "hanyue game WAD zh_CN voice banks and original SFX banks",
+  "heroes": {
+    "Ashe": {
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Ashe-vo-move-0.mp3",
+            "event": "Play_vo_Ashe_Move2DStandard {r}",
+            "media": "2747003700.wem"
+          },
+          {
+            "url": "assets/audio/Ashe-vo-move-1.mp3",
+            "event": "Play_vo_Ashe_Move2DStandard {r}",
+            "media": "1567879956.wem"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Ashe-vo-attack-0.mp3",
+            "event": "Play_vo_Ashe_Attack2DGeneral {r}",
+            "media": "4190066722.wem"
+          },
+          {
+            "url": "assets/audio/Ashe-vo-attack-1.mp3",
+            "event": "Play_vo_Ashe_Attack2DGeneral {r}",
+            "media": "51417339.wem"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Ashe-vo-death-0.mp3",
+            "event": "Play_vo_Ashe_Death3D {r}",
+            "media": "2413345029.wem"
+          },
+          {
+            "url": "assets/audio/Ashe-vo-death-1.mp3",
+            "event": "Play_vo_Ashe_Death3D {r}",
+            "media": "2639712284.wem"
+          }
+        ],
+        "start": [
+          {
+            "url": "assets/audio/Ashe-vo-move-0.mp3",
+            "event": "Play_vo_Ashe_Move2DStandard {r}",
+            "media": "2747003700.wem"
+          },
+          {
+            "url": "assets/audio/Ashe-vo-move-1.mp3",
+            "event": "Play_vo_Ashe_Move2DStandard {r}",
+            "media": "1567879956.wem"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Ashe-vo-q-0.mp3",
+            "event": "Play_vo_Ashe_AsheQ_cast3D {r}",
+            "media": "3047581021.wem"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Ashe-vo-w-0.mp3",
+            "event": "Play_vo_Ashe_VolleyRank2_cast3D {r}",
+            "media": "3491173598.wem"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Ashe-vo-e-0.mp3",
+            "event": "Play_vo_Ashe_AsheSpiritOfTheHawk_cast3D {r}",
+            "media": "122722753.wem"
+          }
+        ]
+      },
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Ashe-sfx-r.mp3",
+          "event": "Play_sfx_Ashe_AsheBasicAttack2_OnCast {r}"
+        },
+        "q": {
+          "url": "assets/audio/Ashe-sfx-q.mp3",
+          "event": "Play_sfx_Ashe_AsheQAttack_OnBuffCast"
+        },
+        "w": {
+          "url": "assets/audio/Ashe-sfx-w.mp3",
+          "event": "Play_sfx_Ashe_VolleyAttack_OnCast"
+        },
+        "e": {
+          "url": "assets/audio/Ashe-sfx-e.mp3",
+          "event": "Play_sfx_Ashe_AsheSpiritOfTheHawk_OnCast {r}"
+        },
+        "r": {
+          "url": "assets/audio/Ashe-sfx-r.mp3",
+          "event": "Play_sfx_Ashe_EnchantedCrystalArrow_OnCast {r}"
+        },
+        "attack-launch": {
+          "url": "assets/audio/Ashe-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Ashe_AsheBasicAttack2_OnMissileLaunch {r}"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Ashe-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Ashe_AsheBasicAttack2_OnHit {r}"
+        },
+        "q-attack": {
+          "url": "assets/audio/Ashe-sfx-q-attack.mp3",
+          "event": "Play_sfx_Ashe_AsheQAttack_OnCast {r}"
+        },
+        "q-attack-launch": {
+          "url": "assets/audio/Ashe-sfx-q-attack-launch.mp3",
+          "event": "Play_sfx_Ashe_AsheQAttack_OnMissileLaunch {r}"
+        },
+        "q-attack-hit": {
+          "url": "assets/audio/Ashe-sfx-q-attack-hit.mp3",
+          "event": "Play_sfx_Ashe_AsheQAttack_OnHit {r}"
+        },
+        "AsheQAttack-launch": {
+          "url": "assets/audio/Ashe-sfx-q-attack-launch.mp3",
+          "event": "Play_sfx_Ashe_AsheQAttack_OnMissileLaunch {r}"
+        },
+        "AsheQAttack-hit": {
+          "url": "assets/audio/Ashe-sfx-q-attack-hit.mp3",
+          "event": "Play_sfx_Ashe_AsheQAttack_OnHit {r}"
+        },
+        "EnchantedCrystalArrow-launch": {
+          "url": "assets/audio/Ashe-sfx-EnchantedCrystalArrow-launch.mp3",
+          "event": "Play_sfx_Ashe_EnchantedCrystalArrow_OnMissileLaunch {r}"
+        },
+        "EnchantedCrystalArrow-hit": {
+          "url": "assets/audio/Ashe-sfx-EnchantedCrystalArrow-hit.mp3",
+          "event": "Play_sfx_Ashe_EnchantedCrystalArrow_hit"
+        },
+        "VolleyAttack-launch": {
+          "url": "assets/audio/Ashe-sfx-VolleyAttack-launch.mp3",
+          "event": "Play_sfx_Ashe_VolleyAttackWithSound_OnMissileLaunch"
+        },
+        "VolleyAttack-hit": {
+          "url": "assets/audio/Ashe-sfx-VolleyAttack-hit.mp3",
+          "event": "Play_sfx_Ashe_VolleyAttack_OnHit {r}"
+        },
+        "VolleyAttackWithSound-launch": {
+          "url": "assets/audio/Ashe-sfx-VolleyAttack-launch.mp3",
+          "event": "Play_sfx_Ashe_VolleyAttackWithSound_OnMissileLaunch"
+        },
+        "AsheBasicAttack2-launch": {
+          "url": "assets/audio/Ashe-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Ashe_AsheBasicAttack2_OnMissileLaunch {r}"
+        },
+        "AsheBasicAttack2-hit": {
+          "url": "assets/audio/Ashe-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Ashe_AsheBasicAttack2_OnHit {r}"
+        },
+        "AsheSpiritOfTheHawk-launch": {
+          "url": "assets/audio/Ashe-sfx-AsheSpiritOfTheHawk-launch.mp3",
+          "event": "Play_sfx_Ashe_AsheSpiritOfTheHawk_OnMissileLaunch {r} {m}"
+        },
+        "AsheSpiritOfTheHawk-hit": {
+          "url": "assets/audio/Ashe-sfx-AsheSpiritOfTheHawk-hit.mp3",
+          "event": "Play_sfx_Ashe_AsheSpiritOfTheHawk_hit"
+        },
+        "AsheCritAttack-launch": {
+          "url": "assets/audio/Ashe-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Ashe_AsheCritAttack_OnMissileLaunch {r}"
+        }
+      }
+    },
+    "Lux": {
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Lux-vo-move-0.mp3",
+            "event": "Play_vo_Lux_Move2DStandard {r}",
+            "media": "1247384871.wem"
+          },
+          {
+            "url": "assets/audio/Lux-vo-move-1.mp3",
+            "event": "Play_vo_Lux_Move2DStandard {r}",
+            "media": "22507828.wem"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Lux-vo-attack-0.mp3",
+            "event": "Play_vo_Lux_Attack2DGeneral {r}",
+            "media": "1355953374.wem"
+          },
+          {
+            "url": "assets/audio/Lux-vo-attack-1.mp3",
+            "event": "Play_vo_Lux_Attack2DGeneral {r}",
+            "media": "1165164401.wem"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Lux-vo-death-0.mp3",
+            "event": "Play_vo_Lux_Death3D {r}",
+            "media": "582594351.wem"
+          },
+          {
+            "url": "assets/audio/Lux-vo-death-1.mp3",
+            "event": "Play_vo_Lux_Death3D {r}",
+            "media": "2101935484.wem"
+          }
+        ],
+        "start": [
+          {
+            "url": "assets/audio/Lux-vo-start-0.mp3",
+            "event": "Play_vo_Lux_Move2DFirst {r}",
+            "media": "278583468.wem"
+          },
+          {
+            "url": "assets/audio/Lux-vo-start-1.mp3",
+            "event": "Play_vo_Lux_Move2DFirst {r}",
+            "media": "429525412.wem"
+          }
+        ],
+        "respawn": [
+          {
+            "url": "assets/audio/Lux-vo-respawn-0.mp3",
+            "event": "Play_vo_Lux_Respawn2DGeneral {r}",
+            "media": "486415899.wem"
+          },
+          {
+            "url": "assets/audio/Lux-vo-respawn-1.mp3",
+            "event": "Play_vo_Lux_Respawn2DGeneral {r}",
+            "media": "1767807299.wem"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Lux-vo-q-0.mp3",
+            "event": "Play_vo_Lux_LuxLightBinding_cast3D {r}",
+            "media": "2135987821.wem"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Lux-vo-w-0.mp3",
+            "event": "Play_vo_Lux_LuxPrismaticWave_cast3D {r}",
+            "media": "1613118496.wem"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Lux-vo-e-0.mp3",
+            "event": "Play_vo_Lux_LuxLightStrikeKugel_cast3D {r}",
+            "media": "710845211.wem"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Lux-vo-r-0.mp3",
+            "event": "Play_vo_Lux_LuxR_cast3D {r}",
+            "media": "548741512.wem"
+          }
+        ]
+      },
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Lux-sfx-attack.mp3",
+          "event": "Play_sfx_Lux_LuxBasicAttack2_OnCast {r}"
+        },
+        "q": {
+          "url": "assets/audio/Lux-sfx-q.mp3",
+          "event": "Play_sfx_Lux_LuxLightBinding_OnCast {r}"
+        },
+        "w": {
+          "url": "assets/audio/Lux-sfx-w.mp3",
+          "event": "Play_sfx_Lux_LuxPrismaticWave_OnCast {r}"
+        },
+        "e": {
+          "url": "assets/audio/Lux-sfx-e.mp3",
+          "event": "Play_sfx_Lux_LuxLightStrikeKugel_OnCast {r}"
+        },
+        "r": {
+          "url": "assets/audio/Lux-sfx-r.mp3",
+          "event": "Play_sfx_Lux_LuxR_OnCast {r}"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Lux-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Lux_LuxBasicAttack2_OnHit {r}"
+        },
+        "LuxPrismaticWaveMissile-launch": {
+          "url": "assets/audio/Lux-sfx-LuxPrismaticWaveMissile-launch.mp3",
+          "event": "Play_sfx_Lux_LuxPrismaticWaveMissile_OnMissileLaunch"
+        },
+        "LuxLightBindingDummy-launch": {
+          "url": "assets/audio/Lux-sfx-LuxLightBindingMis-launch.mp3",
+          "event": "Play_sfx_Lux_LuxLightBindingDummy_OnMissileLaunch {r}"
+        },
+        "LuxLightBindingMis-launch": {
+          "url": "assets/audio/Lux-sfx-LuxLightBindingMis-launch.mp3",
+          "event": "Play_sfx_Lux_LuxLightBindingDummy_OnMissileLaunch {r}"
+        },
+        "LuxLightBindingMis-hit": {
+          "url": "assets/audio/Lux-sfx-LuxLightBindingMis-hit.mp3",
+          "event": "Play_sfx_Lux_LuxLightBindingMis_OnBuffActivate {r} {m}"
+        },
+        "LuxIlluminationPassive-hit": {
+          "url": "assets/audio/Lux-sfx-LuxIlluminationPassive-hit.mp3",
+          "event": "Play_sfx_Lux_LuxIlluminationPassive_hit {r}"
+        },
+        "LuxLightStrikeKugel-launch": {
+          "url": "assets/audio/Lux-sfx-LuxLightStrikeKugel-launch.mp3",
+          "event": "Play_sfx_Lux_LuxLightStrikeKugel_OnMissileLaunch {r}"
+        },
+        "LuxLightStrikeKugel-hit": {
+          "url": "assets/audio/Lux-sfx-e-zoneEnd.mp3",
+          "event": "Play_sfx_Lux_LuxLightStrikeKugel_hit {r}"
+        },
+        "LuxBasicAttack2-hit": {
+          "url": "assets/audio/Lux-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Lux_LuxBasicAttack2_OnHit {r}"
+        },
+        "LuxCritAttack-hit": {
+          "url": "assets/audio/Lux-sfx-LuxCritAttack-hit.mp3",
+          "event": "Play_sfx_Lux_LuxCritAttack_OnHit {r}"
+        },
+        "e-zoneStart": {
+          "url": "assets/audio/Lux-sfx-e-zoneStart.mp3",
+          "event": "Play_sfx_Lux_LuxLightStrikeKugel_buffactivate {r}"
+        },
+        "e-zoneEnd": {
+          "url": "assets/audio/Lux-sfx-e-zoneEnd.mp3",
+          "event": "Play_sfx_Lux_LuxLightStrikeKugel_hit {r}"
+        },
+        "r-beam": {
+          "url": "assets/audio/Lux-sfx-r-beam.mp3",
+          "event": "Play_sfx_Lux_LuxRBeam_beamend {r}"
+        }
+      }
+    },
+    "Ahri": {
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Ahri-vo-move-0.mp3",
+            "event": "Play_vo_Ahri_Move2DStandard {r}",
+            "media": "1458689757.wem"
+          },
+          {
+            "url": "assets/audio/Ahri-vo-move-1.mp3",
+            "event": "Play_vo_Ahri_Move2DStandard {r}",
+            "media": "932697381.wem"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Ahri-vo-attack-0.mp3",
+            "event": "Play_vo_Ahri_Attack2DGeneral {r}",
+            "media": "620018451.wem"
+          },
+          {
+            "url": "assets/audio/Ahri-vo-attack-1.mp3",
+            "event": "Play_vo_Ahri_Attack2DGeneral {r}",
+            "media": "1229537159.wem"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Ahri-vo-death-0.mp3",
+            "event": "Play_vo_Ahri_Death3D {r}",
+            "media": "229079945.wem"
+          },
+          {
+            "url": "assets/audio/Ahri-vo-death-1.mp3",
+            "event": "Play_vo_Ahri_Death3D {r}",
+            "media": "247362072.wem"
+          }
+        ],
+        "start": [
+          {
+            "url": "assets/audio/Ahri-vo-start-0.mp3",
+            "event": "Play_vo_Ahri_Move2DFirst {r}",
+            "media": "431285731.wem"
+          },
+          {
+            "url": "assets/audio/Ahri-vo-start-1.mp3",
+            "event": "Play_vo_Ahri_Move2DFirst {r}",
+            "media": "1375307397.wem"
+          }
+        ],
+        "respawn": [
+          {
+            "url": "assets/audio/Ahri-vo-respawn-0.mp3",
+            "event": "Play_vo_Ahri_Respawn2DGeneral {r}",
+            "media": "1946501025.wem"
+          },
+          {
+            "url": "assets/audio/Ahri-vo-respawn-1.mp3",
+            "event": "Play_vo_Ahri_Respawn2DGeneral {r}",
+            "media": "756345591.wem"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Ahri-vo-q-0.mp3",
+            "event": "Play_vo_Ahri_AhriQ_cast3D {r}",
+            "media": "1763266983.wem"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Ahri-vo-w-0.mp3",
+            "event": "Play_vo_Ahri_AhriW_cast3D {r}",
+            "media": "143318439.wem"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Ahri-vo-e-0.mp3",
+            "event": "Play_vo_Ahri_AhriE_cast3D {r}",
+            "media": "1531656821.wem"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Ahri-vo-r-0.mp3",
+            "event": "Play_vo_Ahri_AhriR_cast3D [3147968973=671930799] {r}",
+            "media": "1662012116.wem"
+          }
+        ]
+      },
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Ahri-sfx-attack.mp3",
+          "event": "Play_sfx_Ahri_AhriBasicAttack2_OnCast {r}"
+        },
+        "q": {
+          "url": "assets/audio/Ahri-sfx-q.mp3",
+          "event": "Play_sfx_Ahri_AhriQ_OnCast {r}"
+        },
+        "w": {
+          "url": "assets/audio/Ahri-sfx-w.mp3",
+          "event": "Play_sfx_Ahri_AhriW_OnCast {r}"
+        },
+        "e": {
+          "url": "assets/audio/Ahri-sfx-e.mp3",
+          "event": "Play_sfx_Ahri_AhriE_OnCast {r}"
+        },
+        "r": {
+          "url": "assets/audio/Ahri-sfx-r.mp3",
+          "event": "Play_sfx_Ahri_AhriR_OnCast {r}"
+        },
+        "attack-launch": {
+          "url": "assets/audio/Ahri-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriBasicAttack2_OnMissileLaunch {r}"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Ahri-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriBasicAttack2_OnHit {r}"
+        },
+        "AhriPassiveMissile-launch": {
+          "url": "assets/audio/Ahri-sfx-AhriPassiveMissile-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriPassiveMissile_missilelaunch"
+        },
+        "AhriPassive-hit": {
+          "url": "assets/audio/Ahri-sfx-AhriPassive-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriPassive_hit"
+        },
+        "AhriWDamageMissile-launch": {
+          "url": "assets/audio/Ahri-sfx-AhriWDamageMissile-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriWDamageMissile_missilelaunch {r}"
+        },
+        "AhriWDamageMissile-hit": {
+          "url": "assets/audio/Ahri-sfx-AhriWDamageMissile-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriWDamageMissile_hit {r}"
+        },
+        "AhriRMissile-launch": {
+          "url": "assets/audio/Ahri-sfx-AhriRMissile-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriRMissile_OnMissileLaunch {r}"
+        },
+        "AhriRMissile-hit": {
+          "url": "assets/audio/Ahri-sfx-AhriRMissile-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriRMissile_OnHit {r}"
+        },
+        "AhriBasicAttack2-launch": {
+          "url": "assets/audio/Ahri-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriBasicAttack2_OnMissileLaunch {r}"
+        },
+        "AhriBasicAttack2-hit": {
+          "url": "assets/audio/Ahri-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriBasicAttack2_OnHit {r}"
+        },
+        "AhriQReturnMissile-launch": {
+          "url": "assets/audio/Ahri-sfx-AhriQReturnMissile-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriQReturnMissile_OnMissileLaunch {r}"
+        },
+        "AhriQReturnMissile-hit": {
+          "url": "assets/audio/Ahri-sfx-AhriQReturnMissile-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriQReturnDamage_hit {r}"
+        },
+        "AhriQMissile-launch": {
+          "url": "assets/audio/Ahri-sfx-AhriQMissile-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriQMissile_OnMissileLaunch {r}"
+        },
+        "AhriQMissile-hit": {
+          "url": "assets/audio/Ahri-sfx-AhriQMissile-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriQDamage_hit {r}"
+        },
+        "AhriEMissile-launch": {
+          "url": "assets/audio/Ahri-sfx-AhriEMissile-launch.mp3",
+          "event": "Play_sfx_Ahri_AhriEMissile_OnMissileLaunch {r}"
+        },
+        "AhriEMissile-hit": {
+          "url": "assets/audio/Ahri-sfx-AhriEMissile-hit.mp3",
+          "event": "Play_sfx_Ahri_AhriEMissile_hit {r}"
+        }
+      }
+    },
+    "Ezreal": {
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Ezreal-vo-move-0.mp3",
+            "event": "Play_vo_Ezreal_Move2DStandard {r}",
+            "media": "1945231985.wem"
+          },
+          {
+            "url": "assets/audio/Ezreal-vo-move-1.mp3",
+            "event": "Play_vo_Ezreal_Move2DStandard {r}",
+            "media": "1059095910.wem"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Ezreal-vo-attack-0.mp3",
+            "event": "Play_vo_Ezreal_Attack2DGeneral {r}",
+            "media": "1991150146.wem"
+          },
+          {
+            "url": "assets/audio/Ezreal-vo-attack-1.mp3",
+            "event": "Play_vo_Ezreal_Attack2DGeneral {r}",
+            "media": "804459408.wem"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Ezreal-vo-death-0.mp3",
+            "event": "Play_vo_Ezreal_Death3D {r}",
+            "media": "897541913.wem"
+          },
+          {
+            "url": "assets/audio/Ezreal-vo-death-1.mp3",
+            "event": "Play_vo_Ezreal_Death3D {r}",
+            "media": "652375637.wem"
+          }
+        ],
+        "start": [
+          {
+            "url": "assets/audio/Ezreal-vo-start-0.mp3",
+            "event": "Play_vo_Ezreal_Move2DFirst {r}",
+            "media": "1455524214.wem"
+          },
+          {
+            "url": "assets/audio/Ezreal-vo-start-1.mp3",
+            "event": "Play_vo_Ezreal_Move2DFirst {r}",
+            "media": "1666193423.wem"
+          }
+        ],
+        "respawn": [
+          {
+            "url": "assets/audio/Ezreal-vo-respawn-0.mp3",
+            "event": "Play_vo_Ezreal_Respawn2DGeneral {r}",
+            "media": "1156269894.wem"
+          },
+          {
+            "url": "assets/audio/Ezreal-vo-respawn-1.mp3",
+            "event": "Play_vo_Ezreal_Respawn2DGeneral {r}",
+            "media": "208762904.wem"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Ezreal-vo-q-0.mp3",
+            "event": "Play_vo_Ezreal_EzrealQ_cast3D {r}",
+            "media": "1129655883.wem"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Ezreal-vo-w-0.mp3",
+            "event": "Play_vo_Ezreal_EzrealW_cast3D {r}",
+            "media": "275691134.wem"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Ezreal-vo-e-0.mp3",
+            "event": "Play_vo_Ezreal_EzrealE_cast3D {r}",
+            "media": "259248634.wem"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Ezreal-vo-r-0.mp3",
+            "event": "Play_vo_Ezreal_EzrealR_cast3D {r}",
+            "media": "710149726.wem"
+          }
+        ]
+      },
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Ezreal-sfx-attack.mp3",
+          "event": "Play_sfx_Ezreal_EzrealBasicAttack2_OnCast {r}"
+        },
+        "q": {
+          "url": "assets/audio/Ezreal-sfx-q.mp3",
+          "event": "Play_sfx_Ezreal_EzrealQ_OnCast {r}"
+        },
+        "w": {
+          "url": "assets/audio/Ezreal-sfx-w.mp3",
+          "event": "Play_sfx_Ezreal_EzrealW_OnCast {r}"
+        },
+        "e": {
+          "url": "assets/audio/Ezreal-sfx-e.mp3",
+          "event": "Play_sfx_Ezreal_EzrealE_OnCast {r}"
+        },
+        "r": {
+          "url": "assets/audio/Ezreal-sfx-r.mp3",
+          "event": "Play_sfx_Ezreal_EzrealR_OnCast {r}"
+        },
+        "attack-launch": {
+          "url": "assets/audio/Ezreal-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Ezreal_EzrealBasicAttack2_OnMissileLaunch {r}"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Ezreal-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealBasicAttack2_OnHit {r}"
+        },
+        "q-hit": {
+          "url": "assets/audio/Ezreal-sfx-q-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealQ_OnHit {r}"
+        },
+        "w-hit": {
+          "url": "assets/audio/Ezreal-sfx-w-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealW_OnHit"
+        },
+        "r-hit": {
+          "url": "assets/audio/Ezreal-sfx-r-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealR_OnHit {r}"
+        },
+        "EzrealBasicAttack2-launch": {
+          "url": "assets/audio/Ezreal-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Ezreal_EzrealBasicAttack2_OnMissileLaunch {r}"
+        },
+        "EzrealBasicAttack2-hit": {
+          "url": "assets/audio/Ezreal-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealBasicAttack2_OnHit {r}"
+        },
+        "EzrealEMissile-launch": {
+          "url": "assets/audio/Ezreal-sfx-EzrealEMissile-launch.mp3",
+          "event": "Play_sfx_Ezreal_EzrealEMissile_OnMissileLaunch {r}"
+        },
+        "EzrealEMissile-hit": {
+          "url": "assets/audio/Ezreal-sfx-EzrealEMissile-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealEMissile_OnHit {r}"
+        },
+        "EzrealQ-launch": {
+          "url": "assets/audio/Ezreal-sfx-EzrealQ-launch.mp3",
+          "event": "Play_sfx_Ezreal_EzrealQ_OnMissileLaunch {r}"
+        },
+        "EzrealQ-hit": {
+          "url": "assets/audio/Ezreal-sfx-q-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealQ_OnHit {r}"
+        },
+        "EzrealW-launch": {
+          "url": "assets/audio/Ezreal-sfx-EzrealW-launch.mp3",
+          "event": "Play_sfx_Ezreal_EzrealW_OnMissileLaunch"
+        },
+        "EzrealW-hit": {
+          "url": "assets/audio/Ezreal-sfx-w-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealW_OnHit"
+        },
+        "EzrealR-launch": {
+          "url": "assets/audio/Ezreal-sfx-EzrealR-launch.mp3",
+          "event": "Play_sfx_Ezreal_EzrealR_OnMissileLaunch"
+        },
+        "EzrealR-hit": {
+          "url": "assets/audio/Ezreal-sfx-r-hit.mp3",
+          "event": "Play_sfx_Ezreal_EzrealR_OnHit {r}"
+        }
+      }
+    },
+    "Garen": {
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Garen-vo-move-0.mp3",
+            "event": "Play_vo_Garen_Move2DStandard {r}",
+            "media": "1907425992.wem"
+          },
+          {
+            "url": "assets/audio/Garen-vo-move-1.mp3",
+            "event": "Play_vo_Garen_Move2DStandard {r}",
+            "media": "1155877918.wem"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Garen-vo-attack-0.mp3",
+            "event": "Play_vo_Garen_Attack2DGeneral {r}",
+            "media": "235912900.wem"
+          },
+          {
+            "url": "assets/audio/Garen-vo-attack-1.mp3",
+            "event": "Play_vo_Garen_Attack2DGeneral {r}",
+            "media": "1821508110.wem"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Garen-vo-death-0.mp3",
+            "event": "Play_vo_Garen_Death3D {r}",
+            "media": "371279707.wem"
+          },
+          {
+            "url": "assets/audio/Garen-vo-death-1.mp3",
+            "event": "Play_vo_Garen_Death3D {r}",
+            "media": "693213875.wem"
+          }
+        ],
+        "start": [
+          {
+            "url": "assets/audio/Garen-vo-move-0.mp3",
+            "event": "Play_vo_Garen_Move2DStandard {r}",
+            "media": "1907425992.wem"
+          },
+          {
+            "url": "assets/audio/Garen-vo-move-1.mp3",
+            "event": "Play_vo_Garen_Move2DStandard {r}",
+            "media": "1155877918.wem"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Garen-vo-q-0.mp3",
+            "event": "Play_vo_Garen_GarenQ_cast3D {r}",
+            "media": "689992918.wem"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Garen-vo-w-0.mp3",
+            "event": "Play_vo_Garen_GarenW_cast3D {r}",
+            "media": "1949478879.wem"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Garen-vo-e-0.mp3",
+            "event": "Play_vo_Garen_GarenE_cast3D {r}",
+            "media": "381295108.wem"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Garen-vo-r-0.mp3",
+            "event": "Play_vo_Garen_GarenR_cast3D {r}",
+            "media": "1924380092.wem"
+          }
+        ]
+      },
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Garen-sfx-attack.mp3",
+          "event": "Play_sfx_Garen_GarenBasicAttack2_OnCast {r}"
+        },
+        "q": {
+          "url": "assets/audio/Garen-sfx-q.mp3",
+          "event": "Play_sfx_Garen_GarenQ_OnCast {r}"
+        },
+        "w": {
+          "url": "assets/audio/Garen-sfx-w.mp3",
+          "event": "Play_sfx_Garen_GarenW_OnCast {r}"
+        },
+        "e": {
+          "url": "assets/audio/Garen-sfx-e.mp3",
+          "event": "Play_sfx_Garen_GarenE_OnCast {r}"
+        },
+        "r": {
+          "url": "assets/audio/Garen-sfx-r.mp3",
+          "event": "Play_sfx_Garen_GarenR_OnCast {r}"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Garen-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Garen_GarenBasicAttack2_OnHit [1559186049=1153642577] {r}"
+        },
+        "q-attack": {
+          "url": "assets/audio/Garen-sfx-q-attack.mp3",
+          "event": "Play_sfx_Garen_GarenQAttack_OnCast {r}"
+        },
+        "r-hit": {
+          "url": "assets/audio/Garen-sfx-r-hit.mp3",
+          "event": "Play_sfx_Garen_GarenR_OnHit {r}"
+        },
+        "GarenE-hit": {
+          "url": "assets/audio/Garen-sfx-e-hit.mp3",
+          "event": "Play_sfx_Garen_GarenE_hit {r}"
+        },
+        "GarenCritAttack-hit": {
+          "url": "assets/audio/Garen-sfx-GarenCritAttack-hit.mp3",
+          "event": "Play_sfx_Garen_GarenCritAttack_OnHit [1559186049=1216965916] {r}"
+        },
+        "GarenR-hit": {
+          "url": "assets/audio/Garen-sfx-r-hit.mp3",
+          "event": "Play_sfx_Garen_GarenR_OnHit {r}"
+        },
+        "GarenBasicAttack2-hit": {
+          "url": "assets/audio/Garen-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Garen_GarenBasicAttack2_OnHit [1559186049=1153642577] {r}"
+        },
+        "e-hit": {
+          "url": "assets/audio/Garen-sfx-e-hit.mp3",
+          "event": "Play_sfx_Garen_GarenE_hit {r}"
+        }
+      }
+    },
+    "Jinx": {
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Jinx-vo-move-0.mp3",
+            "event": "Play_vo_Jinx_Move2DStandard {r}",
+            "media": "158112069.wem"
+          },
+          {
+            "url": "assets/audio/Jinx-vo-move-1.mp3",
+            "event": "Play_vo_Jinx_Move2DStandard {r}",
+            "media": "856071539.wem"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Jinx-vo-attack-0.mp3",
+            "event": "Play_vo_Jinx_Attack2DGeneral {r}",
+            "media": "764639399.wem"
+          },
+          {
+            "url": "assets/audio/Jinx-vo-attack-1.mp3",
+            "event": "Play_vo_Jinx_Attack2DGeneral {r}",
+            "media": "291938943.wem"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Jinx-vo-death-0.mp3",
+            "event": "Play_vo_Jinx_Death3D {r}",
+            "media": "227565648.wem"
+          },
+          {
+            "url": "assets/audio/Jinx-vo-death-1.mp3",
+            "event": "Play_vo_Jinx_Death3D {r}",
+            "media": "993385833.wem"
+          }
+        ],
+        "start": [
+          {
+            "url": "assets/audio/Jinx-vo-move-0.mp3",
+            "event": "Play_vo_Jinx_Move2DStandard {r}",
+            "media": "158112069.wem"
+          },
+          {
+            "url": "assets/audio/Jinx-vo-move-1.mp3",
+            "event": "Play_vo_Jinx_Move2DStandard {r}",
+            "media": "856071539.wem"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Jinx-vo-w-0.mp3",
+            "event": "Play_vo_Jinx_JinxW_cast3D",
+            "media": "709405216.wem"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Jinx-vo-e-0.mp3",
+            "event": "Play_vo_Jinx_JinxE_cast3D {r}",
+            "media": "221175866.wem"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Jinx-vo-r-0.mp3",
+            "event": "Play_vo_Jinx_JinxR_cast3D {r}",
+            "media": "408151263.wem"
+          }
+        ]
+      },
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Jinx-sfx-attack.mp3",
+          "event": "Play_sfx_Jinx_JinxBasicAttack2_OnCast {r}"
+        },
+        "q": {
+          "url": "assets/audio/Jinx-sfx-q.mp3",
+          "event": "Play_sfx_Jinx_JinxQ_OnBuffActivate"
+        },
+        "w": {
+          "url": "assets/audio/Jinx-sfx-w.mp3",
+          "event": "Play_sfx_Jinx_JinxW_OnCast {r}"
+        },
+        "e": {
+          "url": "assets/audio/Jinx-sfx-e.mp3",
+          "event": "Play_sfx_Jinx_JinxE_OnCast {r}"
+        },
+        "r": {
+          "url": "assets/audio/Jinx-sfx-r.mp3",
+          "event": "Play_sfx_Jinx_JinxR_OnCast {r}"
+        },
+        "attack-launch": {
+          "url": "assets/audio/Jinx-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Jinx_JinxBasicAttack2_OnMissileLaunch {r}"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Jinx-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Jinx_JinxBasicAttack2_OnHit [1559186049=2473969246] {r}"
+        },
+        "rocket": {
+          "url": "assets/audio/Jinx-sfx-rocket.mp3",
+          "event": "Play_sfx_Jinx_JinxQAttack2_OnCast {r}"
+        },
+        "rocket-launch": {
+          "url": "assets/audio/Jinx-sfx-rocket-launch.mp3",
+          "event": "Play_sfx_Jinx_JinxQAttack2_OnMissileLaunch {r}"
+        },
+        "rocket-hit": {
+          "url": "assets/audio/Jinx-sfx-rocket-hit.mp3",
+          "event": "Play_sfx_Jinx_JinxQAttack_hit {r}"
+        },
+        "JinxWMissile-launch": {
+          "url": "assets/audio/Jinx-sfx-JinxWMissile-launch.mp3",
+          "event": "Play_sfx_Jinx_JinxWMissile_OnMissileLaunch {r}"
+        },
+        "JinxWMissile-hit": {
+          "url": "assets/audio/Jinx-sfx-JinxWMissile-hit.mp3",
+          "event": "Play_sfx_Jinx_JinxWMissile_hit {r}"
+        },
+        "JinxQAttack2-launch": {
+          "url": "assets/audio/Jinx-sfx-rocket-launch.mp3",
+          "event": "Play_sfx_Jinx_JinxQAttack2_OnMissileLaunch {r}"
+        },
+        "JinxQAttack-hit": {
+          "url": "assets/audio/Jinx-sfx-rocket-hit.mp3",
+          "event": "Play_sfx_Jinx_JinxQAttack_hit {r}"
+        },
+        "JinxR-launch": {
+          "url": "assets/audio/Jinx-sfx-JinxR-launch.mp3",
+          "event": "Play_sfx_Jinx_JinxR_missilelaunch"
+        },
+        "JinxR-hit": {
+          "url": "assets/audio/Jinx-sfx-JinxR-hit.mp3",
+          "event": "Play_sfx_Jinx_JinxR_hit {r}"
+        },
+        "JinxBasicAttack2-launch": {
+          "url": "assets/audio/Jinx-sfx-attack-launch.mp3",
+          "event": "Play_sfx_Jinx_JinxBasicAttack2_OnMissileLaunch {r}"
+        },
+        "JinxBasicAttack2-hit": {
+          "url": "assets/audio/Jinx-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Jinx_JinxBasicAttack2_OnHit [1559186049=2473969246] {r}"
+        },
+        "e-zoneStart": {
+          "url": "assets/audio/Jinx-sfx-e-zoneStart.mp3",
+          "event": "Play_sfx_Jinx_JinxEMine_OnBuffActivate {r}"
+        },
+        "e-zoneEnd": {
+          "url": "assets/audio/Jinx-sfx-e-zoneEnd.mp3",
+          "event": "Play_sfx_Jinx_JinxEMineSnare_OnBuffActivate {r}"
+        }
+      }
+    },
+    "Announcer": {
+      "vo": {
+        "start": [
+          {
+            "url": "assets/audio/Announcer-vo-start-0.mp3",
+            "event": "Play_vo_Announcer_Female1_StartGameMessage2Map12 {r}",
+            "media": "89131971.wem"
+          }
+        ],
+        "victory": [
+          {
+            "url": "assets/audio/Announcer-vo-victory-0.mp3",
+            "event": "Play_vo_Announcer_Global_Female1_OnVictory",
+            "media": "349955032.wem"
+          }
+        ],
+        "defeat": [
+          {
+            "url": "assets/audio/Announcer-vo-defeat-0.mp3",
+            "event": "Play_vo_Announcer_Global_Female1_OnDefeat",
+            "media": "52198965.wem"
+          }
+        ],
+        "firstblood": [
+          {
+            "url": "assets/audio/Announcer-vo-firstblood-0.mp3",
+            "event": "Play_vo_Announcer_Female1_FirstBloodHeroBlue",
+            "media": "476762637.wem"
+          }
+        ],
+        "tower_enemy": [
+          {
+            "url": "assets/audio/Announcer-vo-tower_enemy-0.mp3",
+            "event": "Play_vo_Announcer_Female1_TurretLostEnemyTeam",
+            "media": "19868007.wem"
+          }
+        ],
+        "tower_ally": [
+          {
+            "url": "assets/audio/Announcer-vo-tower_ally-0.mp3",
+            "event": "Play_vo_Announcer_Female1_TurretLostBlue",
+            "media": "490167967.wem"
+          }
+        ],
+        "inhibitor_enemy": [
+          {
+            "url": "assets/audio/Announcer-vo-inhibitor_enemy-0.mp3",
+            "event": "Play_vo_Announcer_Female1_InhibitorLostEnemyTeam {r}",
+            "media": "251272883.wem"
+          }
+        ],
+        "inhibitor_ally": [
+          {
+            "url": "assets/audio/Announcer-vo-inhibitor_ally-0.mp3",
+            "event": "Play_vo_Announcer_Female1_InhibitorLostYourTeam {r}",
+            "media": "281657393.wem"
+          }
+        ]
+      }
+    },
+    "Summoner": {
+      "sfx": {
+        "flash-summonerBlink": {
+          "url": "assets/audio/Summoner-sfx-flash-summonerBlink.mp3",
+          "event": "Play_sfx_SummonerFlash_OnCast {r} {d}"
+        },
+        "flash-arrival": {
+          "url": "assets/audio/Summoner-sfx-flash-arrival.mp3",
+          "event": "Play_sfx_SummonerFlash_return {r}"
+        },
+        "heal-summonerHeal": {
+          "url": "assets/audio/Summoner-sfx-heal-summonerHeal.mp3",
+          "event": "Play_sfx_SummonerHeal_OnCast {r}"
+        },
+        "mark-summonerCast": {
+          "url": "assets/audio/Summoner-sfx-mark-summonerCast.mp3",
+          "event": "Play_sfx_SummonerSnowball_OnCast {r}"
+        },
+        "mark-launch": {
+          "url": "assets/audio/Summoner-sfx-mark-launch.mp3",
+          "event": "Play_sfx_SummonerSnowball_missilelaunch {r}"
+        },
+        "mark-summonerMark": {
+          "url": "assets/audio/Summoner-sfx-mark-summonerMark.mp3",
+          "event": "Play_sfx_SummonerSnowball_hit {r}"
+        },
+        "mark-summonerDash": {
+          "url": "assets/audio/Summoner-sfx-mark-summonerDash.mp3",
+          "event": "Play_sfx_SnowballFollowupCast_OnCast {r} {d}"
+        },
+        "mark-summonerDashHit": {
+          "url": "assets/audio/Summoner-sfx-mark-summonerDashHit.mp3",
+          "event": "Play_sfx_SnowballFollowupCast_hit {r} {d}"
+        }
+      }
+    },
+    "Yasuo": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Yasuo-sfx-attack.mp3",
+          "event": "Play_sfx_Yasuo_YasuoBasicAttack2_OnCast {r}",
+          "sha256": "af58df6c74b59d57c3c03fa96da4d08e15ed19aaf3483b84197c4669b9d0f80a"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Yasuo-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Yasuo_YasuoBasicAttack2_OnHit [1559186049=2473969246] {r}",
+          "sha256": "0e292bdb0c66652fd8a2a822a94f99842cafbef7190cce662da9081bd8a5f182"
+        },
+        "q": {
+          "url": "assets/audio/Yasuo-sfx-q.mp3",
+          "event": "Play_sfx_Yasuo_YasuoQ2_OnCast {r}",
+          "sha256": "d34a8f59a4b94f688e1101e394a89730f76cba65285dfa4f2a22d0ed3d5fc3fd"
+        },
+        "q3": {
+          "url": "assets/audio/Yasuo-sfx-q3.mp3",
+          "event": "Play_sfx_Yasuo_YasuoQ3W_OnBuffActivate {r}",
+          "sha256": "50ca0e963e84b76e6b71eb76c61c2e3f080862dd444a551084f24a9cf2fee108"
+        },
+        "q3-launch": {
+          "url": "assets/audio/Yasuo-sfx-q3-launch.mp3",
+          "event": "Play_sfx_Yasuo_YasuoQ3W_missilelaunch {r}",
+          "sha256": "b1f61f1d08bff690f785e9c2241a151563acb6bcb6cdf18f64739d6bb53cba8f"
+        },
+        "q3-hit": {
+          "url": "assets/audio/Yasuo-sfx-q3-hit.mp3",
+          "event": "Play_sfx_Yasuo_YasuoQ3W_hit {r}",
+          "sha256": "a5d5893df49cb028340030888698fb8e0403db4ee7ec25eb122a9623eb9081fa"
+        },
+        "w": {
+          "url": "assets/audio/Yasuo-sfx-w.mp3",
+          "event": "Play_sfx_Yasuo_YasuoWMovingWall_OnCast {r}",
+          "sha256": "a2ee74b5115efe1d1655b20542ab673610f42088093ff89c0ba65b879b8fb4d7"
+        },
+        "w-hit": {
+          "url": "assets/audio/Yasuo-sfx-w-hit.mp3",
+          "event": "Play_sfx_Yasuo_YasuoWMovingWall_hit {r}",
+          "sha256": "b80a0872287ac68f53500e2653bc029ddf94e8ba95b92efa76aa69c77887e795"
+        },
+        "e": {
+          "url": "assets/audio/Yasuo-sfx-e.mp3",
+          "event": "Play_sfx_Yasuo_YasuoDashWrapper_cast {r}",
+          "sha256": "0ea604f73bff910a7e1baba732c496506f1068e51b23da2a430c2ec2c46e00fa"
+        },
+        "e-hit": {
+          "url": "assets/audio/Yasuo-sfx-e-hit.mp3",
+          "event": "Play_sfx_Yasuo_YasuoDashWrapper_hit {r}",
+          "sha256": "d39242037ac7a6952f8cea4e2edadc92fc863f70828ad89d3496c47c1d8b04cd"
+        },
+        "r": {
+          "url": "assets/audio/Yasuo-sfx-r.mp3",
+          "event": "Play_sfx_Yasuo_YasuoRDummySpell_OnCast {r}",
+          "sha256": "20569c7573a8659749f8b5d23fa5ca9185ace8935599015505c63289d31eed69"
+        },
+        "r-hit": {
+          "url": "assets/audio/Yasuo-sfx-r-hit.mp3",
+          "event": "Play_sfx_Yasuo_YasuoRKnockUpCombo_hit_land {r}",
+          "sha256": "ae9ec9ee09800109411f00d82cadef3a66a5c72aeabd6917cde6bc9c867c2e02"
+        },
+        "passive": {
+          "url": "assets/audio/Yasuo-sfx-passive.mp3",
+          "event": "Play_sfx_Yasuo_YasuoPassiveShield_OnBuffActivate {r}",
+          "sha256": "f79240276d2021d4d667bc6435ec1c4e27d30be13bd9ff5042f25a3e09334e6c"
+        },
+        "q-ready": {
+          "url": "assets/audio/Yasuo-q-ready.mp3",
+          "event": "Play_sfx_Yasuo_YasuoQ3W_OnBuffActivate {r}",
+          "source": "extracted/audio/Yasuo/sfx/txtp/Play_sfx_Yasuo_YasuoQ3W_OnBuffActivate {r}.txtp"
+        },
+        "q-ready-end": {
+          "url": "assets/audio/Yasuo-q-ready-end.mp3",
+          "event": "Play_sfx_Yasuo_YasuoQ3W_OnBuffDeactivate {r}",
+          "source": "extracted/audio/Yasuo/sfx/txtp/Play_sfx_Yasuo_YasuoQ3W_OnBuffDeactivate {r}.txtp"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Yasuo-vo-move-0.mp3",
+            "event": "Play_vo_Yasuo_Move2DStandard {r}",
+            "media": "1039157370.wem",
+            "sha256": "5344aeae13616b80b7e7ddc21e3cb3a95d541cb1f67aca6608aeb18aff2273f1"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Yasuo-vo-attack-0.mp3",
+            "event": "Play_vo_Yasuo_Attack2DGeneral {r}",
+            "media": "1652084999.wem",
+            "sha256": "bd66254eb93728d7b1a0821450b320387c9917f6d87502d60751686f3fd05209"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Yasuo-vo-death-0.mp3",
+            "event": "Play_vo_Yasuo_Death3D {r}",
+            "media": "1895568415.wem",
+            "sha256": "daf68fb254da424daecbfe5e9a3890e081627f44a45fd82e228f6b5a4f77ef1a"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Yasuo-vo-r-0.mp3",
+            "event": "Play_vo_Yasuo_YasuoR_cast3D {r}",
+            "media": "1578307795.wem",
+            "sha256": "3e3e3b87a4440c94dbfd70ab3c1e5baadc9ccb9563fb0da820c314cd14bbc48b"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Yasuo-vo-q-0.mp3",
+            "event": "Play_vo_Yasuo_YasuoQ1_cast3D {r}",
+            "media": "2038339901.wem",
+            "sha256": "6e3d9126c2a2e4e4409bba06525cf92036960d410ddbcdcbb9763af5338c5058"
+          }
+        ],
+        "q3": [
+          {
+            "url": "assets/audio/Yasuo-vo-q3-0.mp3",
+            "event": "Play_vo_Yasuo_YasuoQ3Wrapper_cast3D {r}",
+            "media": "1283861552.wem",
+            "sha256": "33d35acdcaaeb7ffc55c9f3bf8bfb3ed26b48c8462bafd2306bc53f0f60d4663"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Yasuo-vo-w-0.mp3",
+            "event": "Play_vo_Yasuo_YasuoW_cast3D {r}",
+            "media": "2091496747.wem",
+            "sha256": "b8301dd9dcac7786badc0d1fb02dd42c5757719d6d2fda0d9edcc6a343b44c8e"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Yasuo-vo-e-0.mp3",
+            "event": "Play_vo_Yasuo_YasuoEDash_cast3D {r}",
+            "media": "522189190.wem",
+            "sha256": "8b18d14a44fdc195b2f52cfc35d97614e26b70973e471014a46cbf903263e814"
+          }
+        ]
+      }
+    },
+    "Sett": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Sett-sfx-attack.mp3",
+          "event": "Play_sfx_Sett_SettBasicAttack_cast {r}",
+          "sha256": "42c575dc335c541075d98fba42568d738299f05c05c27c56e28b80d2a5f77b45"
+        },
+        "attack2": {
+          "url": "assets/audio/Sett-sfx-attack2.mp3",
+          "event": "Play_sfx_Sett_SettBasicAttack2_cast {r}",
+          "sha256": "5e06ee313c3e2c0f9124cf2812e13a9fbd114e596bfe273a7d2ba91b66ba05e0"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Sett-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Sett_SettBasicAttack2_OnHit [1559186049=1216965916] {r}",
+          "sha256": "212c3ec297110df5aa06e11ce67465dd9ca96c5d364db38fc464faa0f4299e0d"
+        },
+        "q": {
+          "url": "assets/audio/Sett-sfx-q.mp3",
+          "event": "Play_sfx_Sett_SettQ_OnBuffActivate {r}",
+          "sha256": "1121b5ea97e4b9756e7a7e21a6bd3b4a0e49794bde5e27b27ed52eab61101d78"
+        },
+        "q-attack": {
+          "url": "assets/audio/Sett-sfx-q-attack.mp3",
+          "event": "Play_sfx_Sett_SettQAttack_OnCast {r}",
+          "sha256": "d8132c90b682703f0342c5d6d572f958119c41a65ec4d45fe5d20580b63dee01"
+        },
+        "q-attack2": {
+          "url": "assets/audio/Sett-sfx-q-attack.mp3",
+          "event": "Play_sfx_Sett_SettQAttack2_OnCast {r}",
+          "sha256": "d8132c90b682703f0342c5d6d572f958119c41a65ec4d45fe5d20580b63dee01"
+        },
+        "q-attack-hit": {
+          "url": "assets/audio/Sett-sfx-q-attack-hit.mp3",
+          "event": "Play_sfx_Sett_SettQAttack_OnHit {r}",
+          "sha256": "0d1fe7bddd9ce50c805eb413a0177d2e91fe7ee4b6c5400d681fab7051702224"
+        },
+        "w": {
+          "url": "assets/audio/Sett-sfx-w.mp3",
+          "event": "Play_sfx_Sett_SettW_cast {r}",
+          "sha256": "95ea2691934dcf581b9cc13b67f2e98e573f7d78cc400f183a6da967041bccd2"
+        },
+        "w-hit": {
+          "url": "assets/audio/Sett-sfx-w-hit.mp3",
+          "event": "Play_sfx_Sett_SettW_hit_center_sweetener {r}",
+          "sha256": "efa45a5347d006e0747916ccf9be96d935255bf54735c8768bb0e77b750977c5"
+        },
+        "e": {
+          "url": "assets/audio/Sett-sfx-e.mp3",
+          "event": "Play_sfx_Sett_SettE_cast {r}",
+          "sha256": "b57b21c7e923ee9ae4256550d3c802694c97879ee2c9748a0166dbd333d07918"
+        },
+        "e-hit": {
+          "url": "assets/audio/Sett-sfx-e-hit.mp3",
+          "event": "Play_sfx_Sett_SettE_hit_both {r}",
+          "sha256": "17be0012764a0bff3cc3e354ec5f5efa4786a3d50ad317fec84b9705a7946faa"
+        },
+        "r": {
+          "url": "assets/audio/Sett-sfx-r.mp3",
+          "event": "Play_sfx_Sett_SettR_cast",
+          "sha256": "aac0122937571040a04b7b2247f5be990c24de595d09b1d36da59930c4edd912"
+        },
+        "r-hit": {
+          "url": "assets/audio/Sett-sfx-r-hit.mp3",
+          "event": "Play_sfx_Sett_SettR_hit",
+          "sha256": "618493c874d478c26aaa32d434d0ab6d5e1e2cf65c6409a8cd534afbaa538eba"
+        },
+        "attack2-hit": {
+          "url": "assets/audio/Sett-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Sett_SettBasicAttack2_OnHit [1559186049=1216965916] {r}",
+          "sha256": "212c3ec297110df5aa06e11ce67465dd9ca96c5d364db38fc464faa0f4299e0d"
+        },
+        "q-attack2-hit": {
+          "url": "assets/audio/Sett-sfx-q-attack-hit.mp3",
+          "event": "Play_sfx_Sett_SettQAttack_OnHit {r}",
+          "sha256": "0d1fe7bddd9ce50c805eb413a0177d2e91fe7ee4b6c5400d681fab7051702224"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Sett-vo-move-0.mp3",
+            "event": "Play_vo_Sett_Move2DStandard {r}",
+            "media": "2095433939.wem",
+            "sha256": "99ce435605a9aad263e4c2ab5d0c3f39244952c7c226eb0438b21633b36a8b25"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Sett-vo-attack-0.mp3",
+            "event": "Play_vo_Sett_Attack2DGeneral {r}",
+            "media": "1111644890.wem",
+            "sha256": "4c80d34f80eb5425857fe0c2d9e296f097fa6a86c7795450bc5d29e285a3867e"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Sett-vo-death-0.mp3",
+            "event": "Play_vo_Sett_Death3D {r}",
+            "media": "789151248.wem",
+            "sha256": "1bcec063a1209e88e11f1c0e4cfa771ba4c534ceb741630a28759157b7879182"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Sett-vo-r-0.mp3",
+            "event": "Play_vo_Sett_SettR_cast3D {r}",
+            "media": "1662282073.wem",
+            "sha256": "59f9295478fde5922df3014087eb937f1fa54c5981c215e455acd9de4244bf0a"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Sett-vo-q-0.mp3",
+            "event": "Play_vo_Sett_SettQAttack2_cast3D {r}",
+            "media": "1466183349.wem",
+            "sha256": "a49b1308b8974409e122c8d397421734733a7116a5723fa1e10f3b022573cea0"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Sett-vo-w-0.mp3",
+            "event": "Play_vo_Sett_SettW_cast3D {r}",
+            "media": "1173767740.wem",
+            "sha256": "4fc473f67bd9787766f12edade32a076ac5bcfea1c29058705a9fa501e7368a4"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Sett-vo-e-0.mp3",
+            "event": "Play_vo_Sett_SettE_cast3D {r}",
+            "media": "317885812.wem",
+            "sha256": "c647ab5ce1172903d790fe28c338ac9a5c49448f11dae81f0ff3a1d5581987e4"
+          }
+        ]
+      }
+    },
+    "Darius": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Darius-sfx-attack.mp3",
+          "event": "Play_sfx_Darius_DariusBasicAttack2_OnCast {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusBasicAttack2_OnCast {r}.txtp"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Darius-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Darius_DariusBasicAttack2_OnHit [1559186049=2058049674] {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusBasicAttack2_OnHit [1559186049=2058049674] {r}.txtp"
+        },
+        "q": {
+          "url": "assets/audio/Darius-sfx-q.mp3",
+          "event": "Play_sfx_Darius_DariusCleave_OnCast {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusCleave_OnCast {r}.txtp"
+        },
+        "q-hit": {
+          "url": "assets/audio/Darius-sfx-q-hit.mp3",
+          "event": "Play_sfx_Darius_DariusCleave_hit_outter {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusCleave_hit_outter {r}.txtp"
+        },
+        "w": {
+          "url": "assets/audio/Darius-sfx-w.mp3",
+          "event": "Play_sfx_Darius_DariusNoxianTacticsONH_OnCast",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusNoxianTacticsONH_OnCast.txtp"
+        },
+        "w-hit": {
+          "url": "assets/audio/Darius-sfx-w-hit.mp3",
+          "event": "Play_sfx_Darius_DariusNoxianTacticsONHAttack_OnHit {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusNoxianTacticsONHAttack_OnHit {r}.txtp"
+        },
+        "e": {
+          "url": "assets/audio/Darius-sfx-e.mp3",
+          "event": "Play_sfx_Darius_DariusAxeGrabCone_OnCast {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusAxeGrabCone_OnCast {r}.txtp"
+        },
+        "e-hit": {
+          "url": "assets/audio/Darius-sfx-e-hit.mp3",
+          "event": "Play_sfx_Darius_DariusAxeGrabCone_OnHit {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusAxeGrabCone_OnHit {r}.txtp"
+        },
+        "r": {
+          "url": "assets/audio/Darius-sfx-r.mp3",
+          "event": "Play_sfx_Darius_DariusExecute_OnCast {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusExecute_OnCast {r}.txtp"
+        },
+        "r-hit": {
+          "url": "assets/audio/Darius-sfx-r-hit.mp3",
+          "event": "Play_sfx_Darius_DariusExecute_OnHit {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusExecute_OnHit {r}.txtp"
+        },
+        "passive": {
+          "url": "assets/audio/Darius-sfx-passive.mp3",
+          "event": "Play_sfx_Darius_DariusHemoMax_OnBuffActivate {r}",
+          "source": "extracted/audio/Darius/sfx/txtp/Play_sfx_Darius_DariusHemoMax_OnBuffActivate {r}.txtp"
+        }
+      },
+      "vo": {
+        "attack": [
+          {
+            "url": "assets/audio/Darius-vo-attack.mp3",
+            "event": "Play_vo_Darius_Attack2DGeneral {r}",
+            "source": "extracted/audio/Darius/vo/txtp/Play_vo_Darius_Attack2DGeneral {r}.txtp"
+          }
+        ],
+        "move": [
+          {
+            "url": "assets/audio/Darius-vo-move.mp3",
+            "event": "Play_vo_Darius_Move2DStandard {r}",
+            "source": "extracted/audio/Darius/vo/txtp/Play_vo_Darius_Move2DStandard {r}.txtp"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Darius-vo-death.mp3",
+            "event": "Play_vo_Darius_Death3D {r}",
+            "source": "extracted/audio/Darius/vo/txtp/Play_vo_Darius_Death3D {r}.txtp"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Darius-vo-q.mp3",
+            "event": "Play_vo_Darius_DariusCleave_cast3D {r}",
+            "source": "extracted/audio/Darius/vo/txtp/Play_vo_Darius_DariusCleave_cast3D {r}.txtp"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Darius-vo-w.mp3",
+            "event": "Play_vo_Darius_DariusNoxianTacticsONH_cast3D {r}",
+            "source": "extracted/audio/Darius/vo/txtp/Play_vo_Darius_DariusNoxianTacticsONH_cast3D {r}.txtp"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Darius-vo-r.mp3",
+            "event": "Play_vo_Darius_DariusExecute_cast3D {r}",
+            "source": "extracted/audio/Darius/vo/txtp/Play_vo_Darius_DariusExecute_cast3D {r}.txtp"
+          }
+        ]
+      }
+    },
+    "ElderDragon": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/ElderDragon-sfx-attack.mp3",
+          "event": "Play_sfx_SRU_Dragon_Elder_ElderDragonAttack2_OnMissileLaunch {r}",
+          "source": "extracted/audio/ElderDragon/sfx/txtp/Play_sfx_SRU_Dragon_Elder_ElderDragonAttack2_OnMissileLaunch {r}.txtp"
+        },
+        "attack-hit": {
+          "url": "assets/audio/ElderDragon-sfx-attack-hit.mp3",
+          "event": "Play_sfx_SRU_Dragon_Elder_ElderDragonAttack2_OnHitLocation {r}",
+          "source": "extracted/audio/ElderDragon/sfx/txtp/Play_sfx_SRU_Dragon_Elder_ElderDragonAttack2_OnHitLocation {r}.txtp"
+        },
+        "q": {
+          "url": "assets/audio/ElderDragon-sfx-q.mp3",
+          "event": "Play_vo_SRU_Dragon_Elder_ElderDragonAttack_OnCast {r}",
+          "source": "extracted/audio/ElderDragon/sfx/txtp/Play_vo_SRU_Dragon_Elder_ElderDragonAttack_OnCast {r}.txtp"
+        },
+        "w": {
+          "url": "assets/audio/ElderDragon-sfx-w.mp3",
+          "event": "Play_sfx_SRU_Dragon_DragonTakeOff_cast {r}",
+          "source": "extracted/audio/ElderDragon/sfx/txtp/Play_sfx_SRU_Dragon_DragonTakeOff_cast {r}.txtp"
+        },
+        "e": {
+          "url": "assets/audio/ElderDragon-sfx-e.mp3",
+          "event": "Play_sfx_SRU_Dragon_landing_buffactive",
+          "source": "extracted/audio/ElderDragon/sfx/txtp/Play_sfx_SRU_Dragon_landing_buffactive.txtp"
+        },
+        "r": {
+          "url": "assets/audio/ElderDragon-sfx-r.mp3",
+          "event": "Play_vo_SRU_Dragon_Elder_spawn_cast {r}",
+          "source": "extracted/audio/ElderDragon/sfx/txtp/Play_vo_SRU_Dragon_Elder_spawn_cast {r}.txtp"
+        }
+      },
+      "vo": {
+        "death": [
+          {
+            "url": "assets/audio/ElderDragon-vo-death.mp3",
+            "event": "Play_sfx_SRU_Dragon_Elder_death_vox_cast",
+            "source": "extracted/audio/ElderDragon/sfx/txtp/Play_sfx_SRU_Dragon_Elder_death_vox_cast.txtp"
+          }
+        ]
+      }
+    },
+    "Ryze": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Ryze-sfx-attack.mp3",
+          "event": "Play_sfx_Ryze_RyzeBasicAttack2_OnMissileLaunch {r}",
+          "sha256": "cf0b2867916c0191eec655e4582bbd84a5f45f682f1fbc5448175bb2018a37ab"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Ryze-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Ryze_RyzeBasicAttack2_OnHit {r}",
+          "sha256": "1ea10d1ad3ffce339c7778a3238bf5a699ec44b5184334c93e7f044e4924344f"
+        },
+        "q": {
+          "url": "assets/audio/Ryze-sfx-q.mp3",
+          "event": "Play_sfx_Ryze_RyzeQ_OnMissileLaunch {r}",
+          "sha256": "910c78114db15f19afc8e0719f9924a41171343b62b96bea88014150d49a24f2"
+        },
+        "q-hit": {
+          "url": "assets/audio/Ryze-sfx-q-hit.mp3",
+          "event": "Play_sfx_Ryze_RyzeQ_hit",
+          "sha256": "aea51a7fbe21af50fadee2657ca3b912dfcf55070311b94b00a1c66aef460ab0"
+        },
+        "w": {
+          "url": "assets/audio/Ryze-sfx-w.mp3",
+          "event": "Play_sfx_Ryze_RyzeW_OnCast",
+          "sha256": "2162afa909997d539a9f2e1c8fd41894a67bee73dbc975e73b64bbe58fae2981"
+        },
+        "w-hit": {
+          "url": "assets/audio/Ryze-sfx-w-hit.mp3",
+          "event": "Play_sfx_Ryze_RyzeW_hit",
+          "sha256": "a82c71e95d085c574cb39d030a8749f247a5add96115d0456e6f56a12352ba1d"
+        },
+        "e": {
+          "url": "assets/audio/Ryze-sfx-e.mp3",
+          "event": "Play_sfx_Ryze_RyzeE_OnMissileLaunch",
+          "sha256": "cfd283f5b482f55de15f0c0c6ae379e1ad983a251bd4a67aea2e890678f12000"
+        },
+        "e-hit": {
+          "url": "assets/audio/Ryze-sfx-e-hit.mp3",
+          "event": "Play_sfx_Ryze_RyzeE_OnHit",
+          "sha256": "6dcd03a5a477adb0e029fb2ea8468d9777b778726dabcdd7e268bcdb55e4852c"
+        },
+        "r": {
+          "url": "assets/audio/Ryze-sfx-r.mp3",
+          "event": "Play_sfx_Ryze_RyzeRChannel_buffactivate",
+          "sha256": "8a6868b9efbcdc7eb6bca06ca23a0e0e8c815c9a79deced99fbceb5d3d3bb5dd"
+        },
+        "r-hit": {
+          "url": "assets/audio/Ryze-sfx-r-hit.mp3",
+          "event": "Play_sfx_Ryze_RyzeR_teleport",
+          "sha256": "8b3a8d934a3ea396cf7cbdda7f0962b8d8ffe49d56d2d8047a590bbb881f01bd"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Ryze-vo-move-0.mp3",
+            "event": "Play_vo_Ryze_Move2DFirst {r}",
+            "media": "175174748.wem",
+            "sha256": "2d2f0b3f84b1c2e57c31365f66626c37c7630ba180aa674cf81d9237a7eabf7d"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Ryze-vo-attack-0.mp3",
+            "event": "Play_vo_Ryze_Attack2DGeneral {r}",
+            "media": "1171213757.wem",
+            "sha256": "79669cb016b408190fdd83861df5a2903f22e49b88740457b927934efd073f45"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Ryze-vo-death-0.mp3",
+            "event": "Play_vo_Ryze_Death3D {r}",
+            "media": "919617661.wem",
+            "sha256": "51babd85d1a1601b442339398bb0ec9174b0a5b807513ab57fe519c1cfdfef3e"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Ryze-vo-q-0.mp3",
+            "event": "Play_vo_Ryze_RyzeQ_cast3D {r}",
+            "media": "310792718.wem",
+            "sha256": "4145e2cc093011aabfc1aeb34cca2d5ed6b9d1d6840abfc09eb28a7e99e89d20"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Ryze-vo-w-0.mp3",
+            "event": "Play_vo_Ryze_RyzeW_cast3D {r}",
+            "media": "690864763.wem",
+            "sha256": "296e9dc0cdf9d7ee13775990724db725c181801ff0d25714ba917d253e9a7d90"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/Ryze-vo-e-0.mp3",
+            "event": "Play_vo_Ryze_RyzeE_cast3D {r}",
+            "media": "1856589620.wem",
+            "sha256": "84c8f32fd805f3f62ddcd447538b2f28009bc3715403cd9e26e14117ba7b055b"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Ryze-vo-r-0.mp3",
+            "event": "Play_vo_Ryze_RyzeR_cast3D {r}",
+            "media": "377846523.wem",
+            "sha256": "b75539129ef74720b150f0e0ee00dec65814ea5d61582e42ef9f4e780c7a2977"
+          }
+        ]
+      }
+    },
+    "DrMundo": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/DrMundo-sfx-attack.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoBasicAttack_OnCast {r}",
+          "sha256": "3aab9f195a7a7b7b6e31143a56a42f9d898cd918aeab0023b0bd72f51143049d"
+        },
+        "attack-hit": {
+          "url": "assets/audio/DrMundo-sfx-attack-hit.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoBasicAttack2_OnHit [1559186049=1153642577] {r}",
+          "sha256": "2a0c0e1cf331c1c3dcfb7f8ff1a15fe821e06a9f23f3d030053bbc4d67ce0a09"
+        },
+        "q": {
+          "url": "assets/audio/DrMundo-sfx-q.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoQ_OnMissileLaunch {r}",
+          "sha256": "0cab886d5492b88eb7be815b30ac641ab4ce009a0ab48f7f9a1e167d79277f11"
+        },
+        "q-hit": {
+          "url": "assets/audio/DrMundo-sfx-q-hit.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoQ_OnHit {r}",
+          "sha256": "710e6d995b541cce0c7de45c8ba70d9d5d648e63d6c291236d6561bce6a3cff0"
+        },
+        "w": {
+          "url": "assets/audio/DrMundo-sfx-w.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoW_OnCast",
+          "sha256": "0b988c583aa2ae2b16b6af5e65ca1ec99a81b69f4a9949da1ad64c33463259fd"
+        },
+        "w-hit": {
+          "url": "assets/audio/DrMundo-sfx-w-hit.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoW_buffdeactivate",
+          "sha256": "e96bd28f6297a446b0f143bb7eaad1d832736eabffd173775ef2a1defeec3597"
+        },
+        "e": {
+          "url": "assets/audio/DrMundo-sfx-e.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoEAttack_cast {r}",
+          "sha256": "24251f9a60697aa225c1484f5ec8683a3bf7f6302bcb03046b29186e2f9740f3"
+        },
+        "e-hit": {
+          "url": "assets/audio/DrMundo-sfx-e-hit.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoEAttack_OnHit {r}",
+          "sha256": "e359253b433006302f692c00b3dd317105d8281949f437d91fcd90365c70e6a1"
+        },
+        "r": {
+          "url": "assets/audio/DrMundo-sfx-r.mp3",
+          "event": "Play_sfx_DrMundo_DrMundoR_OnCast {r}",
+          "sha256": "020fdb4c92b545646d7abb199dfa6fcaf705bda730e21214eed780f5d3bd3abb"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/DrMundo-vo-move-0.mp3",
+            "event": "Play_vo_DrMundo_Move2DLong {r}",
+            "media": "1725596800.wem",
+            "sha256": "ed2f14a5e71437f1497cc09fc4df60839d13dacb2a65cd65897ff414557d90a9"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/DrMundo-vo-attack-0.mp3",
+            "event": "Play_vo_DrMundo_Attack2DGeneral {r}",
+            "media": "403791847.wem",
+            "sha256": "a13bf25835de0807c124b463bd32b2056acd9bacc60a9346ce98f179ec810816"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/DrMundo-vo-death-0.mp3",
+            "event": "Play_vo_DrMundo_Death3D {r}",
+            "media": "513707001.wem",
+            "sha256": "9d0788506e01debc386bb5baad51b0628926f44d9d2bd10364cdef7ccf9b69ec"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/DrMundo-vo-q-0.mp3",
+            "event": "Play_vo_DrMundo_DrMundoQ_hit3D {r}",
+            "media": "595324537.wem",
+            "sha256": "807c8634c33198baf4f5b2288904051ab4f2b4e7854e3f8f434139e11f38c8ad"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/DrMundo-vo-w-0.mp3",
+            "event": "Play_vo_DrMundo_DrMundoW_cast3D {r}",
+            "media": "1845447786.wem",
+            "sha256": "74ddaf998c3d6b23e8bd171a026fddde123a9565aa6c326f21a061d50a82d7f5"
+          }
+        ],
+        "e": [
+          {
+            "url": "assets/audio/DrMundo-vo-e-0.mp3",
+            "event": "Play_vo_DrMundo_DrMundoE_cast3D {r}",
+            "media": "1373648473.wem",
+            "sha256": "6666708c72fb08d1440886a688da1460f6e415efd3a71e5e260383211b9dfb19"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/DrMundo-vo-r-0.mp3",
+            "event": "Play_vo_DrMundo_DrMundoR_cast3D {r}",
+            "media": "2042297483.wem",
+            "sha256": "9d4026a751717d0030bc9ab375583edaefaefbc83ad4b14ebfe4281d4f472c74"
+          }
+        ]
+      }
+    },
+    "MissFortune": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/MissFortune-sfx-attack.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneBasicAttack2_OnCast {r}",
+          "sha256": "b76eacfdcf7a6cbe1ff3f72c7a00e798beccc8aff0230de91683fd988edb2394"
+        },
+        "attack-hit": {
+          "url": "assets/audio/MissFortune-sfx-attack-hit.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneBasicAttack2_OnHit [1559186049=2058049674] {r}",
+          "sha256": "fd039b6757d97e1ff5834c4a31f9236caf9f99dbf9b1b16191287d8ae79a1ccc"
+        },
+        "q": {
+          "url": "assets/audio/MissFortune-sfx-q.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneRicochetShot_OnCast {r}",
+          "sha256": "d5a9535f2d712eb6c0bb090dd9e32855cf0e159ee619ab51a9e66ac7ede76c22"
+        },
+        "q-hit": {
+          "url": "assets/audio/MissFortune-sfx-q-hit.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneRicochetShot_OnHit {r}",
+          "sha256": "13bd47964ce11dd3cb2c0d1a57d830cbd3df23096cd89a3e421c79b29c8d878e"
+        },
+        "w": {
+          "url": "assets/audio/MissFortune-sfx-w.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneViciousStrikes_OnCast {r}",
+          "sha256": "414fa3600d90c2459adca9c7fadf7954763f321bc684106829e03ae6c8e57368"
+        },
+        "w-end": {
+          "url": "assets/audio/MissFortune-sfx-w-end.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneViciousStrikes_OnBuffDeactivate {r}",
+          "sha256": "f7636e9e7afad877e6b092b1a0732cf2385b4ad5d6420c46598e37d85f0b910d"
+        },
+        "e": {
+          "url": "assets/audio/MissFortune-sfx-e.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneScattershot_OnCast {r}",
+          "sha256": "93d8d909959ce3ca13ba6e74873d1666d686650dc51da59b58a0ddf3adda5d75"
+        },
+        "e-hit": {
+          "url": "assets/audio/MissFortune-sfx-e-hit.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneScattershot_both_buffactivate",
+          "sha256": "d3018cefffa49e32da1603a9450f8b1c9e5cb1c91f3072fa209208951870f81f"
+        },
+        "r": {
+          "url": "assets/audio/MissFortune-sfx-r.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneBulletTime_OnCast",
+          "sha256": "ab03b0873e8a86dac9a8eac482da5e5eda9cbba6c9410440a232863d2a8ab27a"
+        },
+        "r-launch": {
+          "url": "assets/audio/MissFortune-sfx-r-launch.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneRShotExtra_OnMissileLaunch {r}",
+          "sha256": "1621b631a01182697e19f07536a6b756bb1befe1ac0a0ab8c65d7fa996e47dd1"
+        },
+        "r-hit": {
+          "url": "assets/audio/MissFortune-sfx-r-hit.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneRShotExtra_OnHit {r}",
+          "sha256": "e120a13e94ea2db42af5ac745c367a0ca1198df017cf4b110aeac74113ce087d"
+        },
+        "passive": {
+          "url": "assets/audio/MissFortune-sfx-passive.mp3",
+          "event": "Play_sfx_MissFortune_MissFortunePassiveAttack2_OnCast {r}",
+          "sha256": "f7119804f8bdd8bb6e4a76b6765894423bd4b9ea01a67bc5a911a38ceb10edec"
+        },
+        "passive-hit": {
+          "url": "assets/audio/MissFortune-sfx-passive-hit.mp3",
+          "event": "Play_sfx_MissFortune_MissFortunePassiveAttack2_OnHitLocation",
+          "sha256": "245078df5beae7cd66719237d0efa43d631a64e3d9ca8ef0aeee9febab5fd505"
+        },
+        "strut": {
+          "url": "assets/audio/MissFortune-sfx-strut.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneStrutStacks_OnBuffCast {r}",
+          "sha256": "57b0e41ede4d47c099600cfebbdd83fcfc936a572260bebc90d05e9ec2d20211"
+        },
+        "e-zoneStart": {
+          "url": "assets/audio/MissFortune-sfx-e-hit.mp3",
+          "event": "Play_sfx_MissFortune_MissFortuneScattershot_both_buffactivate",
+          "sha256": "d3018cefffa49e32da1603a9450f8b1c9e5cb1c91f3072fa209208951870f81f"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/MissFortune-vo-move-0.mp3",
+            "event": "Play_vo_MissFortune_Move2DStandard {r}",
+            "media": "160731317.wem",
+            "sha256": "5e4240304f1f5a0167d91a426873e55b3d744baef94cfd21605eaf45799c5606"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/MissFortune-vo-attack-0.mp3",
+            "event": "Play_vo_MissFortune_Attack2DGeneral {r}",
+            "media": "690084226.wem",
+            "sha256": "eca7b9c2d589e766a7ce07d159257dcbc96d57c95d7ca60236f53a59c4a91ede"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/MissFortune-vo-death-0.mp3",
+            "event": "Play_vo_MissFortune_Death3D {r}",
+            "media": "1867586122.wem",
+            "sha256": "8c16afbd39c87bb38f81a5e742332af0e2c6b3c80b9555471b9ae1ddad54b5c7"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/MissFortune-vo-q-0.mp3",
+            "event": "Play_vo_MissFortune_MissFortuneRicochetShot_cast3D {r}",
+            "media": "1678228833.wem",
+            "sha256": "90a8f333b7872a5b5eed22917af32c5dd6ad4b0e5304bfacb56daa010236bb34"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/MissFortune-vo-w-0.mp3",
+            "event": "Play_vo_MissFortune_MissFortuneViciousStrikes_cast3D {r}",
+            "media": "278643997.wem",
+            "sha256": "f8ceda13f5dbc9bc7bef599a9f4fe715260fd9fcc2f7b2b15ad22ea7ee71b083"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/MissFortune-vo-r-0.mp3",
+            "event": "Play_vo_MissFortune_MissFortuneBulletTime_cast3D {r}",
+            "media": "1460557540.wem",
+            "sha256": "3ff7d8a13577c229feec82bea6b982292749d24b52fd4606ab0a1f275db7ec6e"
+          }
+        ]
+      }
+    },
+    "Tryndamere": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Tryndamere-sfx-attack.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereBasicAttack2_OnCast {r}",
+          "sha256": "cea55ab2e3b2a602e638b8e5a7dfc9a11ab05c3007dc4547dfc86f726a4f8dd0"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Tryndamere-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereBasicAttack2_OnHit [1559186049=2058049674] {r}",
+          "sha256": "f9bd840c9e3ff3275d6b0fc8b614cb30d2bdaaf8d19894c0a8a35aa82824649b"
+        },
+        "q": {
+          "url": "assets/audio/Tryndamere-sfx-q.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereQ_OnCast {r}",
+          "sha256": "13955c82cb8028e82979514c79d7139237685263bb66da03ecc12e8a952384b1"
+        },
+        "w": {
+          "url": "assets/audio/Tryndamere-sfx-w.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereW_OnHit",
+          "sha256": "e5829a20b87a733810afb308ecbb244040236c26da374f87b2fd9a80464617c9"
+        },
+        "e": {
+          "url": "assets/audio/Tryndamere-sfx-e.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereE_OnCast {r}",
+          "sha256": "4d3e070ea5f80138f0adf0083877a053c2bf9f3db385e7f0f0aeb3140c8ee9ad"
+        },
+        "e-hit": {
+          "url": "assets/audio/Tryndamere-sfx-e-hit.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereE_hit {r}",
+          "sha256": "f100c2194b5b874e23483d31e853bcb4de1763fadb4f62c8ce7806fbd74c96cf"
+        },
+        "r": {
+          "url": "assets/audio/Tryndamere-sfx-r.mp3",
+          "event": "Play_sfx_Tryndamere_UndyingRage_OnCast",
+          "sha256": "f8844ab94d61924e893789f84be19259ef9dfb5241ff8a23a341d56fb63cba50"
+        },
+        "r-end": {
+          "url": "assets/audio/Tryndamere-sfx-r-end.mp3",
+          "event": "Play_sfx_Tryndamere_UndyingRage_OnBuffDeactivate",
+          "sha256": "73f85b320102ae19d522c7b9e4183e4b7d25a965e95d6efa4589c59e9da07dac"
+        },
+        "crit": {
+          "url": "assets/audio/Tryndamere-sfx-crit.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereCritAttack_OnCast {r}",
+          "sha256": "50af5c04cf1b14cd8739824679388193c586e3d9b8cdbf8bfa999ff7bc28ee7e"
+        },
+        "crit-hit": {
+          "url": "assets/audio/Tryndamere-sfx-crit-hit.mp3",
+          "event": "Play_sfx_Tryndamere_TryndamereCritAttack_OnHit {r}",
+          "sha256": "0b17175a14181f4a9e30397ef5da632fa53638cc8819d5a21b92303ddfd54597"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Tryndamere-vo-move-0.mp3",
+            "event": "Play_vo_Tryndamere_Move2DStandard {r}",
+            "media": "1561458111.wem",
+            "sha256": "e1f8b3d8a22cd94a204d2963c25d64bdeca9a3df10fcadd074e14560e845faee"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Tryndamere-vo-attack-0.mp3",
+            "event": "Play_vo_Tryndamere_Attack2DGeneral {r}",
+            "media": "175956540.wem",
+            "sha256": "0a65f5de20e739dd252d30be74d6bf4a560328bdf03ccc3b4658d45535b282f6"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Tryndamere-vo-death-0.mp3",
+            "event": "Play_vo_Tryndamere_Death3D {r}",
+            "media": "1523359270.wem",
+            "sha256": "02720de3ce2422027aa0f5781dc6bfb97ecca4ba96f47c64b5e9284de13415da"
+          }
+        ]
+      }
+    },
+    "Jhin": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Jhin-sfx-attack.mp3",
+          "event": "Play_sfx_Jhin_JhinBasicAttack2_OnCast",
+          "sha256": "e623e2e06d2332f06c16b1a320165bd8ad604c4815c43877425f86acb84dc928"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Jhin-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Jhin_JhinBasicAttack2_OnHit [1559186049=2473969246]",
+          "sha256": "06360735e987d3efff74868d7a25802970460c39da6c8104a7bb0b334ac789a0"
+        },
+        "q": {
+          "url": "assets/audio/Jhin-sfx-q.mp3",
+          "event": "Play_sfx_Jhin_JhinQ_OnCast",
+          "sha256": "306a5bb573f6acc5d55f51c32d27d710bc302e52a97af61de1751ce0cf14d14d"
+        },
+        "q-hit": {
+          "url": "assets/audio/Jhin-sfx-q-hit.mp3",
+          "event": "Play_sfx_Jhin_JhinQMisBounce_OnHit {r}",
+          "sha256": "15706f2d5a55e3631d0d6c32ba58fa6a6a67f2a61592b00d85c868580d100a55"
+        },
+        "w": {
+          "url": "assets/audio/Jhin-sfx-w.mp3",
+          "event": "Play_sfx_Jhin_JhinW_OnCast {r}",
+          "sha256": "ad4df66c1614a45a9c8abc59979db2d407609a65f8a2a41602d8babfa4080c8c"
+        },
+        "w-beam": {
+          "url": "assets/audio/Jhin-sfx-w-beam.mp3",
+          "event": "Play_sfx_Jhin_JhinW_misslelaunch {r}",
+          "sha256": "aa8ade6848c0c26c6e583c2504a5f396690e7217844bec5985178e39da43a654"
+        },
+        "e": {
+          "url": "assets/audio/Jhin-sfx-e.mp3",
+          "event": "Play_sfx_Jhin_JhinETrap_OnBuffActivate {r}",
+          "sha256": "032939fd5400841a10d6f9e8427423508544c95d9ae29ca8c2ddb6daa1998833"
+        },
+        "e-hit": {
+          "url": "assets/audio/Jhin-sfx-e-hit.mp3",
+          "event": "Play_sfx_Jhin_JhinETrapSlow_buffdeactivate_explode {r}",
+          "sha256": "582151dd993e9187908f9364b3a5dd39d49840ba7dc97384bf5937395137a620"
+        },
+        "r": {
+          "url": "assets/audio/Jhin-sfx-r.mp3",
+          "event": "Play_sfx_Jhin_JhinR_OnCast {r}",
+          "sha256": "11e403700ef10273715f03fec8a09a76cc6fb05846338a690c52e739c68a5668"
+        },
+        "rshot": {
+          "url": "assets/audio/Jhin-sfx-rshot.mp3",
+          "event": "Play_sfx_Jhin_JhinRShot_OnCast {r}",
+          "sha256": "53da3cf10d3a7cf18b26f80ca3900aa0340ac3bf8cdd64c94406e4d22df25e21"
+        },
+        "r-fourth": {
+          "url": "assets/audio/Jhin-sfx-r-fourth.mp3",
+          "event": "Play_sfx_Jhin_JhinRShotMis4_OnMissileCast {r}",
+          "sha256": "0fa18c67b337469ea6a32b82b21b00648ceeda600307089ed7731cdb288817b7"
+        },
+        "reload": {
+          "url": "assets/audio/Jhin-sfx-reload.mp3",
+          "event": "Play_sfx_Jhin_JhinPassiveReload_cast",
+          "sha256": "db2c6e46faac0a9f829db0419e8ab5996c143311b5b736a0ab2de6209134b9a2"
+        },
+        "passive": {
+          "url": "assets/audio/Jhin-sfx-passive.mp3",
+          "event": "Play_sfx_Jhin_JhinPassiveHaste_OnBuffActivate",
+          "sha256": "bf12503d7a03b5bb538dc35ca121723ba0e0b63abacf625030e49ec78b0ca4b6"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Jhin-vo-move-0.mp3",
+            "event": "Play_vo_Jhin_Move2DStandard {r}",
+            "media": "695578639.wem",
+            "sha256": "283e55c58dd78de99a823a4ee9333849ee062d15e20703c0998d519f133a9183"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Jhin-vo-attack-0.mp3",
+            "event": "Play_vo_Jhin_Attack2DGeneral {r}",
+            "media": "1190609993.wem",
+            "sha256": "3c897ac8a0dcb74ae22732bd0c899db097427f68e3d2afa485550b3c3ebb7b62"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Jhin-vo-death-0.mp3",
+            "event": "Play_vo_Jhin_Death3D {r}",
+            "media": "1308824750.wem",
+            "sha256": "b716faf05d40ec69c38c85ea37ca571fbe61816e7fe4fafe340423ccf9c00dcd"
+          }
+        ],
+        "q": [
+          {
+            "url": "assets/audio/Jhin-vo-q-0.mp3",
+            "event": "Play_vo_Jhin_JhinQ_cast3D {r}",
+            "media": "431743987.wem",
+            "sha256": "80bf09b157683e9d39780823615497ec4303ea29c0ca4603fa8c4056bdb65f5c"
+          }
+        ],
+        "w": [
+          {
+            "url": "assets/audio/Jhin-vo-w-0.mp3",
+            "event": "Play_vo_Jhin_JhinW_cast3D {r}",
+            "media": "968424277.wem",
+            "sha256": "948b80bfffdf1a4d162b62cc82ddeec38e1563dae87bf8a7277338f671255a30"
+          }
+        ],
+        "r": [
+          {
+            "url": "assets/audio/Jhin-vo-r-0.mp3",
+            "event": "Play_vo_Jhin_JhinR_cast3D {r}",
+            "media": "2092827834.wem",
+            "sha256": "8b28cab11123aaa607d76242feae51db8c864e0af4e2c0a7dbbbf39da22993c0"
+          }
+        ]
+      }
+    },
+    "Teemo": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Teemo-sfx-attack.mp3",
+          "event": "Play_sfx_Teemo_TeemoBasicAttack_OnCast {r}",
+          "sha256": "9f652ccf005a32fc98f3f5cd8db808418d56534a6f69c42c914726f2e07b6233"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Teemo-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Teemo_TeemoBasicAttack_OnHit {r}",
+          "sha256": "8e877ab860cb79430a8f9e8c96ed0cb740e442dff9be9f951c5c6b39862ae457"
+        },
+        "q": {
+          "url": "assets/audio/Teemo-sfx-q.mp3",
+          "event": "Play_sfx_Teemo_TeemoQ_OnCast",
+          "sha256": "cb733259d5ce5591fd84bdba390536e54934c68cbd19e93a42e9e6a48a4d017e"
+        },
+        "w": {
+          "url": "assets/audio/Teemo-sfx-w.mp3",
+          "event": "Play_sfx_Teemo_TeemoW_OnCast",
+          "sha256": "667653272abd380068935d8533905c1630113b6494feea7357ec236ab7b5110a"
+        },
+        "e": {
+          "url": "assets/audio/Teemo-sfx-e.mp3",
+          "event": "Play_sfx_Teemo_TeemoEAttack_OnCast {r}",
+          "sha256": "09ccf04ccaab5b838b169ea5eafbba33bdd394b0deea8890eb29bf7c7997f1c2"
+        },
+        "r": {
+          "url": "assets/audio/Teemo-sfx-r.mp3",
+          "event": "Play_sfx_Teemo_TeemoR_OnCast {r}",
+          "sha256": "abcfea5a528e658a05914853ef379381e509e618ec27ba7337865971b0b8140d"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Teemo-vo-move-0.mp3",
+            "event": "Play_vo_Teemo_Move2DLong {r}",
+            "media": "493114174.wem",
+            "sha256": "7b3e60d714ad0af7d0aebb0c7a98c755c3ee4d9528136b0040b2a3ea40519170"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Teemo-vo-attack-0.mp3",
+            "event": "Play_vo_Teemo_Attack2DBaron {r}",
+            "media": "1594807062.wem",
+            "sha256": "1d66741f226d3060e873ccc3e6982e3f6f42fb7d69154d5187dd8c46d76ef618"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Teemo-vo-death-0.mp3",
+            "event": "Play_vo_Teemo_Death3D {r}",
+            "media": "185126813.wem",
+            "sha256": "2310f76d6964b6dc3f821bb44bf443cedde3056672f23f4ca3b36169ccb8d50a"
+          }
+        ]
+      }
+    },
+    "MasterYi": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/MasterYi-sfx-attack.mp3",
+          "event": "Play_sfx_MasterYi_MasterYiBasicAttack2_OnCast {r}",
+          "sha256": "7f529236521aadd43101982ce42d079e432caa80c93c37836425dec51d6ba319"
+        },
+        "q": {
+          "url": "assets/audio/MasterYi-sfx-q.mp3",
+          "event": "Play_sfx_MasterYi_AlphaStrike_missilecast",
+          "sha256": "ad53f1fe67bba963754063911e816cb6a2a86b64214b6fb926a06dabc8e3a167"
+        },
+        "w": {
+          "url": "assets/audio/MasterYi-sfx-w.mp3",
+          "event": "Play_sfx_MasterYi_Meditate_OnCast",
+          "sha256": "561b20e946cadad0777ece03f7cdb0be1a63c455860828088e46e0181c3e1da2"
+        },
+        "e": {
+          "url": "assets/audio/MasterYi-sfx-e.mp3",
+          "event": "Play_sfx_MasterYi_WujuStyle_OnCast {r}",
+          "sha256": "d0c8634adc44d4171838d6482946705ce6e384d131066299a46ba7ce2d720cde"
+        },
+        "r": {
+          "url": "assets/audio/MasterYi-sfx-r.mp3",
+          "event": "Play_sfx_MasterYi_Highlander_OnBuffActivate",
+          "sha256": "0014b69d8780c431e23abcf75538a897eedd9f501b17bf6a1bdc77d94134b24e"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/MasterYi-vo-move-0.mp3",
+            "event": "Play_vo_MasterYi_Move2DStandard {r}",
+            "media": "1810191977.wem",
+            "sha256": "493458856b261fd69b54e827a0b6923de09ac1aca5b5e28c65bdff36d3ddf29a"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/MasterYi-vo-attack-0.mp3",
+            "event": "Play_vo_MasterYi_Attack2DGeneral {r}",
+            "media": "1410305823.wem",
+            "sha256": "7bfad1c90546fbe0f693d793e5c6d53d3c48190bece70d2d02b4621cc08ff450"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/MasterYi-vo-death-0.mp3",
+            "event": "Play_vo_MasterYi_Death3D {r}",
+            "media": "759535522.wem",
+            "sha256": "875a3483f6807cdf7bb2d05e8573e5715903b392e0e2a5d951e6b9c52ad78b0d"
+          }
+        ]
+      }
+    },
+    "Chogath": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Chogath-sfx-attack.mp3",
+          "event": "Play_sfx_Chogath_ChogathBasicAttack2_OnCast {r}",
+          "sha256": "e68c4df46ede65bd4019ae5a52401c2a1ae730bb91fbb718a70e13c5c32141f2"
+        },
+        "q": {
+          "url": "assets/audio/Chogath-sfx-q.mp3",
+          "event": "Play_sfx_Chogath_Rupture_OnCast",
+          "sha256": "b41a7eefc4cf182ef14695eff221051a8bae447441864695ada41184bcf02823"
+        },
+        "w": {
+          "url": "assets/audio/Chogath-sfx-w.mp3",
+          "event": "Play_sfx_Chogath_FeralScream_OnCast {r}",
+          "sha256": "62c09505f3957526e1aec1866e01d64e65cce605fad8bb7aab1c823e6017f209"
+        },
+        "e": {
+          "url": "assets/audio/Chogath-sfx-e.mp3",
+          "event": "Play_sfx_Chogath_VorpalSpikes_buffactivate {m}",
+          "sha256": "6e0259adc5d33bb1ab59a12cd8d8062a600d647a0a99eb08b923bffaf0447174"
+        },
+        "r": {
+          "url": "assets/audio/Chogath-sfx-r.mp3",
+          "event": "Play_sfx_Chogath_Feast_OnHit {r}",
+          "sha256": "d410bc51266b8bd8676be19bf75955f951b813dd83caf9ad74713ac1a345a0cd"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Chogath-vo-move-0.mp3",
+            "event": "Play_vo_Chogath_Move2DStandard {r}",
+            "media": "2070874123.wem",
+            "sha256": "dc474612fe189f148e68490105c370af5d1f5680586c42d3c43be2351fb49a3e"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Chogath-vo-attack-0.mp3",
+            "event": "Play_vo_Chogath_Attack2DGeneral {r}",
+            "media": "2027517928.wem",
+            "sha256": "cc40e127b81952d073a69d555e8f48734682e53ee6494bf753fcd9d870f97e73"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Chogath-vo-death-0.mp3",
+            "event": "Play_vo_Chogath_Death3D {r}",
+            "media": "1609964935.wem",
+            "sha256": "a061cd11b428a1ed508e0e330934833f42a37f2fed211314673d61c5d961256d"
+          }
+        ]
+      }
+    },
+    "Sylas": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Sylas-sfx-attack.mp3",
+          "event": "Play_sfx_Sylas_SylasBasicAttack2_OnCast {r}",
+          "sha256": "548cace74e4d5f2c6661685dd2ca191d07eccc678a8bef649f6f0d029a20490e"
+        },
+        "q": {
+          "url": "assets/audio/Sylas-sfx-q.mp3",
+          "event": "Play_sfx_Sylas_SylasQ_OnCast {r}",
+          "sha256": "8f89f23e798dc95664f936c31473e7cba5f1b8f8184ae1f088b0c25e030c7c89"
+        },
+        "w": {
+          "url": "assets/audio/Sylas-sfx-w.mp3",
+          "event": "Play_sfx_Sylas_SylasW_OnCast {r}",
+          "sha256": "3e54b417496e378421b29c3e9e3306a0b81b5f24fd70e55258a1e7224e9b3fff"
+        },
+        "e": {
+          "url": "assets/audio/Sylas-sfx-e.mp3",
+          "event": "Play_sfx_Sylas_SylasE_OnCast {r}",
+          "sha256": "c7d26d1d41630edb85b8d2e7d875757727c4a2e6c3dfcab3bbd42aca884eb892"
+        },
+        "r": {
+          "url": "assets/audio/Sylas-sfx-r.mp3",
+          "event": "Play_sfx_Sylas_SylasR_OnCast",
+          "sha256": "e19aa38e7586957742cc1c3f684450077c2b2369b515e150be6ed18f2cdc0255"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Sylas-vo-move-0.mp3",
+            "event": "Play_vo_Sylas_Move2DLong {r}",
+            "media": "629024328.wem",
+            "sha256": "04fee98bf22a64ed7129f0cc0b3a645d55caf851139a6f1add0cf2057b729e3e"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Sylas-vo-attack-0.mp3",
+            "event": "Play_vo_Sylas_Attack2DDemacia",
+            "media": "1283347687.wem",
+            "sha256": "5adf3fd1c34fd13ec2f3fbde54369abd0055d06f99764d9e93e2c77dc541d886"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Sylas-vo-death-0.mp3",
+            "event": "Play_vo_Sylas_Death3D {r}",
+            "media": "1127484800.wem",
+            "sha256": "ddda44a7d476dddf71a540275f936df9f4a390717560038dd963f5a321b995cd"
+          }
+        ]
+      }
+    },
+    "Veigar": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Veigar-sfx-attack.mp3",
+          "event": "Play_sfx_Veigar_VeigarBasicAttack2_OnCast {r}",
+          "sha256": "16e6f8326db4e8bcee0473dfd9e61f969e4bd9ee9a0cdc3e60cfb18c401af360"
+        },
+        "q": {
+          "url": "assets/audio/Veigar-sfx-q.mp3",
+          "event": "Play_sfx_Veigar_VeigarBalefulStrike_OnCast",
+          "sha256": "4196abe1a7cd0f2b7db020bf67613eb919404743e3eebf020487072d1a92a5aa"
+        },
+        "w": {
+          "url": "assets/audio/Veigar-sfx-w.mp3",
+          "event": "Play_sfx_Veigar_VeigarDarkMatter_OnCast",
+          "sha256": "4eb1a702cfb6044f9e4e018b81b00ee1d348f646ef9b9995360aba8de728c817"
+        },
+        "e": {
+          "url": "assets/audio/Veigar-sfx-e.mp3",
+          "event": "Play_sfx_Veigar_VeigarEventHorizon_OnCast {r}",
+          "sha256": "a1ecaf817bf7c6f7a70c6e50af446e431a244b7b362519a9fd16d36ac9fc9955"
+        },
+        "r": {
+          "url": "assets/audio/Veigar-sfx-r.mp3",
+          "event": "Play_sfx_Veigar_VeigarR_OnCast",
+          "sha256": "9a02f28eb72e5723bfe6ec02178a068863682c6bc37741c99cfd3ec55177c672"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Veigar-vo-move-0.mp3",
+            "event": "Play_vo_Veigar_Move2DStandard {r}",
+            "media": "1755842929.wem",
+            "sha256": "86da95ada3b13b1afd1b566b96ae556c9dafe82548ae67e29c05aa55c998dc0d"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Veigar-vo-attack-0.mp3",
+            "event": "Play_vo_Veigar_Attack2DGeneral {r}",
+            "media": "1055157123.wem",
+            "sha256": "06c3372aebffcbcb22cfb5512403ac8e41fc3a1888cad2d5b7d8eeb952a36d3d"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Veigar-vo-death-0.mp3",
+            "event": "Play_vo_Veigar_Death3D {r}",
+            "media": "234156701.wem",
+            "sha256": "e0a64fbb6d68f459b82631094678a2ae8819fce1986a2f6bdd06799bcc964a45"
+          }
+        ]
+      }
+    },
+    "Jax": {
+      "sfx": {
+        "attack": {
+          "url": "assets/audio/Jax-sfx-attack.mp3",
+          "event": "Play_sfx_Jax_JaxBasicAttack2_OnCast {r}",
+          "sha256": "ef7e8b7903ef890bd4e69e757f8b5eb9060ea3ac33b524f40faf46e0968adab2"
+        },
+        "attack-hit": {
+          "url": "assets/audio/Jax-sfx-attack-hit.mp3",
+          "event": "Play_sfx_Jax_JaxBasicAttack2_OnHit [1559186049=2058049674] {r}",
+          "sha256": "bb60f6405d7b2c54905a7bb6ac18b81fb18adf1b39b2d358f39cd82e87bf60ec"
+        },
+        "q": {
+          "url": "assets/audio/Jax-sfx-q.mp3",
+          "event": "Play_sfx_Jax_JaxQ_cast {r}",
+          "sha256": "23160f33b59f7543d0c55d40329135485a30976cced87befab73a693d6b4c17c"
+        },
+        "q-hit": {
+          "url": "assets/audio/Jax-sfx-q-hit.mp3",
+          "event": "Play_sfx_Jax_JaxQ_hit {r}",
+          "sha256": "c65f68d1736d9200caff0d5170c6fd1f478902ba8b8c89f19b5d91550b39d589"
+        },
+        "w": {
+          "url": "assets/audio/Jax-sfx-w.mp3",
+          "event": "Play_sfx_Jax_JaxW_OnBuffActivate {r}",
+          "sha256": "e577a3b34179c57fed4408e76f9bd281e16ee42e31656d49910694bc9929c604"
+        },
+        "e": {
+          "url": "assets/audio/Jax-sfx-e.mp3",
+          "event": "Play_sfx_Jax_JaxE_OnBuffActivate {r}",
+          "sha256": "2ca87fdf79e7762922be3412560782f282323f3bf6b9c93c8cfb8d503b246432"
+        },
+        "e-hit": {
+          "url": "assets/audio/Jax-sfx-e-hit.mp3",
+          "event": "Play_sfx_Jax_JaxE_hit {r}",
+          "sha256": "3683cf5088afc1abe1913cc54418504d8180a9858c835a1b0bc0a9fc88a92a97"
+        },
+        "r": {
+          "url": "assets/audio/Jax-sfx-r.mp3",
+          "event": "Play_sfx_Jax_JaxR_OnCast",
+          "sha256": "c960849e02f1311260b399641c8b7b84da1cae38d01d8d83a0685cc620981643"
+        },
+        "r-hit": {
+          "url": "assets/audio/Jax-sfx-r-hit.mp3",
+          "event": "Play_sfx_Jax_JaxR_hit_aoe",
+          "sha256": "4bfa4ada91a1456e7d1514828a27f238747683d02ad9e0c05e6db0b23e1d3c5f"
+        },
+        "r-passive": {
+          "url": "assets/audio/Jax-sfx-r-passive.mp3",
+          "event": "Play_sfx_Jax_JaxRPassiveAttack_OnCast {r}",
+          "sha256": "87494e3c9bbc71c0cbac8e9b9f803da688eeb32ea5b5269b4f2cee0f90b7a375"
+        },
+        "crit-hit": {
+          "url": "assets/audio/Jax-sfx-crit-hit.mp3",
+          "event": "Play_sfx_Jax_JaxCritAttack_OnHit [1559186049=2058049674] {r}",
+          "sha256": "b4967ffe21a6e7d62105a01e806d0898b4e8f14bbaec0b90e347bd5fe43460be"
+        }
+      },
+      "vo": {
+        "move": [
+          {
+            "url": "assets/audio/Jax-vo-move-0.mp3",
+            "event": "Play_vo_Jax_Move2DRiver",
+            "media": "1143166207.wem",
+            "sha256": "d6892043d8bf31a3031bcb810f0a6a1e4c9c065406d54b1e3b1cb64d3f0dbc8a"
+          }
+        ],
+        "attack": [
+          {
+            "url": "assets/audio/Jax-vo-attack-0.mp3",
+            "event": "Play_vo_Jax_Attack2DGeneral {r}",
+            "media": "1223127192.wem",
+            "sha256": "dc2e4439d6f5e84346cbc23b92427bd8f0338d6e49a0226c0b69568889f859f6"
+          }
+        ],
+        "death": [
+          {
+            "url": "assets/audio/Jax-vo-death-0.mp3",
+            "event": "Play_vo_Jax_Death3D {r}",
+            "media": "117533501.wem",
+            "sha256": "710682b0d25d61432995baf83cd2a1205ccdba9bfb532fc3da8bf64b08610630"
+          }
+        ]
+      }
+    }
+  },
+  "cueBindings": {
+    "Ashe": {
+      "AsheQAttack": {
+        "launch": "AsheQAttack-launch",
+        "hit": "AsheQAttack-hit"
+      },
+      "EnchantedCrystalArrow": {
+        "launch": "EnchantedCrystalArrow-launch",
+        "hit": "EnchantedCrystalArrow-hit"
+      },
+      "VolleyAttack": {
+        "launch": "VolleyAttack-launch",
+        "hit": "VolleyAttack-hit"
+      },
+      "VolleyAttackWithSound": {
+        "launch": "VolleyAttackWithSound-launch"
+      },
+      "AsheBasicAttack2": {
+        "launch": "AsheBasicAttack2-launch",
+        "hit": "AsheBasicAttack2-hit"
+      },
+      "AsheSpiritOfTheHawk": {
+        "launch": "AsheSpiritOfTheHawk-launch",
+        "hit": "AsheSpiritOfTheHawk-hit"
+      },
+      "AsheCritAttack": {
+        "launch": "AsheCritAttack-launch"
+      }
+    },
+    "Lux": {
+      "LuxPrismaticWaveMissile": {
+        "launch": "LuxPrismaticWaveMissile-launch"
+      },
+      "LuxLightBindingDummy": {
+        "launch": "LuxLightBindingDummy-launch"
+      },
+      "LuxLightBindingMis": {
+        "launch": "LuxLightBindingMis-launch",
+        "hit": "LuxLightBindingMis-hit"
+      },
+      "LuxIlluminationPassive": {
+        "hit": "LuxIlluminationPassive-hit"
+      },
+      "LuxLightStrikeKugel": {
+        "launch": "LuxLightStrikeKugel-launch",
+        "hit": "LuxLightStrikeKugel-hit"
+      },
+      "LuxBasicAttack2": {
+        "hit": "LuxBasicAttack2-hit"
+      },
+      "LuxCritAttack": {
+        "hit": "LuxCritAttack-hit"
+      }
+    },
+    "Ahri": {
+      "AhriPassiveMissile": {
+        "launch": "AhriPassiveMissile-launch"
+      },
+      "AhriPassive": {
+        "hit": "AhriPassive-hit"
+      },
+      "AhriWDamageMissile": {
+        "launch": "AhriWDamageMissile-launch",
+        "hit": "AhriWDamageMissile-hit"
+      },
+      "AhriRMissile": {
+        "launch": "AhriRMissile-launch",
+        "hit": "AhriRMissile-hit"
+      },
+      "AhriBasicAttack2": {
+        "launch": "AhriBasicAttack2-launch",
+        "hit": "AhriBasicAttack2-hit"
+      },
+      "AhriQReturnMissile": {
+        "launch": "AhriQReturnMissile-launch",
+        "hit": "AhriQReturnMissile-hit"
+      },
+      "AhriQMissile": {
+        "launch": "AhriQMissile-launch",
+        "hit": "AhriQMissile-hit"
+      },
+      "AhriEMissile": {
+        "launch": "AhriEMissile-launch",
+        "hit": "AhriEMissile-hit"
+      }
+    },
+    "Ezreal": {
+      "EzrealBasicAttack2": {
+        "launch": "EzrealBasicAttack2-launch",
+        "hit": "EzrealBasicAttack2-hit"
+      },
+      "EzrealEMissile": {
+        "launch": "EzrealEMissile-launch",
+        "hit": "EzrealEMissile-hit"
+      },
+      "EzrealQ": {
+        "launch": "EzrealQ-launch",
+        "hit": "EzrealQ-hit"
+      },
+      "EzrealW": {
+        "launch": "EzrealW-launch",
+        "hit": "EzrealW-hit"
+      },
+      "EzrealR": {
+        "launch": "EzrealR-launch",
+        "hit": "EzrealR-hit"
+      }
+    },
+    "Garen": {
+      "GarenE": {
+        "hit": "GarenE-hit"
+      },
+      "GarenCritAttack": {
+        "hit": "GarenCritAttack-hit"
+      },
+      "GarenR": {
+        "hit": "GarenR-hit"
+      },
+      "GarenBasicAttack2": {
+        "hit": "GarenBasicAttack2-hit"
+      }
+    },
+    "Jinx": {
+      "JinxWMissile": {
+        "launch": "JinxWMissile-launch",
+        "hit": "JinxWMissile-hit"
+      },
+      "JinxQAttack2": {
+        "launch": "JinxQAttack2-launch"
+      },
+      "JinxQAttack": {
+        "hit": "JinxQAttack-hit"
+      },
+      "JinxR": {
+        "launch": "JinxR-launch",
+        "hit": "JinxR-hit"
+      },
+      "JinxBasicAttack2": {
+        "launch": "JinxBasicAttack2-launch",
+        "hit": "JinxBasicAttack2-hit"
+      }
+    }
+  },
+  "ui": {
+    "skill-upgrade": {
+      "url": "assets/audio/HUD-sfx-skill-upgrade.mp3",
+      "event": "Play_sfx_hud_base_spell_upgrade",
+      "media": "613017812.wem",
+      "bank": "Maps/Shipping/Common.wad.client: HUD_Global_audio/events.bnk",
+      "sha256": "b5c857314d787de6881ff594e11b177dc4620aca535ec67919de749d647f6f81"
+    },
+    "augment-appear": {
+      "url": "assets/audio/KiwiUI-augment-appear.mp3",
+      "event": "Play_sfx_Cherry_Gameplay_HUD_Augment_appear",
+      "bank": "Map12.wad.client: MODE_Kiwi_SFX_audio/events.bnk",
+      "sha256": "d55b36faec995deb9c52c84f11ed53a522d59696a4dce44ab4dbf7f018f3d2d4",
+      "bytes": 64827
+    },
+    "augment-hover": {
+      "url": "assets/audio/KiwiUI-augment-hover.mp3",
+      "event": "Play_sfx_Cherry_Gameplay_HUD_Augment_hover",
+      "bank": "Map12.wad.client: MODE_Kiwi_SFX_audio/events.bnk",
+      "sha256": "2cea57382527bb4c3e9b6e132eeb50238bedbe2a7c6a66c5a0c392e71889a0cd",
+      "bytes": 36764
+    },
+    "augment-refresh": {
+      "url": "assets/audio/KiwiUI-augment-refresh.mp3",
+      "event": "Play_sfx_Cherry_Gameplay_HUD_Augment_refresh",
+      "bank": "Map12.wad.client: MODE_Kiwi_SFX_audio/events.bnk",
+      "sha256": "6873fa305cf0c44c379186ae310e75e0437054d0eb354c0b03a68c4501eb0521",
+      "bytes": 36615
+    },
+    "augment-silver": {
+      "url": "assets/audio/KiwiUI-augment-silver.mp3",
+      "event": "Play_sfx_Cherry_Gameplay_HUD_Augment_silver_select",
+      "bank": "Map12.wad.client: MODE_Kiwi_SFX_audio/events.bnk",
+      "sha256": "daf55fc504ce57b8e456ad62325c98ece0b40e83206ed5ba9ca6035b39a60a78",
+      "bytes": 96174
+    },
+    "augment-gold": {
+      "url": "assets/audio/KiwiUI-augment-gold.mp3",
+      "event": "Play_sfx_Cherry_Gameplay_HUD_Augment_gold_select",
+      "bank": "Map12.wad.client: MODE_Kiwi_SFX_audio/events.bnk",
+      "sha256": "0edb44341454b511e5f9b0363870a46b7720c54abc404117d4dc1c97d94e419a",
+      "bytes": 92517
+    },
+    "augment-prismatic": {
+      "url": "assets/audio/KiwiUI-augment-prismatic.mp3",
+      "event": "Play_sfx_Cherry_Gameplay_HUD_Augment_prismatic_select",
+      "bank": "Map12.wad.client: MODE_Kiwi_SFX_audio/events.bnk",
+      "sha256": "30efc6fa0de8efa60b504969f99f7e3fd6e69a1d343cc9f53fd410878a81173e",
+      "bytes": 119684
+    }
+  },
+  "signals": {
+    "mastery": {
+      "url": "assets/audio/signal-mastery.mp3",
+      "event": "Play_sfx_RevampedLegendaryChampionMasteryEmote_Level10_buffactivate",
+      "source": "extracted/audio/Signals/txtp/Play_sfx_RevampedLegendaryChampionMasteryEmote_Level10_buffactivate.txtp"
+    },
+    "basic": {
+      "url": "assets/audio/signal-basic.mp3",
+      "event": "Play_sfx_hud_base_Pings_Base {d}",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_Base {d}.txtp"
+    },
+    "retreat": {
+      "url": "assets/audio/signal-retreat.mp3",
+      "event": "Play_sfx_hud_base_Pings_GetBack",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_GetBack.txtp"
+    },
+    "danger": {
+      "url": "assets/audio/signal-danger.mp3",
+      "event": "Play_sfx_hud_base_Pings_Danger",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_Danger.txtp"
+    },
+    "missing": {
+      "url": "assets/audio/signal-missing.mp3",
+      "event": "Play_sfx_hud_base_Pings_MIA {d}",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_MIA {d}.txtp"
+    },
+    "omw": {
+      "url": "assets/audio/signal-omw.mp3",
+      "event": "Play_sfx_hud_base_Pings_OnMyWay_Far",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_OnMyWay_Far.txtp"
+    },
+    "assist": {
+      "url": "assets/audio/signal-assist.mp3",
+      "event": "Play_sfx_hud_base_Pings_ComeHere",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_ComeHere.txtp"
+    },
+    "vision": {
+      "url": "assets/audio/signal-vision.mp3",
+      "event": "Play_sfx_hud_base_Pings_AreaIsWarded",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_AreaIsWarded.txtp"
+    },
+    "attack": {
+      "url": "assets/audio/signal-attack.mp3",
+      "event": "Play_sfx_hud_base_Pings_Attack {d}",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_Attack {d}.txtp"
+    },
+    "defend": {
+      "url": "assets/audio/signal-defend.mp3",
+      "event": "Play_sfx_hud_base_Pings_Defend {d}",
+      "source": "extracted/audio/HUD_Global/txtp/Play_sfx_hud_base_Pings_Defend {d}.txtp"
+    }
+  },
+  "environment": {
+    "map12-ambience": {
+      "url": "assets/audio/map12-ambience.mp3",
+      "event": "Play_sfx_Env_Map12_Ambience_base",
+      "source": "extracted/audio/ENV_Map12/txtp/Play_sfx_Env_Map12_Ambience_base.txtp"
+    }
+  },
+  "items": {
+    "3084": {
+      "proc": {
+        "url": "assets/audio/Item-3084-proc.mp3",
+        "eventId": 1920135862,
+        "source": "Maps/Shipping/Common.wad.client: items_global events/audio",
+        "sha256": "27fd9f2bb34e8a7161b865d4a012c4d266e0aef91b3cd76d52d977bd0fe7d39f"
+      }
+    }
+  }
+}

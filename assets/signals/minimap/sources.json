@@ -1,0 +1,162 @@
+[
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/all_in.tex",
+    "file": "all_in.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "77708ce2ee11234dae62f93d204fcafc11f7b2ef54f47123f9ae736127041fac"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/area_is_warded_small_red_new.tex",
+    "file": "area_is_warded_small_red_new.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "41988e0996930e2d44a40c0fe96d03d9822c78f23a5101339a18d98e53b3c8b9"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/assist.tex",
+    "file": "assist.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "8dfe7f217d799b3b2d5df88e86e0f5e2d3a6e1716268a9927ad0bbe2e672ce8b"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/bait.tex",
+    "file": "bait.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "d34a98e272cdab8a92d450c8afab06eef12e897cd2caf7ef8c084376040ec33e"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/caution.tex",
+    "file": "caution.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "44d57e586baac86f412c11c134d49b2eff5deab04604eeaeac8158369055cb6b"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/cleared.tex",
+    "file": "cleared.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "0c41e5c82111fe758e3fd40788aea4aa95845636a23abc0e98d866273de4e30e"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/enemychampsighted.tex",
+    "file": "enemychampsighted.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "92c1ac03cc6805794c7d9da925cbe83a8d06e9b76199b5e2cdf272c1f26c90b9"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/get_back_small.tex",
+    "file": "get_back_small.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "b7478a624124da4592d6facc6bfdd553d634101f319d908539628ba9f2e78745"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/hold.tex",
+    "file": "hold.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "916ca541ec368beb8407a01d8a269c7242d7954a554182074f5a4a204d42ac1d"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/mia_new.tex",
+    "file": "mia_new.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "322354aa965088988217be70051cad9ebce7680246fc9b0f305da0e6228e6c67"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/need_ward.tex",
+    "file": "need_ward.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "e6147cf20eff0545547f5a6661c231a27ec5e25d7b8f6706abfdeaaeb020e364"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/on_my_way_new.tex",
+    "file": "on_my_way_new.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "351961423245e66052c25b104fd2abe4cdc348a214a9830c91c01cd85d47817d"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/ping.tex",
+    "file": "ping.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "6c2224f02f526b58496960bfdd7ba9a4ef84aea5cebfa82939b686067db36618"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/push.tex",
+    "file": "push.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "6e9068364fd5e2ae9fc75f592812f3a4dbd9983e3c6f059c113f66818252d104"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/retreat.tex",
+    "file": "retreat.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "6c23a1595f70c8724133a5a602a5acd010bb70c0767d096f2a3cdf276f6befc9"
+  },
+  {
+    "archive": "UI.wad.client",
+    "path": "assets/ux/minimap/pings/target.tex",
+    "file": "target.png",
+    "size": [
+      32,
+      32
+    ],
+    "sha256": "efe6fa7911b631f7e504b178d19319b2b7f9391c97d0c06e41701648de58c18f"
+  }
+]

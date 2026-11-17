@@ -1,0 +1,6 @@
+{
+  "archive": "UI.wad.client",
+  "atlas": "assets/ux/floatinghealthbars/spotlighthealthbaratlas.tex",
+  "manaAtlas": "assets/ux/lol/clarity_hudatlas.tex",
+  "layering": "Frame background before health and mana fills"
+}

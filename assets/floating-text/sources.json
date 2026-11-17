@@ -1,0 +1,27 @@
+{
+  "configPath": "ux/floatingtext",
+  "fontPath": "ux/fonts",
+  "icons": [
+    {
+      "file": "criticon.png",
+      "archive": "UI.wad.client",
+      "path": "assets/ux/floatingtext/criticon.tex",
+      "sourceSha256": "d766d02e241738b3b00f8acbf3274f8b066995b0bad386de83f27747c9490ae2",
+      "sha256": "2e618b1a9334ea302a9be6de43ec170ff417cdc9565da067740b29933caabac8"
+    },
+    {
+      "file": "criticonmagic.png",
+      "archive": "UI.wad.client",
+      "path": "assets/ux/floatingtext/criticonmagic.tex",
+      "sourceSha256": "0a2b3e43aba49bed33499f5d65c5b1c051a9369cc1097728b163f7a3a4c81541",
+      "sha256": "ac73022ef78cb2a008cac917f32708f36527d959bc158a8ac19acce958adfc91"
+    },
+    {
+      "file": "criticontrue.png",
+      "archive": "UI.wad.client",
+      "path": "assets/ux/floatingtext/criticontrue.tex",
+      "sourceSha256": "0489a72ea3e50f9505dcef57503ccdb0f816d04fb5450e4e7dd695a2f82e88fa",
+      "sha256": "040ff11202be2564df655f4bc7994fb96dfc9da8cc31c926173a0e6ec43d3b16"
+    }
+  ]
+}

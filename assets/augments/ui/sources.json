@@ -1,0 +1,27 @@
+[
+  {
+    "path": "assets/ux/cherry/augments/augmentselection/augmentcard_bg.tex",
+    "file": "d7e7f1b0b523.png",
+    "archive": "UI.wad.client"
+  },
+  {
+    "path": "assets/ux/cherry/augments/augmentselection/augmentcard_frame_silver.tex",
+    "file": "159b09e53787.png",
+    "archive": "UI.wad.client"
+  },
+  {
+    "path": "assets/ux/cherry/augments/augmentselection/augmentcard_frame_gold.tex",
+    "file": "e3174c005ea5.png",
+    "archive": "UI.wad.client"
+  },
+  {
+    "path": "assets/ux/cherry/augments/augmentselection/augmentcard_frame_prismatic.tex",
+    "file": "7f0fec6a906a.png",
+    "archive": "UI.wad.client"
+  },
+  {
+    "path": "uiautoatlas/clientstates/gameplay/ux/lol/kiwi/kiwiaugmentselection/atlas_0.tex",
+    "file": "c23082aca01b.png",
+    "archive": "UI.wad.client"
+  }
+]
