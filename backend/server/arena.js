@@ -18,6 +18,7 @@ import {chatHistory,sendRoomChat,scoreboardFor,installCombatStats} from './match
 
 import {PROTOCOL_VERSION} from '../dist/protocol.js';
 export {PROTOCOL_VERSION};
+export const HEADLINERS = ['pentakill','cafe','arcade','debonair'];
 export const MAX_ROOMS = 16;
 export const MAX_SESSIONS = 64;
 export const MAX_PLAYERS = 50;
@@ -256,6 +257,7 @@ export class AramArena {
       createdAt: room.createdAt,
       fountainDefense: room.fountainDefense !== false,
       continuous:!!room.continuous,matchmaking:!!room.matchmaking,round:room.round||0,
+      headliner:room.headliner||null,
     };
   }
 
@@ -577,6 +579,7 @@ export class AramArena {
     const first = records[0]||room.bots?.[0];
     if(!first)throw new Error('房间中没有参战单位');
     const game = new Game(HERO_BY_ID.get(first.heroId), Math.random, { bots: false });
+    room.headliner=game.headliner=HEADLINERS[randomInt(HEADLINERS.length)];
     game.player.team = first.team;
     game.player.slot = 0;
     let teamSlots = [0, 0];
