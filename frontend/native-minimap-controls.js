@@ -1,0 +1,15 @@
+import {MINIMAP_BUTTONS as D} from './minimap-control-data.js';
+export const minimapButtonKey=(kind,selected=false,hover=false,down=false)=>kind==='camera'?`CameraLock${selected?'On':'Off'}_Button${down?'Clicked':hover?'Hover':'Default'}`:`OptionsMenu_Button${down?'Clicked':hover?'Hover':'Default'}`;
+export function paintMinimapButton(button,kind,selected=()=>false){
+ const img=document.createElement('img');img.alt='';img.draggable=false;img.style.cssText='width:32px;height:32px;display:block;pointer-events:none';button.replaceChildren(img);button.type='button';button.classList.add('native-minimap-button');button.style.cssText='all:unset;display:block;position:relative;width:32px;height:32px;cursor:pointer;touch-action:manipulation';let hover=false,down=false,last='';
+ const paint=()=>{const key=minimapButtonKey(kind,selected(),hover,down),url=D[key].sprite;if(url!==last){img.src=url;last=url;}button.dataset.nativeState=key;};
+ button.addEventListener('pointerenter',()=>{hover=true;paint()});button.addEventListener('pointerleave',()=>{hover=false;down=false;paint()});button.addEventListener('pointerdown',()=>{down=true;paint()});button.addEventListener('pointerup',()=>{down=false;paint()});button.addEventListener('pointercancel',()=>{down=false;paint()});button.addEventListener('blur',()=>{down=false;paint()});paint();return paint;
+}
+export function installNativeMinimapControls({cameraLock,joinContinuous}){
+ const menu=document.getElementById('pause'),dialog=document.getElementById('pauseDialog'),sound=document.getElementById('sound'),help=document.getElementById('help');
+ const extras=document.createElement('div');extras.id='nativeMenuExtras';extras.style.cssText='margin:14px auto;display:flex;gap:12px;justify-content:center;flex-wrap:wrap';sound?.remove();help?.remove();extras.append(joinContinuous);dialog.querySelector('small')?.remove();dialog.append(extras);
+ const root=document.createElement('div');root.id='nativeMinimapControls';root.setAttribute('aria-label','小地图控制');root.style.cssText='position:fixed;width:62px;height:32px;display:flex;z-index:12;pointer-events:auto';cameraLock.button.style.marginRight='-2px';root.append(cameraLock.button,menu);menu.setAttribute('aria-label','游戏设置');menu.title='游戏设置（Esc）';paintMinimapButton(menu,'settings');document.body.append(root);
+ const style=document.createElement('style');style.textContent='#nativeMinimapControls[hidden],#nativeMenuExtras button[hidden]{display:none!important}.native-minimap-button:focus-visible{outline:1px solid #c8aa6e!important;outline-offset:-2px}';document.head.append(style);
+ document.querySelector('body>header.local-game-toolbar')?.remove();document.getElementById('augmentHud')?.remove();
+ const update=(playing)=>{root.hidden=!playing;const r=document.getElementById('minimap').getBoundingClientRect();if(document.body.classList.contains('mt-touch')){root.style.left=(r.right+4)+'px';root.style.top=r.top+'px';}else{root.style.left=Math.max(0,r.left-60)+'px';root.style.top=Math.max(0,r.bottom-32)+'px';}};addEventListener('resize',()=>update(!root.hidden));update(false);return{root,update};
+}

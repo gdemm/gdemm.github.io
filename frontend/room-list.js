@@ -1,0 +1,8 @@
+export function sortRoomsByPopulation(rooms){return [...rooms].sort((a,b)=>(b.connectedCount??b.count??0)-(a.connectedCount??a.count??0)||(a.createdAt??0)-(b.createdAt??0)||String(a.id).localeCompare(String(b.id)));}
+export function canJoinRoom(room){return !!room&&room.phase!=='ended'&&(room.count??room.connectedCount??0)<room.maxPlayers;}
+export function renderRoomList(root,rooms,{enabled,onJoin}){
+ rooms=sortRoomsByPopulation(rooms);
+ const signature=JSON.stringify([enabled,rooms.map(r=>[r.id,r.name,r.count,r.connectedCount,r.maxPlayers,r.phase])]);if(root.dataset.signature===signature)return;root.dataset.signature=signature;
+ const rows=rooms.map(room=>{const row=document.createElement('li');row.className='online-room-card';row.dataset.roomId=room.id;const info=document.createElement('div');info.className='online-room-info';const name=document.createElement('strong');name.textContent=room.name;const status=document.createElement('span');status.textContent=`${room.connectedCount??room.count??0}/${room.maxPlayers} 人 · ${room.phase==='waiting'?'等待中':room.phase==='playing'?'对局中':'已结束'}`;info.append(name,status);const join=document.createElement('button');join.type='button';join.textContent=room.phase==='ended'?'已结束':!canJoinRoom(room)?'已满':'加入';join.disabled=!enabled||!canJoinRoom(room);join.setAttribute('aria-label','加入房间 '+room.name);join.onclick=()=>onJoin(room.id);row.append(info,join);return row;});
+ if(!rows.length){const empty=document.createElement('li');empty.className='online-room-empty';empty.textContent='暂无房间，可以先创建一个';rows.push(empty);}root.replaceChildren(...rows);
+}

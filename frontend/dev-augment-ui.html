@@ -1,0 +1,4 @@
+<!doctype html><meta charset="utf-8"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="augment-selection.css?v=kiwi-native-2"><dialog id="augmentDialog"></dialog><aside hidden id="panel"></aside><script type="module">
+import {AugmentSelection} from './augment-selection.js?v=kiwi-layout-1';
+const p={augmentOffers:['ARAM_Deft','ARAM_ItsCritical','ARAM_Goliath'],augments:[],augmentRound:0,augmentRerolls:-1};const game={player:p,chooseAugment(){return false},rerollAugment(){return true}};const ui=new AugmentSelection(document.querySelector('dialog'),document.querySelector('aside'),{getGame:()=>game,isOnline:()=>false});ui.open();
+</script>

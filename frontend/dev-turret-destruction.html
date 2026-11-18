@@ -1,0 +1,15 @@
+<!doctype html><meta charset="utf-8"><title>Turret destruction diagnostic</title><script type="importmap">{"imports":{"three":"./vendor/three.module.js"}}</script>
+<style>html,body{margin:0;overflow:hidden;background:#101b29;color:#e8d49c;font:16px sans-serif}#stage{position:fixed;inset:0}#status{position:fixed;z-index:2;left:16px;top:14px;padding:9px 12px;background:#07111dcc;border:1px solid #8d7749}#preview{display:none}</style>
+<div id="stage"></div><div id="status">载入防御塔摧毁资源…</div><canvas id="preview"></canvas>
+<script type="module">
+import {OriginalModelRenderer} from './models3d.js?v=tower-destruction-1';
+import {Game,HEROES} from './engine.js?v=tower-destruction-1';
+import {MAP_CONFIG} from './original-map.js';
+const status=document.querySelector('#status'),view=new OriginalModelRenderer(document.querySelector('#preview'),text=>status.textContent=text);
+await view.load();
+const game=new Game(HEROES[0]);game.useOriginalMap(MAP_CONFIG,view.map.navigation);
+const tower=game.units.find(u=>u.kind==='tower'&&u.team===1&&game.canHit(u));
+status.textContent='完整塔身（1.2 秒后播放三段碎裂）';
+let last=performance.now(),elapsed=0,killed=false;
+function frame(now){const dt=Math.min(.05,(now-last)/1000);last=now;elapsed+=dt;if(!killed&&elapsed>1.2){game.hurt(tower,999999,game.player);killed=true;status.textContent=' death + left/right 动画与死亡粒子';}view.render(game,{w:innerWidth,h:innerHeight,dpr:devicePixelRatio,zoom:.82,cam:{x:tower.x,y:tower.y},cameraZoom:1.25},dt);const canvas=view.renderer.domElement;if(!canvas.parentNode)document.querySelector('#stage').append(canvas);requestAnimationFrame(frame);}requestAnimationFrame(frame);
+</script>

@@ -1,0 +1,8 @@
+<!doctype html><meta charset="utf-8"><title>Floating text diagnostic</title>
+<style>html,body{margin:0;overflow:hidden;background:radial-gradient(circle at 50% 45%,#283c49,#08131e);color:#d6c18a;font:14px sans-serif}canvas{position:fixed;inset:0;width:100%;height:100%}header{position:fixed;z-index:2;left:20px;top:18px;background:#06121dcc;border:1px solid #8c7748;padding:10px 14px}</style>
+<canvas></canvas><header>UI.wad.client 伤害 / 暴击数字诊断</header>
+<script type="module">
+import {NativeFloatingText} from './floating-text.js?v=native-floating-text-skillup-1';
+const canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d'),renderer=new NativeFloatingText(),types=['physical','magic','true'],values=[128,246,371],samples=[];for(let i=0;i<6;i++)samples.push({id:i+1,x:i%3,y:i<3?0:1,z:0,text:values[i%3],damageType:types[i%3],critical:i>=3,incoming:false,side:i%2?1:-1,age:.18,life:.67});
+function draw(now){canvas.width=innerWidth*devicePixelRatio;canvas.height=innerHeight*devicePixelRatio;ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0);ctx.clearRect(0,0,innerWidth,innerHeight);const age=(now%850)/1000;for(const f of samples)f.age=age;renderer.draw(ctx,samples,(x,y)=>({x:innerWidth*(.25+x*.25),y:innerHeight*(y?.68:.34)}),innerHeight);requestAnimationFrame(draw);}requestAnimationFrame(draw);
+</script>

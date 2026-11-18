@@ -1,0 +1,10 @@
+import {shieldUnit} from './combat-support.js';
+import {COMBAT_DATA} from './combat-data.js';
+const s=COMBAT_DATA.Sett.spells.SettW.data,target=s.mClientData.mTargeterDefinitions.find(d=>d.__type==='TargeterDefinitionCone');
+const value=(name,fallback)=>s.DataValues.find(d=>d.name===name)?.values?.[1]??fallback;
+export const SETT_W=Object.freeze({range:target.coneRange,angle:target.coneAngleDegrees,farHalfWidth:target.coneRange*Math.tan(target.coneAngleDegrees*Math.PI/360),nearHalfWidth:80,centerHalfWidth:40,windup:s.mCastTime,shieldDuration:value('ShieldMaxDuration',3),shieldDelay:value('ShieldDecayDelay',.75),shieldConversion:value('ShieldConversion',1),texture:target.textureConeOverrideName.split('/').pop().replace('.tex','')});
+// The native indicator is a trapezoid, not a point-origin generic cone.
+// Near and true-damage widths are gameplay reconstructions matching that art.
+export function settWHit(origin,dir,v,k){const x=v.x-origin.x,y=v.y-origin.y,along=(x*dir.x+y*dir.y)/k,side=Math.abs(-x*dir.y+y*dir.x)/k,r=(v.radius||0)/k;if(along < -r||along>SETT_W.range+r)return null;const t=Math.max(0,Math.min(1,along/SETT_W.range)),half=SETT_W.nearHalfWidth+(SETT_W.farHalfWidth-SETT_W.nearHalfWidth)*t;if(side>half+r)return null;return{center:side<=SETT_W.centerHalfWidth+r*.35};}
+export function startSettWShield(g,u,grit){if(u.settWShield)u.shield=Math.max(0,u.shield-u.settWShield.remaining);const amount=shieldUnit(g,u,u,grit*SETT_W.shieldConversion,SETT_W.shieldDuration,{state:'w',externalLifetime:true});u.settWShield={start:g.time,initial:amount,remaining:amount};}
+export function updateSettWShield(g,u){const w=u.settWShield;if(!w)return;const age=g.time-w.start,progress=Math.max(0,Math.min(1,(age-SETT_W.shieldDelay)/(SETT_W.shieldDuration-SETT_W.shieldDelay))),remove=Math.min(w.remaining,w.initial*Math.max(0,progress-(w.progress||0)));u.shield=Math.max(0,u.shield-remove);w.remaining=Math.max(0,w.remaining-remove);w.progress=progress;if(age>=SETT_W.shieldDuration)u.settWShield=null;}

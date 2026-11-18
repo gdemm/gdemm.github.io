@@ -1,0 +1,2 @@
+// Installed Kiwi quest definitions and SnapBack recast data.
+export const AUGMENT_QUEST_DATA={"ARAM_Multishot":{"sourceKey":"{a893ee00}","milestones":[50,250,700,2000,4000,8000]},"SpecializedEmpowerment":{"sourceKey":"{86374bbd}","milestones":[10]},"ARAM_SpecializedRecursion":{"sourceKey":"{a002e4a4}","milestones":[10,30]},"SnapBack":{"sourceKey":"{e1a039cc}","values":{"PercentOfCDForRecast":0.4000000059604645,"CDRefund":0.10000000149011612,"SnapRange":375.0}}};
